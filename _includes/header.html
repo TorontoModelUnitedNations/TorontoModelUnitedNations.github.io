@@ -39,7 +39,7 @@
 
         nav li ul {
             float: left;
-            padding-top: 20px;
+            padding-top: 10px;
             left: 0;
             width:200%;
             opacity: 0;
@@ -83,6 +83,16 @@
         }
     </style>
 
+    <script>
+        function hover(element) {
+            element.setAttribute('src', '../css/2017_style/img/logo-small-transparent-hover.svg');
+        }
+
+        function unhover(element) {
+            element.setAttribute('src', '../css/2017_style/img/logo-small-transparent.svg');
+        }
+    </script>
+
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -93,7 +103,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="/"><img src="../css/2017_style/img/logo-small-transparent.png" style="margin-top:-37%" width="75vh" alt="icon-about"></a>
+                <a class="navbar-brand page-scroll" href="/"><img src="../css/2017_style/img/logo-small-transparent.svg" onmouseover="hover(this);" onmouseout="unhover(this)"; style="margin-top:-35%" width="70vh" alt="icon-about"></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
