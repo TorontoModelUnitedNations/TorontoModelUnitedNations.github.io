@@ -23,9 +23,11 @@ published: true
 
             {% for event in day.events %}
                 <tr>
-                    <td>{{ agenda.time }}</td>
-                    <td>{{ agenda.info }}</td>
+                    <td>{{ event.time }}</td>
+                    <td>{{ event.info }}</td>
                 </tr> 
             {% endfor %}
         </table>
+      {% endfor %}
+
     </div>
