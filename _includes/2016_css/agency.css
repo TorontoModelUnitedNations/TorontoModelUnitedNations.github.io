@@ -271,8 +271,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
+.navbar-default .navbar-toggle:hover {
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -290,16 +289,15 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .navbar-nav>.active>a {
+.navbar-default .navbar-nav>a {
     border-radius: 0;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: transparent;
 }
 
-.navbar-default .navbar-nav>.active>a:hover,
-.navbar-default .navbar-nav>.active>a:focus {
+.navbar-default .navbar-nav>a:hover {
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: transparent;
 }
 
 @media(min-width:768px) {

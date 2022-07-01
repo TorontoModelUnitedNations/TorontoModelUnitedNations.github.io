@@ -1,4 +1,88 @@
 <!-- Navigation -->
+
+    <style>
+        nav ul {
+            -webkit-font-smoothing: antialiased;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav li {
+            float: left;
+            margin: 0;
+            padding: 0;
+            position: relative;
+        }
+        nav a {
+            color: #444;
+            display: block;
+            font: normal 13px/50px Arial, Helvetica, sans-serif;
+            padding: 0 25px;
+            text-align: center;
+            text-decoration: none;
+            -webkit-transition: all .25s ease;
+            -moz-transition: all .25s ease;
+            -ms-transition: all .25s ease;
+            -o-transition: all .25s ease;
+            transition: all .25s ease;
+        }
+
+        nav li:hover a {
+            background: #222222;
+            color:#FFF;
+        }
+
+        nav li:focus a {
+            background: #222222;
+            color:#FFF;
+        }
+
+        nav li ul {
+            float: left;
+            padding-top: 20px;
+            left: 0;
+            width:200%;
+            opacity: 0;
+            position: absolute;
+            top: 35px;
+            visibility: hidden;
+            z-index: 1;
+            -webkit-transition: all .25s ease;
+            -moz-transition: all .25s ease;
+            -ms-transition: all .25s ease;
+            -o-transition: all .25s ease;
+            transition: all .25s ease;
+        }
+
+        nav li:hover ul {
+            opacity: 1;
+            top: 50px;
+            visibility: visible;
+        }
+
+        nav li:focus ul {
+            opacity: 1;
+            top: 50px;
+            visibility: visible;
+        }
+
+        nav li ul li {
+            float: none;
+            width: 100%;
+        }
+        nav li ul a:hover {
+            background: #bbb;
+        }
+        /* Clearfix */
+        .cf:after, .cf:before {
+            content: "";
+            display: table;
+        }
+        .cf:after {
+            clear: both;
+        }
+    </style>
+
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -18,15 +102,36 @@
                     <li class="hidden">
                         <a href="/"></a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="../#speakers">Speakers</a>
+
+                    <li style="" tabindex="0"><a class="dropdown">About</a>
+                        <ul>
+                            <li><a href="./about">About us</a></li>
+                            <li><a href="./venue">Our venue</a></li>
+                            <li><a href="./team">Secretariat team</a></li>
+                        </ul>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="../#about">About</a>
+
+                    <li tabindex="0"><a class="dropdown">Registration</a>
+                        <ul>
+                            <li><a href="#">Overview</a></li>
+                            <li><a href="#">Financial aid</a></li>
+                        </ul>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="../#contact">Contact</a>
+
+                    <li tabindex="0"><a class="dropdown">Conference</a>
+                        <ul>
+                            <li><a href="/agenda">Schedule</a></li>
+                            <li><a href="#">Guest speakers</a></li>
+                        </ul>
                     </li>
+
+                    <li tabindex="0"><a class="dropdown">Resources</a>
+                        <ul>
+                            <li><a href="#">Delegate handbook</a></li>
+                            <li><a href="#">RoP guide</a></li>
+                        </ul>
+                    </li>
+
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
