@@ -1,3 +1,2 @@
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
 RewriteRule .* ? [F,L]
-Redirect /apply https://form.jotform.com/221864704085054
