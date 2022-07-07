@@ -1,6 +1,3 @@
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
 RewriteRule .* ? [F,L]
-RewriteEngine On
-RewriteCond %{HTTPS} !on
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
-Redirect 301 "/apply" "https://form.jotform.com/221864704085054"
+Redirect /apply https://form.jotform.com/221864704085054
