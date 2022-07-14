@@ -1,19 +1,23 @@
 ---
 layout: default_layout
 permalink: /agenda
-title: Agenda
+title: Conference schedule
 published: true
 ---
-    <!--background color-->
+    <!--background color
     <script type="text/javascript">
         document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
     </script>
 
-    <div class="event black-frame">
-      <h1>{{ page.title }}</h1>
+    div class should be black-frame
+    -->
+
+    <div class="event">
+
+      <h1 style="text-align: center;font-size: 50px ;padding-bottom: 20px" >{{ page.title }}</h1>
       {% for day in site.data.agenda %}
-        <h2>{{ day.date }}</h2>
-        <table class="agenda">
+        <h2 style="text-align: center;padding-bottom: 10px;font-size: 30px">{{ day.date }}</h2>
+        <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">
             <thead>
                 <tr>
                     <th class="row-1 agenda-time"><center>Time</center></th>
@@ -22,7 +26,7 @@ published: true
             </thead>
 
             {% for event in day.events %}
-                <tr>
+                <tr style="height: 60px">
                     <td>{{ event.time }}</td>
                     <td>{{ event.info }}</td>
                 </tr> 
