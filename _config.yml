@@ -19,6 +19,9 @@ google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 include: ['_pages']
 
+sass:
+  style: compressed
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
