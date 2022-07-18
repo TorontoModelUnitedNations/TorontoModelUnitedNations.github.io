@@ -1,5 +1,6 @@
-title: TMUN
+title: TMUN | Toronto Model United Nations
 description: TMUN is a new annual three-day high-school level Model UN conference held in downtown Toronto. # this means to ignore newlines until "baseurl:"
+tagline: TMUN is a new annual three-day high-school level Model UN conference held in downtown Toronto.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tmun.ca" # the base hostname & protocol for your site
 # Build settings
