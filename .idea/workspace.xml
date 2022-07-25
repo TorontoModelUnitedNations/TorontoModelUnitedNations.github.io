@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd044dc0-9427-4a69-bfe6-fedfa2ba58e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/2017_style/pdf/TMUN_Sponsorship_Packet.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header-home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +48,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aayush\Documents\GitHub\TorontoModelUnitedNations.github.io\css\2017_style\pdf" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Aayush\Documents\GitHub\TorontoModelUnitedNations.github.io\_data" />
       <recent name="C:\Users\Aayush\Documents\GitHub\TorontoModelUnitedNations.github.io\_sass" />
@@ -69,7 +74,8 @@
       <workItem from="1658245813386" duration="6099000" />
       <workItem from="1658320171712" duration="362000" />
       <workItem from="1658320583223" duration="1193000" />
-      <workItem from="1658347207917" duration="318000" />
+      <workItem from="1658347207917" duration="1508000" />
+      <workItem from="1658740375571" duration="1152000" />
     </task>
     <servers />
   </component>
