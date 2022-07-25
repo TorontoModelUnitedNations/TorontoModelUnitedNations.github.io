@@ -1,25 +1,74 @@
 <style>
-body {
-  position: absolute;
-  margin: 0;
-  min-height: 100%;
-  width: 100%;
-}
+    body {
+        position: absolute;
+        margin: 0;
+        min-height: 100%;
+        width: 100%;
+    }
 
-footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-}
+    footer {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background: #1c1c1c;
+    }
+
+    .icon_list {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .icon_container {
+        float: left;
+    }
+
+    .icon_container a {
+        display: block;
+        text-align: center;
+        padding: 16px;
+        text-decoration: none;
+    }
+
+    .left {
+        padding: 1em;
+    }
+
+    .right {
+        padding: 1em;
+    }
+
+    .parent {
+        display: flex;
+        overflow: hidden;
+        margin: 1em 0;
+        align-items: center;
+    }
+
+    .margin-right-auto {
+        margin-right: auto;
+    }
+
+    .fill-remaining-space {
+        flex: auto;
+    }
 </style>
 
 <footer>
     <div class="container">
-        <div class="row" style="display: flex; justify-content: space-around">
-            <div class="col-md-4" style="align-self: center">
-                <span class="copyright" style="color: #0A7B9E; font-size: large"><b>Calamus Gladio Fortior</b><br></span>
-                <span class="copyright">Website by <a href="https://github.com/AayushPanda">Aayush Panda</a></span>
+        <div class="row parent" style="display: flex; justify-content: space-between;">
+            <div class="left col-" style="justify-items: left; padding-left: 31px;">
+                <div><span class="copyright" style="color: #0A7B9E; font-size: large; padding-left: 16px"><b>Calamus Gladio Fortior</b></span></div>
+                <div><span class="copyright"><a style="color: #FFFFFF">Website by</a> <a href="https://github.com/AayushPanda">Aayush Panda</a></span></div>
+            </div>
+            <div class="fill-remaining-space"></div>
+            <div class="right">
+                <ul class="icon_list">
+                    <li class="icon_container" style="font-size: x-large"><a href="https://www.facebook.com/TMUN2023"><i class="fa fa-facebook-f"></i></a></li>
+                    <li class="icon_container" style="font-size: x-large"><a href="https://www.instagram.com/tmun_2023/"><i class="fa fa-instagram"></i></a></li>
+                    <li class="icon_container" style="font-size: x-large"><a href="mailto:delegateaffairs@tmun.ca?subject=TMUN%20Delegate%20query%3A%20&body=Delegate%20name%3A"><i class="fa fa-envelope"></i></a></li>
+                </ul>
             </div>
         </div>
     </div>
