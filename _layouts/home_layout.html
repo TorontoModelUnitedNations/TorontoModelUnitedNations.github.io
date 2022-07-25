@@ -10,17 +10,8 @@
     {% include header-home.html %}
 
     <!-- Header -->
-    <header style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;">
-        <div class="container" style="width: max-content">
-            <div class="intro-text" style="margin-top: -60px; margin-left: 30px; margin-right: 30px">
-                <div class="intro-heading"><h1 style="font-family: inherit; font-size: inherit;">Toronto Model United Nations</h1></div>
-                <div class="intro-lead-in">24-26 March, 2023</div>
-                <div class="intro-lead-in">Sheraton Centre Toronto Hotel</div>
-                <a href="https://form.jotform.com/221864704085054" target="_blank" class="page-scroll btn btn-xl" style="text-decoration: none">Staff applications open</a>
-            </div>
-        </div>
-    </header>
-
+    {% include headers/header-home.html %}
+    
     {% include intro.html %}
     {% comment %}
     {% include speakers.html %}
