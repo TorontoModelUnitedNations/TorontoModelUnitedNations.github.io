@@ -12,9 +12,8 @@ published: true
     div class should be black-frame
     -->
 
-    <div class="event">
+    <div class="event" style="padding-bottom: 5%; padding-top: 5%">
 
-      <h1 style="text-align: center;font-size: 50px ;padding-bottom: 20px" >{{ page.title }}</h1>
       {% for day in site.data.agenda %}
         <h2 style="text-align: center;padding-bottom: 10px;font-size: 30px">{{ day.date }}</h2>
         <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">

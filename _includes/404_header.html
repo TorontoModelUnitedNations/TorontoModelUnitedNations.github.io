@@ -1,0 +1,166 @@
+<!-- Navigation -->
+
+<style>
+    nav ul {
+        -webkit-font-smoothing: antialiased;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    nav li {
+        float: left;
+        margin: 0;
+        padding: 0;
+        position: relative;
+    }
+    nav a {
+        color: #444;
+        display: block;
+        font: normal 13px/50px Arial, Helvetica, sans-serif;
+        padding: 0 25px;
+        text-align: center;
+        text-decoration: none;
+        -webkit-transition: all .25s ease;
+        -moz-transition: all .25s ease;
+        -ms-transition: all .25s ease;
+        -o-transition: all .25s ease;
+        transition: all .25s ease;
+    }
+
+    nav li:hover a {
+        background: #222222;
+        color:#FFF;
+    }
+
+    nav li:focus a {
+        background: #222222;
+        color:#FFF;
+    }
+
+    nav li ul {
+        float: left;
+        padding-top: 10px;
+        left: 0;
+        width:200%;
+        opacity: 0;
+        position: absolute;
+        top: 35px;
+        visibility: hidden;
+        z-index: 1;
+        -webkit-transition: all .25s ease;
+        -moz-transition: all .25s ease;
+        -ms-transition: all .25s ease;
+        -o-transition: all .25s ease;
+        transition: all .25s ease;
+    }
+
+    nav li:hover ul {
+        opacity: 1;
+        top: 50px;
+        visibility: visible;
+    }
+
+    nav li:focus ul {
+        opacity: 1;
+        top: 50px;
+        visibility: visible;
+    }
+
+    nav li ul li {
+        float: none;
+        width: 100%;
+    }
+    nav li ul a:hover {
+        background: #bbb;
+    }
+    /* Clearfix */
+    .cf:after, .cf:before {
+        content: "";
+        display: table;
+    }
+    .cf:after {
+        clear: both;
+    }
+</style>
+
+<script>
+    function hover(element) {
+        element.setAttribute('src', '../css/2017_style/img/logo-small-transparent-hover.svg');
+    }
+
+    function unhover(element) {
+        element.setAttribute('src', '../css/2017_style/img/logo-small-transparent.svg');
+    }
+</script>
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="/"><img src="../css/2017_style/img/logo-small-transparent.svg" onmouseover="hover(this);" onmouseout="unhover(this)"; style="margin-top:-35%" width="70vh" alt="icon-about"></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="/"></a>
+                </li>
+
+                <li style="" tabindex="0"><a class="dropdown">About</a>
+                    <ul>
+                        <li><a href="./about">About us</a></li>
+                        <li><a href="./venue">Our venue</a></li>
+                        <li><a href="./team">Secretariat</a></li>
+                    </ul>
+                </li>
+
+                <li tabindex="0"><a class="dropdown">Registration</a>
+                    <ul>
+                        <li><a href="./registration">Overview</a></li>
+                        <li><a href="./fin_aid">Financial aid</a></li>
+                    </ul>
+                </li>
+
+                <li tabindex="0"><a class="dropdown">Conference</a>
+                    <ul>
+                        <li><a href="./agenda">Schedule</a></li>
+                        <li><a href="/404.html">Guest speakers</a></li>
+                    </ul>
+                </li>
+
+                <li tabindex="0"><a class="dropdown">Resources</a>
+                    <ul>
+                        <li><a href="/404.html">Delegate handbook</a></li>
+                        <li><a href="/404.html">RoP guide</a></li>
+                    </ul>
+                </li>
+
+                <li tabindex="0"><a class="dropdown">Sponsorship</a>
+                    <ul>
+                        <li><a href="/404.html">Sponsor us</a></li>
+                        <li><a href="/css/2017_style/pdf/TMUN_Sponsorship_Packet.pdf" target="_blank">Sponsorship package</a></li>
+                    </ul>
+                </li>
+
+
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+
+<!--
+        {% for page in site.pages %}
+          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+        {% endfor %}
+ -->
+
