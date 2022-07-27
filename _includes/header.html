@@ -81,6 +81,18 @@
         .cf:after {
             clear: both;
         }
+
+        .intro-heading {
+            display: inline-block;
+            padding: .5em;
+            border-top: 1px solid white;
+            border-bottom: 1px solid white;
+            color: white;
+            text-transform: uppercase;
+            font-family: Verdana,serif;
+            font-size: 2em;
+        }
+        
     </style>
 
     <script>
@@ -142,7 +154,7 @@
     <header style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; background-color: #2b2b2b">
         <div class="container" style="width: max-content">
             <div class="intro-text" style="margin-top: -60px; margin-left: 30px; margin-right: 30px">
-                <div class="intro-heading"><h1 style="text-decoration-line: underline; text-decoration-style: double;font-family: inherit; font-size: inherit;"> {{page.title}} </h1></div>
+                <div class="intro-heading"><h1 style="font-family: inherit; font-size: inherit;"> {{page.title}} </h1></div>
             </div>
         </div>
     </header>
