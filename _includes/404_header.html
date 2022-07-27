@@ -109,38 +109,20 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
+
                 <li class="hidden">
                     <a href="/"></a>
                 </li>
 
-                <li style="" tabindex="0"><a class="dropdown">About</a>
+                {% for dropdown in site.data.navbar_links %}
+                <li tabindex="0"><a class="dropdown"> {{dropdown.dropdown}} </a>
                     <ul>
-                        <li><a href="./about">About us</a></li>
-                        <li><a href="./venue">Our venue</a></li>
-                        <li><a href="./team">Secretariat</a></li>
+                        {% for link in dropdown.links %}
+                        <li><a href="{{ link.link }}"> {{link.title}} </a></li>
+                        {% endfor %}
                     </ul>
                 </li>
-
-                <li tabindex="0"><a class="dropdown">Registration</a>
-                    <ul>
-                        <li><a href="./registration">Overview</a></li>
-                        <li><a href="./fin_aid">Financial aid</a></li>
-                    </ul>
-                </li>
-
-                <li tabindex="0"><a class="dropdown">Conference</a>
-                    <ul>
-                        <li><a href="./agenda">Schedule</a></li>
-                        <li><a href="/404.html">Guest speakers</a></li>
-                    </ul>
-                </li>
-
-                <li tabindex="0"><a class="dropdown">Resources</a>
-                    <ul>
-                        <li><a href="/404.html">Delegate handbook</a></li>
-                        <li><a href="/404.html">RoP guide</a></li>
-                    </ul>
-                </li>
+                {% endfor %}
 
                 <li tabindex="0"><a class="dropdown">Sponsorship</a>
                     <ul>
