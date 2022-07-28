@@ -124,7 +124,6 @@
         function parallax() {
             var scrolled = window.pageYOffset;
             var parallax = document.querySelector(".parallax");
-            // You can adjust the 0.4 to change the speed
             var coords = (scrolled * (0 - 0.3)) + 'px'
             parallax.style.transform = 'translateY(' + coords + ')';
         }
@@ -133,8 +132,7 @@
         function parallaxBG() {
             var scrolled = window.pageYOffset;
             var parallax = document.querySelector(".parallax-wrapper");
-            // You can adjust the 0.4 to change the speed
-            var coords = (scrolled * 0.2) + 'px'
+            var coords = (scrolled * 0.25) + 'px'
             parallax.style.transform = 'translateY(' + coords + ')';
         }
 
