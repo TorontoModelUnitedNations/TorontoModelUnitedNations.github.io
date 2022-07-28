@@ -189,6 +189,9 @@
     <div class="parallax container" style="width: max-content">
         <div class="intro-text" style="margin-top: -60px; margin-left: 30px; margin-right: 30px">
             <div class="intro-heading"><h1 style="font-family: inherit; font-size: inherit;"> {{page.title}} </h1></div>
+            {% if page.headsection %}
+                {% include {{page.headsection}} %}
+            {% endif %}
         </div>
     </div>
 </header>
