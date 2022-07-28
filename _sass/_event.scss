@@ -1,8 +1,9 @@
 .event {
-  padding: 7%;
-  margin-left: 15vw;
-  margin-right: 15vw;
-  margin-bottom: 5%;
+  position: relative;
+  z-index: 1;
+  padding: 12vh 21vw;
+  margin-bottom: 10.59vh;
+  background-color: #FFFFFF;
   img {
     width: 100%;
   }
@@ -25,18 +26,21 @@
 
 @media screen and (max-width : 1200px){
   .event {
-      margin: 100px 15vw 60px 15vw;
+      padding: 100px 15vw 100px 15vw;
+      margin-bottom: 9.5vh;
   }
 }
 
-@media screen and (max-width : 760px){
+@media screen and (max-width : 768px){
   .venue-map {
     iframe {
       height: 45vh;
     }
   }
+
   .event {
-      margin: 80px 10px 10px 10px;
+      padding: 80px 50px 80px 50px;
+      margin-bottom: 4.1vh;
   }
   h1 {
     font-size: 130%;
