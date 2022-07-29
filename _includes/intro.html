@@ -1,3 +1,34 @@
+
+<script>
+    const targets = document.querySelectorAll(".target")
+
+    const observer = new IntersectionObserver(
+        entries => {
+            entries.forEach(entry => {
+                entry.target.classList.toggle("show", entry.isIntersecting)
+                if (entry.isIntersecting) observer.unobserve(entry.target)
+            })
+        }, 
+        {
+            threshold: 1,
+        }
+    )
+
+    targets.forEach(target => {
+        observer.observe(target)
+    })
+</script>
+
+<style>
+    .target{
+        opacity: 0;
+    }
+
+    .target.show {
+        opacity: 1;
+    }
+</style>
+
 <!-- Services Section -->
     <section id="intro" style="background-color: #FFFFFF; position: relative; z-index: 1">
         <div class="container" style="align-content: center;">
