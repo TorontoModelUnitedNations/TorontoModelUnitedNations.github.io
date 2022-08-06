@@ -15,7 +15,8 @@ social:
   name: Your Facebook Page
   link: "https://www.facebook.com/"
 
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
+# Google Analytics
+google_analytics: UA-113696066-2
 
 include: ['_pages']
 
