@@ -1,7 +1,7 @@
 title: TMUN | Toronto Model United Nations
 description: TMUN is a new annual three-day high-school level Model UN conference held in downtown Toronto. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tmun.ca" # the base hostname & protocol for your site
+url: "https://www.tmun.ca" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -15,7 +15,8 @@ social:
   name: Your Facebook Page
   link: "https://www.facebook.com/"
 
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
+# Google Analytics
+google_analytics: UA-113696066-2
 
 include: ['_pages']
 

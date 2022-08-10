@@ -1,0 +1,29 @@
+- dropdown: About
+  links:
+    - title: About us
+      link: ./about
+    - title: Our venue
+      link: ./venue
+    - title: Secretariat
+      link: ./secretariat
+
+- dropdown: Registration
+  links:
+    - title: Overview
+      link: ./registration
+    - title: Financial aid
+      link: ./financial_aid
+
+- dropdown: Conference
+  links:
+    - title: Schedule
+      link: ./agenda
+    - title: Guest speakers
+      link: ./guest_speakers
+
+- dropdown: Resources
+  links:
+    - title: Delegate handbook
+      link: ./handbook
+    - title: RoP guide
+      link: ./rop_guide

@@ -1,3 +1,27 @@
+.content {
+  position: relative;
+  z-index: 1;
+  padding: 12vh 21vw;
+  margin-bottom: 10.59vh;
+  background-color: #FFFFFF;
+}
+
+@media screen and (max-width : 1200px){
+  .content {
+    padding: 100px 15vw 100px 15vw;
+    margin-bottom: 9.5vh;
+  }
+}
+
+@media screen and (max-width : 768px){
+  .content {
+    padding: 80px 50px 80px 50px;
+    margin-bottom: 4.1vh;
+  }
+
+}
+
+
 h1.team-h1 {
   position: relative;
   text-align: center;
