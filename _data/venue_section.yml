@@ -1,30 +1,30 @@
 - title: Lobby
-  img1: sophie.jpg
-  img2: sophie.jpg
-  img3: sophie.jpg
+  img1: lobby1
+  img2: lobby2
+  img3: lobby3
   alt: Pictures of Lobby
 
 - title: Rooms
-  img1: edward.jpg
-  img2: edward.jpg
-  img3: edward.jpg
+  img1: rooms1
+  img2: rooms2
+  img3: rooms3
   thumbnail: sophie.jpg
   alt: Pictures of Rooms
 
 - title: Meeting Rooms
-  img1: Hamzah.jpg
-  img2: Hamzah.jpg
-  img3: Hamzah.jpg
+  img1: meetings1
+  img2: meetings2
+  img3: meetings3
   alt: Pictures of Meeting Room
 
 - title: Activities
-  img1: jacob.jpg
-  img2: jacob.jpg
-  img3: jacob.jpg
+  img1: activities1
+  img2: activities2
+  img3: activities3
   alt: Pictures of Activities
 
 - title: Nearby Attractions
-  img1: Suri.jpg
-  img2: Suri.jpg
-  img3: Suri.jpg
+  img1: attractions1
+  img2: attractions2
+  img3: attractions3
   alt: Pictures of Nearby Attractions
