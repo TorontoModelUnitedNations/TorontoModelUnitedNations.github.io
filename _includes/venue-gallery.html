@@ -24,6 +24,10 @@
         rightButton.addEventListener("click", function(e){
             e.preventDefault;
 
+            titleElement.classList.remove('run-animation-left-fast');
+            void titleElement.offsetWidth;
+            titleElement.classList.add('run-animation-left-fast')
+
             imageElements.forEach((elm, i) => {
                 elm.classList.remove('run-animation-left');
                 elm.classList.remove('run-animation-right');
@@ -31,8 +35,6 @@
                 elm.classList.add('run-animation-left')
             })
         }, false);
-
-        titleElement.textContent = venue_section_data[idx].title;
     }
 
     function moveLeft() {
@@ -56,6 +58,10 @@
         leftButton.addEventListener("click", function(e){
             e.preventDefault;
 
+            titleElement.classList.remove('run-animation-left-fast');
+            void titleElement.offsetWidth;
+            titleElement.classList.add('run-animation-left-fast')
+
             imageElements.forEach((elm, i) => {
                 elm.classList.remove('run-animation-right');
                 elm.classList.remove('run-animation-left');
@@ -63,8 +69,6 @@
                 elm.classList.add('run-animation-right')
             })
         }, false);
-
-        titleElement.textContent = venue_section_data[idx].title;
 
     }
 </script>

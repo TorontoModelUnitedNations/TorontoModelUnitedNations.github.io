@@ -29,7 +29,19 @@
 
         @keyframes slideInFromLeft {
             0% {
-                transform: translateX(-40%);
+                transform: translateX(-60%);
+                opacity: 0;
+            }
+            
+            100% {
+                transform: translate(0);
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideInFromLeft2 {
+            0% {
+                transform: translateX(-1%);
                 opacity: 0;
             }
             
@@ -41,7 +53,7 @@
 
         @keyframes slideInFromRight {
             0% {
-                transform: translateX(40%);
+                transform: translateX(60%);
                 opacity: 0;
             }
             100% {
@@ -73,6 +85,12 @@
            position: relative;
            animation: slideInFromLeft 1s ease;
        }
+
+       .run-animation-left-fast {
+           position: relative;
+           animation: slideInFromLeft2 1s ease;
+       }
+
 
        .run-animation-right {
            position: relative;
