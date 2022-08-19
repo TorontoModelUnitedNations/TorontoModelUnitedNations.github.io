@@ -18,21 +18,58 @@
         imageElements.forEach((elm, i) => {
             elm.src = `./css/2016_style/img/gallery/${venue_section_data[idx]["img" + String(i + 1)] + ".png"}`
         })
+
+        const rightButton = document.getElementById("button-right")
+
+        rightButton.addEventListener("click", function(e){
+            e.preventDefault;
+
+            titleElement.classList.remove('run-animation-left-fast');
+            void titleElement.offsetWidth;
+            titleElement.classList.add('run-animation-left-fast')
+
+            imageElements.forEach((elm, i) => {
+                elm.classList.remove('run-animation-left');
+                elm.classList.remove('run-animation-right');
+                void elm.offsetWidth;
+                elm.classList.add('run-animation-left')
+            })
+        }, false);
     }
 
     function moveLeft() {
+
         if (idx == 0) {
             idx = maxIdx
         }
 
+        idx = (idx - 1) % maxIdx;
+
         const titleElement = document.getElementById("title")
         const imageElements = [1, 2, 3].map(num => document.getElementById(`image${num}`));
 
-        idx = (idx - 1) % maxIdx;
         titleElement.textContent = venue_section_data[idx].title;
         imageElements.forEach((elm, i) => {
             elm.src = `./css/2016_style/img/gallery/${venue_section_data[idx]["img" + String(i + 1)] + ".png"}`
         })
+
+        const leftButton = document.getElementById("button-left")
+
+        leftButton.addEventListener("click", function(e){
+            e.preventDefault;
+
+            titleElement.classList.remove('run-animation-left-fast');
+            void titleElement.offsetWidth;
+            titleElement.classList.add('run-animation-left-fast')
+
+            imageElements.forEach((elm, i) => {
+                elm.classList.remove('run-animation-right');
+                elm.classList.remove('run-animation-left');
+                void elm.offsetWidth;
+                elm.classList.add('run-animation-right')
+            })
+        }, false);
+
     }
 </script>
 
@@ -42,15 +79,15 @@
         <h1 id="title">{{ site.data.venue_section[0].title }}</h1>
         <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
             <button style="background: none; border: none;">
-                <img src="./css/2016_style/img/arrow.png" class="img-responsive img-centered" alt="arrow" style="margin-right: 5px; width: 50px; height: 50px; transform: rotate(-180deg);" onclick="moveLeft()">
+                <img src="./css/2016_style/img/arrow.png" id="button-left" class="img-responsive img-centered" alt="arrow" style="margin-right: 100px; width: 50px; height: 50px; transform: rotate(-180deg);" onclick="moveLeft()">
             </button>
             <div style="display: flex; flex-wrap: wrap;">
                 <img id="image1" src="./css/2016_style/img/gallery/{{ site.data.venue_section[0].img1 }}.png" class="img-responsive img-centered" alt="{{site.data.venue_section[0].alt}}" style="margin: 25px; width: 300px; height: 250px; object-fit: cover;">
-                <img id="image2" src="./css/2016_style/img/gallery/{{ site.data.venue_section[0].img2 }}.png" class="img-responsive img-centered" alt="{{site.data.venue_section[0].alt}}" style="margin: 25px; width: 300px; height: 250px; object-fit: cover;">
+                <img id="image2" src="./css/2016_style/img/gallery/{{ site.data.venue_section[0].img2 }}.png" class="img-responsive img-centered" alt="{{site.data.venue_section[0].alt}}" style="margin: 25px; margin-left: 50px; margin-right: 50px; width: 300px; height: 250px; object-fit: cover;">
                 <img id="image3" src="./css/2016_style/img/gallery/{{ site.data.venue_section[0].img3 }}.png" class="img-responsive img-centered" alt="{{site.data.venue_section[0].alt}}" style="margin: 25px; width: 300px; height: 250px; object-fit: cover;">
             </div>
             <button style="background: none; border: none;">
-                <img src="./css/2016_style/img/arrow.png" class="img-responsive img-centered" alt="arrow" style="margin-left: 5px; width: 50px; height: 50px;" onclick="moveRight()">
+                <img src="./css/2016_style/img/arrow.png" id="button-right" class="img-responsive img-centered" alt="arrow" style="margin-left: 100px; width: 50px; height: 50px;" onclick="moveRight()">
             </button>
         </div>
     </div>
