@@ -26,6 +26,29 @@
                 opacity: 1;
             }
         }
+
+        @keyframes slideInFromLeft {
+            0% {
+                transform: translateX(-40%);
+                opacity: 0;
+            }
+            
+            100% {
+                transform: translate(0);
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideInFromRight {
+            0% {
+                transform: translateX(40%);
+                opacity: 0;
+            }
+            100% {
+                transform: translate(0);
+                opacity: 1;
+            }
+        }
  
        @keyframes scaleOut {
            0% { opacity: 0;
@@ -44,6 +67,16 @@
            100% {
                opacity: 1;
            }
+       }
+
+       .run-animation-left {
+           position: relative;
+           animation: slideInFromLeft 1s ease;
+       }
+
+       .run-animation-right {
+           position: relative;
+           animation: slideInFromRight 1s ease;
        }
 
     </style>
