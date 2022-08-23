@@ -1,0 +1,140 @@
+<style>
+
+    .acc_h2 {
+        color: #282F35;
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 20px;
+        letter-spacing: 1px;
+        margin: 0;
+        text-transform: uppercase;
+    }
+
+    .acc p {
+        color: #666666;
+        font-size: 15px;
+        line-height: 1.5;
+        margin: 20px;
+    }
+
+    .acc_container {
+        max-width: 60vw;
+        margin: 0 auto;
+    }
+
+    .acc {
+        margin: 90px 0;
+        overflow: hidden;
+        padding: 0;
+    }
+
+    .acc li {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .acc_ctrl {
+        background: #FFFFFF;
+        border: none;
+        border-top: solid 1px #C9C9C9;
+        border-bottom: solid 1px #C9C9C9;
+        cursor: pointer;
+        display: block;
+        outline: none;
+        padding: 2em;
+        position: relative;
+        text-align: center;
+        width: 100%;
+        transition: 0.3s;
+    }
+
+    .acc_ctrl:before {
+        background: #0A7B9E;
+        content: '';
+        height: 2px;
+        margin-right: 37px;
+        position: absolute;
+        right: 0;
+        top: 50%;
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        transform: rotate(90deg);
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+        width: 14px;
+    }
+
+    .acc_ctrl:after {
+        background: #0A7B9E;
+        content: '';
+        height: 2px;
+        margin-right: 37px;
+        position: absolute;
+        right: 0;
+        top: 50%;
+        width: 14px;
+    }
+
+    .acc_ctrl.active:before {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    .acc_ctrl.active h2, .acc_ctrl:focus h2 {
+        position: relative;
+    }
+
+    .acc_ctrl:hover{
+        background: #F2F2F2;
+    }
+
+    .acc_panel {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        display: none;
+        overflow: hidden;
+    }
+</style>
+
+
+
+<section id="faq">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script>
+        $(function () {
+            $(".acc_ctrl").on("click", function (e) {
+                e.preventDefault();
+                if ($(this).hasClass("active")) {
+                    $(this).removeClass("active");
+                    $(this).next().stop().slideUp(300);
+                } else {
+                    $(this).addClass("active");
+                    $(this).next().stop().slideDown(300);
+                }
+            });
+        });
+    </script>
+    <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Frequently asked questions</h2>
+    </div>
+    <div class="acc_container">
+        <ul class="acc">
+            {% for faq in site.data.faqs %}
+            <li>
+                <button class="acc_ctrl"><div class="acc_h2" style="text-align: left">{{ faq.question }}</div></button>
+                <div class="acc_panel">
+                    <p>{{ faq.answer }}</p>
+                </div>
+            </li>
+            {% endfor %}
+
+        </ul>
+    </div>
+</section>
