@@ -1,37 +1,37 @@
 - dropdown: About
   links:
     - title: About us
-      link: ./about
+      link: /about
     - title: Our venue
-      link: ./venue
+      link: /venue
     - title: Secretariat
-      link: ./secretariat
+      link: /secretariat
 
 - dropdown: Registration
   links:
     - title: Overview
-      link: ./registration
+      link: /registration
     - title: Payments
-      link: ./payments
+      link: /payments
 
 - dropdown: Conference
   links:
     - title: Schedule
-      link: ./agenda
+      link: /agenda
     - title: Guest Speakers
-      link: ./guest_speakers
+      link: /guest_speakers
 
 - dropdown: Committees
   links:
     - title: Committee Program
-      link: ./committee_program
+      link: /committee_program
     - title: Country Matrix
-      link: ./country_matrix
+      link: /country_matrix
 
 - dropdown: Resources
   links:
     - title: Delegate handbook
-      link: ./handbook
+      link: /handbook
     - title: RoP guide
-      link: ./rop_guide
+      link: /rop_guide
 
