@@ -9,16 +9,24 @@ banner: true
 <!-- Event snippet for Website traffic conversion page --> <script> gtag('event', 'conversion', {'send_to': 'AW-10975379104/3v4oCL3b5dkDEKD9u_Eo'}); </script>
 
 <div class="event">
-
     <p>
-
-
         {% for subheading in site.data.committees %}
-    <p style="font-size: x-large; text-align: left; white-space: pre-wrap;"><b>{{ subheading.title }}</b><br><p>
-    {{subheading.info}}
-    <br><br>
-    {% endfor %}
-
-</p>
-
+            <p style="font-size: x-large; text-align: left; white-space: pre-wrap;"><b>{{ subheading.title }}</b><p>
+            {{subheading.info}}
+        {% endfor %}
+    </p>
+    <p>
+        {% for linkhead in site.data.committees %}
+            <p style="font-size: x-large; text-align: left; white-space: pre-wrap;"><b>{{ linkhead.header }}</b><br><p>
+            {% for link in linkhead.links %}
+                <p style="margin-left: 25px"><a href="{{link.link}}" style="color: black">{{link.info}}</a></p>
+            {% endfor %}
+        {% endfor %}
+    </p>
 </div>
+
+<li class="hidden">
+    <a href="/"></a>
+</li>
+
+
