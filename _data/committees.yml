@@ -7,27 +7,27 @@
 - header: General Assemblies and ECOSOCs
   links: 
   - title: "Disarment and International Security Committee"
-    url: /committee_program/DISC
+    url: DISC
   - title: "Legal Committee"
-    url: /committee_program/legal-committee
+    url: legal-committee
   - title: "GA 1"
-    url: ./GA-1
+    url: GA-1
   - title: "United Nations Commission on the Status of Women"
-    url: /committee_program/UNCSW
+    url: UNCSW
 - header: Crisis Committees
   links: 
   - title: "Marvel Multiverse"
-    url: /committee_program/marvel-multiverse
+    url: marvel-multiverse
   - title: "Arab Spring"
-    url: /committee_program/arab-spring
+    url: arab-spring
   - title: "Russian-Ukrainian Peace Negotations"
-    url: /committee_program/RUPN
+    url: RUPN
 - header: Online Committees
   links: 
   - title: "World Health Organization"
-    url: /committee_program/WHO
+    url: WHO
   - title: "United Nations Comission on Science and Technology"
-    url: /committee_program/UNCST
+    url: UNCST
         
 
 
