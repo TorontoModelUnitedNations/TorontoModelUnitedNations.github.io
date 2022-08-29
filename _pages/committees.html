@@ -1,0 +1,24 @@
+---
+layout: default_layout
+permalink: /committees
+title: Committees
+published: true
+banner: true
+---
+
+<!-- Event snippet for Website traffic conversion page --> <script> gtag('event', 'conversion', {'send_to': 'AW-10975379104/3v4oCL3b5dkDEKD9u_Eo'}); </script>
+
+<div class="event">
+
+    <p>
+
+
+        {% for subheading in site.data.committees %}
+    <p style="font-size: x-large; text-align: left; white-space: pre-wrap;"><b>{{ subheading.title }}</b><br><p>
+    {{subheading.info}}
+    <br><br>
+    {% endfor %}
+
+</p>
+
+</div>
