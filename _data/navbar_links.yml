@@ -11,11 +11,17 @@
   links:
     - title: Overview
       link: ./registration
+    - title: Payments
+      link: ./payments
 
 - dropdown: Conference
   links:
     - title: Schedule
       link: ./agenda
+    - title: Commitees
+      link: ./commitees
+    - title: Matrix
+      link: ./matrix
 
 - dropdown: Resources
   links:
