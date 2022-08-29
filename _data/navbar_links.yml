@@ -18,10 +18,15 @@
   links:
     - title: Schedule
       link: ./agenda
-    - title: Committees
-      link: ./committees
-    - title: Matrix
-      link: ./matrix
+    - title: Guest Speakers
+      link: ./guest_speakers
+
+- dropdown: Committees
+  links:
+    - title: Committee Program
+      link: ./committee_program
+    - title: Country Matrix
+      link: ./country_matrix
 
 - dropdown: Resources
   links:
