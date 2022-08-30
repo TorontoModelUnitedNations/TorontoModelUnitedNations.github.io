@@ -12,8 +12,9 @@ logo: "../css/2016_style/img/icon-large.png"
 
 image:
   path: /css/2016_style/img/logo-small-transparent.png
-  height: 1000
-  width: 1000
+  height: 100
+  width: 100
+  alt: Twitter Logo
 
 social: 
   name: Your Facebook Page
