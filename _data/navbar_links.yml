@@ -6,7 +6,7 @@
       link: ./venue
     - title: Secretariat
       link: ./secretariat
-    - title: FAQs
+    - title: FAQ
       link: ./faq
 - dropdown: Registration
   links:
