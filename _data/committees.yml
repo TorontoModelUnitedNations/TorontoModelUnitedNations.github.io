@@ -17,17 +17,6 @@
     - title: "Topic B: Present and future humanitarian impacts of nuclear weapons testing"
       image: image_url
 
-  - title: Russo-Ukrainian Peace Negotiations
-    url: RUPN
-    image: rupn.jpeg
-    description: "In the midst of the largest full-scale invasion since the conclusion of the second world war, the world lies in a state of crisis in light of the 2022 Russian invasion of Ukraine. Set in the months following the start, delegates in this committee will attempt to come to terms with the conflict, the issues, and themselves. From Russian & Ukrainian military leaders to foreign ambassadors and organizations, delegates here will have the task of resolving the 21st century's biggest conflict to best suit their political agendas. Will you be able to come out on top? Or will you fall to the wrath of modern geopolitics and conflict? Whatever happens, may the best delegate win."
-    director: Mohit Bhabak
-  - topics:
-      - title: "Topic A: Sanctions & the Economic State of the World"
-        image: image_url
-      - title: "Topic B: Seperarist Regions & Political Control"
-        image: image_url
-
   - title: Legal Committee
     url: legal_committee
     image: legal.jpg
@@ -44,17 +33,6 @@
     image: UNICEF.jpg
     description: "The United Nations Children's Fund (UNICEF), founded in the year 1946, is a humanitarian agency developed for the purpose of protecting the rights and freedoms of children worldwide. Initially created as an emergency response to the dire situation that World War II left children in across the globe, the organization began to work towards combating famine and disease in the youth population. Not long after, The United Nations then extended UNICEF's mandate, thereby establishing it as a committee dedicated to the advocation and protection of the wellbeing of children. Today, the committee's goal is to strive towards overcoming poverty, disease, and exploitation, as well as providing aid for the education, health, and welfare of children."
     director: Sumaiyya Mahmood
-  - topics:
-      - title: "Topic A: Sanctions & the Economic State of the World"
-        image: image_url
-      - title: "Topic B: Seperarist Regions & Political Control"
-        image: image_url
-
-  - title: Multiverse of Madness
-    url: multiverse_of_madness
-    image: multiverse_of_madness.jpg
-    description: "SHIELD Director Nick Fury once created a group of remarkable people to face extraordinary threats; the Avengers. Decades later, these super powered individuals have fought various opponents, including hardened criminals, and interplanetary species. However the Avengers are now faced with a new challenge, a portal to the Multiverse has been opened by an unknown source, and creatures are causing chaos. Based on the popular Marvel Cinematic Franchise, delegates will have to make choices to not only protect Earth, but to protect the entire universe."
-    director: Abigail Nicholas
   - topics:
       - title: "Topic A: Sanctions & the Economic State of the World"
         image: image_url
@@ -83,6 +61,28 @@
         - title: "Topic A: Taking Steps to Rebuild Tunisia"
           image: image_url
         - title: "Topic B: Rising Tensions in Arab States After the Fall of Al Abadine"
+          image: image_url
+
+    - title: Multiverse of Madness
+      url: multiverse_of_madness
+      image: multiverse_of_madness.jpg
+      description: "SHIELD Director Nick Fury once created a group of remarkable people to face extraordinary threats; the Avengers. Decades later, these super powered individuals have fought various opponents, including hardened criminals, and interplanetary species. However the Avengers are now faced with a new challenge, a portal to the Multiverse has been opened by an unknown source, and creatures are causing chaos. Based on the popular Marvel Cinematic Franchise, delegates will have to make choices to not only protect Earth, but to protect the entire universe."
+      director: Abigail Nicholas
+    - topics:
+        - title: "Topic A: Sanctions & the Economic State of the World"
+          image: image_url
+        - title: "Topic B: Seperarist Regions & Political Control"
+          image: image_url
+
+    - title: Russo-Ukrainian Peace Negotiations
+      url: RUPN
+      image: rupn.jpeg
+      description: "In the midst of the largest full-scale invasion since the conclusion of the second world war, the world lies in a state of crisis in light of the 2022 Russian invasion of Ukraine. Set in the months following the start, delegates in this committee will attempt to come to terms with the conflict, the issues, and themselves. From Russian & Ukrainian military leaders to foreign ambassadors and organizations, delegates here will have the task of resolving the 21st century's biggest conflict to best suit their political agendas. Will you be able to come out on top? Or will you fall to the wrath of modern geopolitics and conflict? Whatever happens, may the best delegate win."
+      director: Mohit Bhabak
+    - topics:
+        - title: "Topic A: Sanctions & the Economic State of the World"
+          image: image_url
+        - title: "Topic B: Seperarist Regions & Political Control"
           image: image_url
 
 - header: Online Committees
