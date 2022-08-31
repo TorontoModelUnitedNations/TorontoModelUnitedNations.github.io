@@ -5,8 +5,9 @@
     - title: Our venue
       link: /venue
     - title: Secretariat
-      link: /secretariat
-
+      link: ./secretariat
+    - title: FAQ
+      link: ./faq
 - dropdown: Registration
   links:
     - title: Overview

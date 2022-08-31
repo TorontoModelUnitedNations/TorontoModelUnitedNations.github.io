@@ -1,3 +1,11 @@
+---
+layout: default_layout
+permalink: /faq
+title: Frequently Asked Questions
+published: true
+banner: true;
+---
+
 <style>
 
     .acc_h2 {
@@ -105,7 +113,7 @@
 
 
 
-<section id="faq">
+<div class="event">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <script>
         $(function () {
@@ -121,20 +129,18 @@
             });
         });
     </script>
-    <div class="col-lg-12 text-center">
-        <h2 class="section-heading">Frequently asked questions</h2>
-    </div>
+
     <div class="acc_container">
         <ul class="acc">
             {% for faq in site.data.faqs %}
             <li>
                 <button class="acc_ctrl"><div class="acc_h2" style="text-align: left">{{ faq.question }}</div></button>
                 <div class="acc_panel">
-                    <p>{{ faq.answer }}</p>
+                    <p style="font-size: medium">{{ faq.answer }}</p>
                 </div>
             </li>
             {% endfor %}
 
         </ul>
     </div>
-</section>
+</div>
