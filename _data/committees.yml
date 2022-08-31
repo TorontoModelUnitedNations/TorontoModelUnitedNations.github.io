@@ -6,42 +6,108 @@
 
 - header: General Assemblies and ECOSOCs
   links: 
-  - title: "Disarment and International Security Committee"
+  - title: Disarment and International Security Committee
     url: DISC
     image: DISC.jpg
-    description: TMUN 2023 will run in a hybrid format, with eight exciting in-person committees and two online
-         committees. With offerings ranging from the classic Disarmament and International Security Committee to the new and innovative Mars Crisis Committee, there is a committee for everyone.
-         <br><br>
-         During the registration process, delegates will be able to indicate the top three committees that they would like to participate in. While we cannot guarantee that delegates will be placed in their preferred committees, it is more likely that you will receive your preferred committee if you register earlier. To see a list of countries/characters within the different committees, please check out our <a href='./matrix'>Country Matrix</a>.
+    description: "DISEC or the Disarmament and International Security Committee is a prominent General Assembly committee addressing issues and deterrents to achieving a global peace.  Topics that are often discussed relate to weapons, disarmament, and the safety of those affected by armed conflict. Dealing with not only global threats to peace, this important committee discusses solutions through international cooperation to achieve the principles in governing disarmament and agenda goals. Delegates will represent nations partaking in the DISEC committee to address the topics introduced for the session. This committee is fundamental in preserving a state of peace between great powers, and enforcing law and stability on an extensive scale."
+    director: Samuel Wu
+  - topics:
+    - title: "Topic A: The regulation of illegitimate weapons dealings in conflict areas and their effects"
+      image: image_url
+    - title: "Topic B: Present and future humanitarian impacts of nuclear weapons testing"
+      image: image_url
 
-  - title: "Legal Committee"
-    url: legal-committee
-    image: LegalCommittee.jpg
-  - title: "Social, Cultural, and Humanitarian Committee"
-    url: SCHC
-    image: SCHC.jpg
-  - title: "United Nations Commission on the Status of Women"
-    url: UNCSW
-    image: UNCSW.jpg
-- header: Crisis Committees
-  links: 
-  - title: "Marvel Multiverse"
-    url: marvel-multiverse
-    image: MarvelMultiverse.jpg
-  - title: "Arab Spring"
-    url: arab-spring
-    image: ArabSpring.jpg
-  - title: "Russian-Ukrainian Peace Negotations"
+  - title: Russo-Ukrainian Peace Negotiations
     url: RUPN
-    image: RUPN.jpg
+    image: rupn.jpeg
+    description: "In the midst of the largest full-scale invasion since the conclusion of the second world war, the world lies in a state of crisis in light of the 2022 Russian invasion of Ukraine. Set in the months following the start, delegates in this committee will attempt to come to terms with the conflict, the issues, and themselves. From Russian & Ukrainian military leaders to foreign ambassadors and organizations, delegates here will have the task of resolving the 21st century's biggest conflict to best suit their political agendas. Will you be able to come out on top? Or will you fall to the wrath of modern geopolitics and conflict? Whatever happens, may the best delegate win."
+    director: Mohit Bhabak
+  - topics:
+      - title: "Topic A: Sanctions & the Economic State of the World"
+        image: image_url
+      - title: "Topic B: Seperarist Regions & Political Control"
+        image: image_url
+
+  - title: Legal Committee
+    url: legal_committee
+    image: legal.jpg
+    description: "Established in 1947, the United Nations General Assembly Sixth Committee, also known as the Legal committee, is a primary forum that focuses on the development of international law and other legal matters concerning the United Nations. Annually, the Legal committee circulates around 5 main topic areas, namely the promotion of justice and international law, accountability and internal United Nations justice matters, Drug control, Crime prevention, and Combating international terrorism. However, here in the Legal committee, delegates will debate on the wide variety of global matters from the perspective of their legitimacy with great focus on established international law and national sovereignty. At TMUN 2022, delegates of the Legal committee will not only engage in 3 days of civilized debate, but also receive insightful takeaways on the United Nations Legal conventions to last. This committee holds great expectations of offering a collaborative and educational environment for all, and hopes to witness creative and original solutions that address the agenda topics."
+    director: Sarah Hu
+  - topics:
+      - title: "Topic A: Sanctions & the Economic State of the World"
+        image: image_url
+      - title: "Topic B: Seperarist Regions & Political Control"
+        image: image_url
+
+  - title: United Nations Children’s Fund
+    url: UNICEF
+    image: UNICEF.jpg
+    description: "The United Nations Children's Fund (UNICEF), founded in the year 1946, is a humanitarian agency developed for the purpose of protecting the rights and freedoms of children worldwide. Initially created as an emergency response to the dire situation that World War II left children in across the globe, the organization began to work towards combating famine and disease in the youth population. Not long after, The United Nations then extended UNICEF's mandate, thereby establishing it as a committee dedicated to the advocation and protection of the wellbeing of children. Today, the committee's goal is to strive towards overcoming poverty, disease, and exploitation, as well as providing aid for the education, health, and welfare of children."
+    director: Sumaiyya Mahmood
+  - topics:
+      - title: "Topic A: Sanctions & the Economic State of the World"
+        image: image_url
+      - title: "Topic B: Seperarist Regions & Political Control"
+        image: image_url
+
+  - title: Multiverse of Madness
+    url: multiverse_of_madness
+    image: multiverse_of_madness.jpg
+    description: "SHIELD Director Nick Fury once created a group of remarkable people to face extraordinary threats; the Avengers. Decades later, these super powered individuals have fought various opponents, including hardened criminals, and interplanetary species. However the Avengers are now faced with a new challenge, a portal to the Multiverse has been opened by an unknown source, and creatures are causing chaos. Based on the popular Marvel Cinematic Franchise, delegates will have to make choices to not only protect Earth, but to protect the entire universe."
+    director: Abigail Nicholas
+  - topics:
+      - title: "Topic A: Sanctions & the Economic State of the World"
+        image: image_url
+      - title: "Topic B: Seperarist Regions & Political Control"
+        image: image_url
+
+- header: Crisis Committees
+  links:
+    - title: Arab Spring
+      url: arab_spring
+      image: AS.jpg
+      description: "What began with an upset produce vendor in Tunisia who lit himself on fire to protest the corrupt regime under Zine El Abidine Ben Ali, would later lead to one of the most significant revolutions in human history. With a total of 6 governments overthrown, multiple civil wars, and 20 countries directly affected, some resulted in the original goal of achieving freedom, liberty, human rights, and democracy but the majority resulted in ongoing civil wars and increased tyranny from the government. This is due to the various actors with varying points of view from the corrupt governments, to the protesters, to extremist organizations, to external Western nations choosing sides. This crisis committee took place on January 14th, 2011, the end of the overthrow of the Tunisia government and the beginning of the protests in the Arab world. Your task as delegates representing various actors is to achieve your agenda - whatever agenda that may be."
+      director: Adam Ben Lassoued
+    - topics:
+        - title: "Topic A: Taking Steps to Rebuild Tunisia"
+          image: image_url
+        - title: "Topic B: Rising Tensions in Arab States After the Fall of Al Abadine"
+          image: image_url
+
+    - title: The Humanity Beyond — Mars 2050
+      url: Mars
+      image: mars.jpg
+      description: "The staff members of the Mars Crisis Committee are beyond excited to welcome you to TMUN 2023! This committee takes place in the future, where the living condition on Earth does not allow us to stay on our home planet anymore and forces us to start colonizing Mars. In this fast-paced crisis committee, you will be challenged to face multiple issues. Tasked with managing the Earth-Mars voyage and distributing land on Mars, you will represent space agencies and institutions and will use your creativity, diplomacy, and ability to negotiate throughout the conference. Remember, the fate of the human race is in your hands!"
+      director: Yuqing Zhou
+    - topics:
+        - title: "Topic A: Taking Steps to Rebuild Tunisia"
+          image: image_url
+        - title: "Topic B: Rising Tensions in Arab States After the Fall of Al Abadine"
+          image: image_url
+
 - header: Online Committees
-  links: 
-  - title: "World Health Organization"
-    url: WHO
-    image: WHO.jpg
-  - title: "United Nations Comission on Science and Technology"
-    url: UNCST
-    image: UNCST.jpg
-        
+  links:
+    - title: World Health Organisation
+      url: WHO
+      image: WHO.jpg
+      description: "The World Health Organization targets all issues related to the topic of global health, which may be intertwined with global politics. Healthcare inequalities continue to worsen, especially between low and high income communities, with large discrepancies in both quality and quantity of care. The COVID-19 pandemic caused a global health crisis, a crisis which can be avoided in the future if countries choose to be prepared. Both issues come with long and diverse backgrounds of information. But if one thing is for sure, these are prominent issues that must be addressed imminently."
+      director: Seth Goyal
+    - topics:
+        - title: "Topic A: Healthcare Inequality in the Developing World"
+          image: image_url
+        - title: "Topic B: Post Effects of the COVID-19 Virus"
+          image: image_url
+
+    - title: Commission on Science and Technology for Development
+      url: UNCSTD
+      image: UNCSTD.jpg
+      description: "This GA committee has the general theme of technological issues around the planet. With a rapidly changing world, industries are changing and many countries are being left behind. New industries and frontiers also open up new legal challenges and delegates must ensure their countries' concerns are heard when writing resolutions. Discussions can range from new space travel regulations in response to the moon base planned in the USA's Artemis moon mission, the impact of AI and automation around the world, and the movement of rare earth metals for green technologies. Delegates must cooperate to come to agreements to make sure their country is at the edge of innovation."
+      director: Dhyey Bhatt
+    - topics:
+        - title: "Topic A: Global Impact of Artificial Intelligence / Automation"
+          image: image_url
+        - title: "Topic B: Technological Cooperation on Climate Change"
+          image: image_url
+
 
 
