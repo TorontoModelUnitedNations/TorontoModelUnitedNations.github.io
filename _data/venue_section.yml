@@ -1,18 +1,9 @@
-- title: Lobby
-  img1: lobby1
-  img2: lobby2
-  img3: lobby3
-  alt: Pictures of Lobby
 
-- title: Rooms
-  img1: rooms1
-  img2: rooms2
-  img3: rooms3
-  alt: Pictures of Rooms
+- img: lobby1
+- img: lobby2
+- img: lobby3
+- img: meetings1
+- img: meetings2
+- img: meetings3
 
-- title: Meeting Rooms
-  img1: meetings1
-  img2: meetings2
-  img3: meetings3
-  alt: Pictures of Meeting Room
 
