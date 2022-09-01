@@ -1,22 +1,39 @@
 
+<head>
+    <style>
+        .snaps-inline {
+            scroll-snap-type: inline mandatory;
+            scroll-padding-inline: 1rem;
+        }
+
+        .snaps-inline > * {
+            scroll-snap-align: start;
+        }
+
+        .media-scroller {
+            display: grid;
+            grid-auto-flow: column;
+            grid-auto-columns: 21%;
+            overflow-x: auto;
+            overscroll-behavior-inline: contain;
+        }
+
+
+
+        
+    </style>
+</head>
+
 <div>
-    <h2 class="section-heading" style="font-size: 50px; margin-left: 100px">Venue Gallery</h2>
+    <h2 class="section-heading" style="font-size: 45px; text-align: center; width: 100%; padding-bottom: 5vh;">Venue Gallery</h2>
     <div class="container" style="background-color: rgb(238, 242, 244); margin-left: 100px; margin-bottom: 200px; width: 90%;">
-        <div style="display: grid; grid-auto-flow: column; grid-auto-columns: 25%; overflow-x: auto; overscroll-behavior-inline: contain; padding-bottom: 30px; padding-top: 30px; gap: 5rem; ">
+        <div class="media-scroller snaps-inline" style="padding-bottom: 30px; padding-top: 30px; gap:5rem;">
             {% for image in site.data.venue_section %}
-                <img id="{{ image.img }}" src="./css/2016_style/img/gallery/{{ image.img }}.png" class="img-responsive img-centered snaps-inline" alt="{{site.data.venue_section[0].alt}}" style="display: grid; grid-template-rows: min-content; width: 50rem; height: 40rem; object-fit: cover;">
+                <div style="display: grid; grid-template-rows: min-content; object-fit: cover;">
+                    <img id="{{ image.img }}" src="./css/2016_style/img/gallery/{{ image.img }}.png" class="img-responsive img-centered" alt="{{site.data.venue_section[0].alt}}">
+                </div>
             {% endfor %}
         </div>
     </div>
 </div>
 
-<style>
-    .snaps-inline {
-        scroll-snap-type: inline mandatory;
-        scroll-padding-inline: 5000rem;
-    }
-
-    .snaps-inline > * {
-        scroll-snap-align: start;
-    }
-</style>
