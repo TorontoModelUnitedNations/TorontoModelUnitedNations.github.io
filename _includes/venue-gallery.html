@@ -27,8 +27,12 @@
             }
         }
 
-        .slide:hover > * {
+        .slide-container:hover > .slide {
             animation-play-state: paused;
+        }
+
+        .slide {
+            animation: scroll 10s linear infinite;
         }
 
         img:hover {
@@ -42,10 +46,10 @@
 <div>
     <h2 class="section-heading" style="font-size: 45px; text-align: center; width: 100%; padding-bottom: 5vh;">Venue Gallery</h2>
     <div class="container" style="background-color: rgb(238, 242, 244); margin-left: 100px; margin-bottom: 200px; width: 90%;">
-        <div class="media-scroller snaps-inline slide" style="padding-bottom: 30px; padding-top: 30px; gap:5rem;">
+        <div class="media-scroller snaps-inline slide-container" style="padding-bottom: 30px; padding-top: 30px; gap:5rem;">
             {% for image in site.data.venue_section %}
-                <div class="slide1" style="display: grid; grid-template-rows: min-content; object-fit: cover; perspective: 100px; animation: scroll 10s linear infinite;">
-                    <img id="{{ image.img }}" src="./css/2016_style/img/gallery/{{ image.img }}.png" class="img-responsive img-centered" alt="{{site.data.venue_section[0].alt}}" style="background-color: rgb(36, 49, 79); padding: 2px;">
+                <div class="slide" style="display: grid; grid-template-rows: min-content; object-fit: cover; perspective: 100px;">
+                    <img id="{{ image.img }}" src="./css/2016_style/img/gallery/{{ image.img }}.png" class="img-responsive img-centered hi" alt="{{site.data.venue_section[0].alt}}" style="background-color: rgb(36, 49, 79); padding: 2px;">
                 </div>
             {% endfor %}
         </div>
