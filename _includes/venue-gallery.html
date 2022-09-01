@@ -18,8 +18,23 @@
             overscroll-behavior-inline: contain;
         }
 
+        @keyframes scroll {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-150rem)
+            }
+        }
 
+        .slide:hover > * {
+            animation-play-state: paused;
+        }
 
+        img:hover {
+            transform: translatez(10px);
+            transition: transform 1s;
+        }
         
     </style>
 </head>
@@ -27,10 +42,10 @@
 <div>
     <h2 class="section-heading" style="font-size: 45px; text-align: center; width: 100%; padding-bottom: 5vh;">Venue Gallery</h2>
     <div class="container" style="background-color: rgb(238, 242, 244); margin-left: 100px; margin-bottom: 200px; width: 90%;">
-        <div class="media-scroller snaps-inline" style="padding-bottom: 30px; padding-top: 30px; gap:5rem;">
+        <div class="media-scroller snaps-inline slide" style="padding-bottom: 30px; padding-top: 30px; gap:5rem;">
             {% for image in site.data.venue_section %}
-                <div style="display: grid; grid-template-rows: min-content; object-fit: cover;">
-                    <img id="{{ image.img }}" src="./css/2016_style/img/gallery/{{ image.img }}.png" class="img-responsive img-centered" alt="{{site.data.venue_section[0].alt}}">
+                <div class="slide1" style="display: grid; grid-template-rows: min-content; object-fit: cover; perspective: 100px; animation: scroll 10s linear infinite;">
+                    <img id="{{ image.img }}" src="./css/2016_style/img/gallery/{{ image.img }}.png" class="img-responsive img-centered" alt="{{site.data.venue_section[0].alt}}" style="background-color: rgb(36, 49, 79); padding: 2px;">
                 </div>
             {% endfor %}
         </div>
