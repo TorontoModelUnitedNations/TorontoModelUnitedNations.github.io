@@ -159,8 +159,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 20px 40px;
-    font-size: 18px;
+    font-size: 2vh;
     font-weight: 700;
 }
 
@@ -369,8 +368,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {    
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        /* padding-top: 300px; */
+        /* padding-bottom: 200px; */
     }
 
     header .intro-text .intro-lead-in {
