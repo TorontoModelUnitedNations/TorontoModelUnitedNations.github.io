@@ -39,6 +39,18 @@
       - title: "Topic B: Seperarist Regions & Political Control"
         image: image_url
 
+  - title: Social, Cultural and Humanitarian Committee
+    url: SOCHUM
+    image: SOCHUM.jpg
+    description: "SOCHUM, also known as the Social, Humanitarian, and Cultural Committee is the third committee of the UN General Assembly, focused on promoting international cooperation and fundamental rights for all. It encourages discussions and the implementation of legislation surrounding topics such as: the right to life, expression of culture, religion, and political ideology, freedom of political participation, the rights of children, and more. In SOCHUM TMUN 2023, we will be discussing Human Trafficking in South East Asia, and the Treatment of LGBTQI+ People in Africa. These topics, while centred around a geographical area for the sake of debate, are complex global issues, that require cooperative and creative solutions."
+    director: Isabelle Bruce
+  - topics:
+      - title: "Topic A: Human Trafficking in South East Asia"
+        image: image_url
+      - title: "Topic B: Treatment of LGBTQI+ People in Africa"
+        image: image_url
+
+
 - header: Crisis Committees
   links:
     - title: Arab Spring
