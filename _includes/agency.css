@@ -116,6 +116,7 @@ aside.clients,
     font-weight: 700;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
+    transition: 200ms;
 }
 
 .btn-primary:hover,
@@ -126,6 +127,8 @@ aside.clients,
     border-color: #{{ site.data.template.color.primary }};
     color: #fff;
     background-color: #{{ site.data.template.color.secondary }};
+    transition: 200ms;
+
 }
 
 .btn-primary:active,
@@ -192,6 +195,7 @@ fieldset[disabled] .btn-primary.active {
     border-radius: 3px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
+    transition: 200ms;
 }
 
 .btn-sm:hover,
@@ -206,6 +210,7 @@ fieldset[disabled] .btn-primary.active {
     border-color: #{{ site.data.template.color.primary }};
     color: #fff;
     background-color: #{{ site.data.template.color.secondary }};
+    transition: 200ms;
 }
 
 .btn-sm:active,
@@ -885,9 +890,11 @@ ul.social-buttons li a:active {
     height: 75px;
     background-color: transparent;
     cursor: pointer;
+    transition: 200ms;
 }
 
 .portfolio-modal .close-modal:hover {
+    transition: 200ms;
     opacity: .3;
 }
 
