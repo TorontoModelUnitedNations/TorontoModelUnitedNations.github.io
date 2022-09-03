@@ -170,7 +170,22 @@ fieldset[disabled] .btn-primary.active {
     font-weight: 700;
 }
 
-.btn-sm, .btn-xl {
+@media screen and (max-width : 900px) {
+    .btn-reg {
+        padding: 10px 15px !important;
+        font-size: 2vh !important;
+        font-weight: 700 !important;
+    }
+}
+
+@media (min-width : 900px) {
+    .registration-button-container {
+        padding-bottom: 80px !important;
+        padding-top: 50px !important;
+    }
+}
+
+.btn-sm, .btn-xl{
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
     border-color: #{{ site.data.template.color.primary }};
@@ -369,8 +384,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {    
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        /* padding-top: 300px; */
+        /* padding-bottom: 200px; */
     }
 
     header .intro-text .intro-lead-in {

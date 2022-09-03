@@ -1,7 +1,7 @@
 ---
 layout: default_layout
-permalink: /committee_program
-title: Committee Program
+permalink: /committees
+title: Committees
 published: true
 banner: true
 ---
@@ -19,7 +19,7 @@ banner: true
         {% for linkhead in site.data.committees %}
             <p style="font-size: x-large; text-align: left; white-space: pre-wrap;"><b>{{ linkhead.header }}</b><br><p>
             {% for link in linkhead.links %}
-                <p style="margin-left: 25px"><a href="#{{ link.url }}" data-toggle="modal" style="color: black">{{link.title}}</a></p>
+                <p style="margin-left: 25px"><a href="#{{ link.url }}" data-toggle="modal" style="color: {{site.data.template.color.primary}}">{{link.title}}</a></p>
             {% endfor %}
         {% endfor %}
     </p>
