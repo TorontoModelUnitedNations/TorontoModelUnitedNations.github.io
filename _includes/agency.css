@@ -902,8 +902,8 @@ ul.social-buttons li a:active {
     z-index: 1051;
     width: 1px;
     height: 75px;
-    margin-left: 35px;
     background-color: #222;
+    margin-left: 35px;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -917,6 +917,14 @@ ul.social-buttons li a:active {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.lrw {
+    background-color: #fff !important;
+}
+
+.rlw {
+    background-color: #fff !important;
 }
 
 ::-moz-selection {
