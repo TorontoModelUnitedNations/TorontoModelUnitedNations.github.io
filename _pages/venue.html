@@ -13,10 +13,18 @@ banner: true
         .column {
             flex: 50%;
         }
+
+        .place-mob {display: none;}
+
+        @media screen and (max-width: 1000px) {
+
+            .place-dt {display: none;}
+            .place-mob {display: block;}
+
+        }
     </style>
     <div class="event" style="">
-
-        <div class="row">
+        <div class="row place-dt">
             <div class="column" style="padding-right: 25px">
                 <p>TMUN 2023 will be held at the Sheraton Centre Hotel in Downtown Toronto.<br>
                     Perfectually situated in the "centre" of the city, the Hotel Sheraton features a beautiful garden, cascading waterfalls and a picturesque pool.<br></p>
@@ -30,10 +38,68 @@ banner: true
             </div>
             <div class="column">
                 <div class="venue-map border-black-fade" style="border-color: #1b1f23; border-width: 3px; border-style: solid">
-                    <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDBAITNT-GVJnc7JzdT4__nF2eREVLxL6o&q=Sheraton+Centre+Toronto+Hotel" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDBAITNT-GVJnc7JzdT4__nF2eREVLxL6o&q=Sheraton+Centre+Toronto+Hotel" frameborder="0" style="border:0; margin-bottom: -5px" allowfullscreen></iframe>
                 </div>
-
             </div>
         </div>
+
+        <div class="row place-mob">
+            <div class="column" style="padding-bottom: 20px">
+                <div class="venue-map border-black-fade" style="border-color: #1b1f23; border-width: 3px; border-style: solid">
+                    <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDBAITNT-GVJnc7JzdT4__nF2eREVLxL6o&q=Sheraton+Centre+Toronto+Hotel" frameborder="0" style="border:0; margin-bottom: -5px" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="column" style="padding-right: 25px">
+                <p>TMUN 2023 will be held at the Sheraton Centre Hotel in Downtown Toronto.<br>
+                    Perfectually situated in the "centre" of the city, the Hotel Sheraton features a beautiful garden, cascading waterfalls and a picturesque pool.<br></p>
+
+                <p><b>Dates: </b>24-26 March, 2023<br></p>
+                <p>
+                    <b>Address:</b>
+                    <br>
+                    123 Queen St W<br>Toronto<br>ON, Canada<br>M5H 2M9
+                </p>
+            </div>
+        </div>
+
+        <p style="font-size: xxx-large; text-align: center; white-space: pre-wrap; padding-top: 60px; padding-bottom: 10px"><b>Nearby attractions</b><br><p>
+
+        {% for place in site.data.attractions %}
+        <p style="font-size: xx-large; text-align: center; white-space: pre-wrap; padding-top: 30px; padding-bottom: 25px"><b>{{ place.title }}</b><br><p>
+            <div class="row place-dt">
+                <div class="column" style="padding-right: 25px">
+                    <p>{{ place.description }}<br></p>
+                    <p>
+                        <b>Address:</b>
+                        <br>
+                        {{ place.address }}
+                    </p>
+                </div>
+                <div class="column">
+                    <div class="venue-map border-black-fade" style="border-color: #1b1f23; border-width: 3px; border-style: solid">
+                        <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDBAITNT-GVJnc7JzdT4__nF2eREVLxL6o&q={{ place.title }}" frameborder="0" style="border:0;margin-bottom: -5px" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+
+        <div class="row place-mob">
+            <div class="column" style="padding-bottom: 20px">
+                <div class="venue-map border-black-fade" style="border-color: #1b1f23; border-width: 3px; border-style: solid">
+                    <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDBAITNT-GVJnc7JzdT4__nF2eREVLxL6o&q={{ place.title }}" frameborder="0" style="border:0;margin-bottom: -5px" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="column" style="padding-right: 25px">
+                <p>{{ place.description }}<br></p>
+                <p>
+                    <b>Address:</b>
+                    <br>
+                    {{ place.address }}
+                </p>
+            </div>
+        </div>
+
+        {% endfor %}
+
+
     </div>
 
