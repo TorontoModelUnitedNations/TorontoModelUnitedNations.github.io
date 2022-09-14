@@ -20,8 +20,11 @@ ul{
     list-style: none;
 }
 
-a{
+div a{
     text-decoration: none;
+    color: white;
+    
+    
 }
 
 .header1{
@@ -38,15 +41,10 @@ section{
 
 
 .container{
-    display: flex;
     position: relative;
 }
 
-.logo-container{
-    flex: 1;
-    display: flex;
-    align-items: center;
-}
+
 
 .nav-btn{
     flex: 3;
@@ -57,32 +55,12 @@ section{
     flex: 2;
 }
 
-.log-sign{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex: 1;
-}
-
 .logo{
     color: #fff;
-
+    height: 5rem;
 }
 
-.logo span{
-    font-weight: 300;
-}
 
-.btn{
-    display: inline-block;
-    padding: .5rem 1.3rem;
-    font-size: .8rem;
-    border-radius: 2rem;
-    line-height: 1;
-    margin: 0 .2rem;
-    transition: .3s;
-    text-transform: uppercase;
-}
 
 .btn.solid, .btn.transparent:hover{
     background-color: #fff;
@@ -104,7 +82,7 @@ section{
     position: relative;
 }
 
-.nav-link > a{
+.nav-link > div a{
     line-height: 3rem;
     color: #fff;
     padding: 0 .8rem;
@@ -120,7 +98,7 @@ section{
     margin-left: .2rem;
 }
 
-.nav-link:hover > a{
+.nav-link:hover > div a{
     transform: scale(1.1);
 }
 
@@ -272,14 +250,13 @@ section{
 
     .nav-btn{
         position: fixed;
-        height: calc(50vh - 3rem);
+        background-color: #333;
+     
         top: 3rem;
         left: 0;
         width: 100%;
         z-index: 1000;
-        margin-top: 20px;
-        
-        
+ 
         flex-direction: column;
         align-items: center;
         justify-content: space-between;
@@ -313,12 +290,12 @@ section{
         z-index: 1000;
     }
 
-    .nav-link > a{
+    .nav-link > div a{
         line-height: 1;
         padding: 1.6rem 2rem;
     }
 
-    .nav-link:hover > a{
+    .nav-link:hover > div a{
         transform: scale(1);
 
     }
@@ -333,7 +310,6 @@ section{
         width: 100%;
         padding: 0;
         z-index: 1000;
-    
         display: none;
     }
     
@@ -347,18 +323,18 @@ section{
         transform: rotate(360deg);
     }
 
-    .dropdown-link > a{
+    .dropdown-link > div a{
         background-color: transparent;
         color: #fff;
         padding: 1.2rem 2rem;
         line-height: 1;
     }
 
-    .dropdown.second .dropdown-link > a{
+    .dropdown.second .dropdown-link > div a{
         padding: 1.2rem 2rem 1.2rem 3rem;
     }
 
-    .dropdown.second .dropdown.second .dropdown-link > a{
+    .dropdown.second .dropdown.second .dropdown-link > div a{
         padding: 1.2rem 2rem 1.2rem 4rem;
     }
 
@@ -393,20 +369,20 @@ section{
         <div class="header1">
             <div class="container">
                 <input type="checkbox" name="" id="check">
-                
-                <div class="logo-container">
-                    <h3 class="logo">Brand Name</span></h3>
-                </div>
     
+                
                 <div class="nav-btn">
+                    <div class="nav-links">
+                        <a href="/"><img src="../css/2017_style/img/logo-small-transparent.svg" class="logo"></a> 
+                    </div>
                     <div class="nav-links">
                         <ul>                        
                             {% for dropdown in site.data.navbar_links %}
                                 <li class="nav-link" style="--i: .6s">   
-                                 
+                                    <div>
                                     <a href="#">{{dropdown.dropdown}}<i class="fas fa-caret-down"></i></a>
-                          
-                                 
+                                    </div>
+                                                      
                                     <div class="dropdown">
                                         <ul>
                                             {% for link in dropdown.links %}
