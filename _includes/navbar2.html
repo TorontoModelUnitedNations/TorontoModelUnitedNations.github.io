@@ -14,6 +14,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    background-color: #333;
 }
 
 ul{
@@ -29,7 +30,9 @@ div a{
 
 .header1{
     top: 0px;    
-    background-color: #333;
+    background-color: #222;
+    position: fixed;
+    width: 100%;
     opacity: 1;
     z-index: 1000;
 }
@@ -37,6 +40,7 @@ div a{
 section{
     position: relative;
     overflow: hidden;
+    
 }
 
 
@@ -87,6 +91,7 @@ section{
     padding: 2rem;
     letter-spacing: 1px;
     font-size: 2rem;
+    font-weight: normal;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -111,6 +116,7 @@ section{
     opacity: 0;
     pointer-events: none;
     transition: .5s;
+    width: 125%;
 }
 
 .dropdown ul{
@@ -124,6 +130,7 @@ section{
     align-items: center;
     justify-content: space-between;
     transition: .3s;
+   
 }
 
 .dropdown-link:hover > a{
@@ -378,17 +385,17 @@ section{
     
                 
                 <div class="nav-btn">
-                    <div class="nav-links" style="display: flex; height: 100%; align-items: center;">
+                    <div class="nav-links" style="display: flex; height: 100%; align-items: center; margin-top: 2px;">
           
                         <a href="/"><img src="../css/2017_style/img/logo-small-transparent.svg" class="logo" onmouseover="hover(this);" onmouseout="unhover(this);"></a> 
                  
                     </div>
-                    <div class="nav-links">
+                    <div class="nav-links" style="display: flex; height: 100%; align-items: center; margin-top: 2px;">
                         <ul>                        
                             {% for dropdown in site.data.navbar_links %}
                                 <li class="nav-link" style="--i: .6s">   
                                     <div style="font-size: 4">
-                                    <a href="#">{{dropdown.dropdown}}<i class="fas fa-caret-down"></i></a>
+                                    <a href="#">{{dropdown.dropdown}}<i class="fas fa-caret-down" style="margin-left: 5px;"></i></a>
                                     </div>
 
                                     <div class="dropdown">
