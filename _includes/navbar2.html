@@ -21,7 +21,7 @@ ul{
     list-style: none;
 }
 
-div a{
+a{
     text-decoration: none;
     color: white;
     
@@ -85,7 +85,7 @@ section{
     position: relative;
 }
 
-.nav-link > div a{
+.nav-link > a{
     line-height: 3rem;
     color: #fff;
     padding: 2rem;
@@ -102,7 +102,7 @@ section{
     margin-left: .2rem;
 }
 
-.nav-link:hover > div a{
+.nav-link:hover > a{
     transform: scale(1.1);
 }
 
@@ -111,12 +111,12 @@ section{
     z-index: 1000;
 
     left: 0;
-    width: 10rem;
+
     transform: translateY(10px);
     opacity: 0;
     pointer-events: none;
     transition: .5s;
-    width: 125%;
+    background-color: #444;
 }
 
 .dropdown ul{
@@ -125,15 +125,19 @@ section{
 
 .dropdown-link > a{
     display: flex;
-    background-color: #444;
     color: #ffffff;
     align-items: center;
     justify-content: space-between;
     transition: .3s;
+    padding: 2rem;
+    padding-right: 4rem;
+    background-color: #444;
+    
    
 }
 
-.dropdown-link:hover > a{
+
+.dropdown-link:hover > a {
     background-color: #222;
     color: #fff;
 }
@@ -171,16 +175,16 @@ section{
 }
 
 .hamburger-menu{
-    width: 2.5rem;
-    height: 2.5rem;
+    width: 8rem;
+    height: 8rem;
     display: flex;
     align-items: center;
     justify-content: flex-end;
 }
 
 .hamburger-menu div{
-    width: 1.6rem;
-    height: 3px;
+    width: 3rem;
+    height: 0.2rem;
     border-radius: 3px;
     background-color: #fff;
     position: relative;
@@ -294,12 +298,12 @@ section{
         z-index: 1000;
     }
 
-    .nav-link > div a{
+    .nav-link > a{
         line-height: 1;
         padding: 1.6rem 2rem;
     }
 
-    .nav-link:hover > div a{
+    .nav-link:hover > a{
         transform: scale(1);
 
     }
@@ -311,11 +315,13 @@ section{
         transform: initial;
         opacity: 1;
         pointer-events: auto;
-        width: 100%;
+        width: 1000%;
         padding: 0;
         z-index: 1000;
         display: none;
     }
+
+
     
     .nav-link:hover > .dropdown,
     .dropdown-link:hover > .dropdown{
@@ -327,19 +333,19 @@ section{
         transform: rotate(360deg);
     }
 
-    .dropdown-link > div a{
+    .dropdown-link > a{
         background-color: transparent;
         color: #fff;
         padding: 1.2rem 2rem;
         line-height: 1;
     }
 
-    .dropdown.second .dropdown-link > div a{
+    .dropdown.second .dropdown-link > a{
         padding: 1.2rem 2rem 1.2rem 3rem;
        
     }
 
-    .dropdown.second .dropdown.second .dropdown-link > div a{
+    .dropdown.second .dropdown.second .dropdown-link > a{
         padding: 1.2rem 2rem 1.2rem 4rem;
       
     }
@@ -394,9 +400,9 @@ section{
                         <ul>                        
                             {% for dropdown in site.data.navbar_links %}
                                 <li class="nav-link" style="--i: .6s">   
-                                    <div style="font-size: 4">
+                                  
                                     <a href="#">{{dropdown.dropdown}}<i class="fas fa-caret-down" style="margin-left: 5px;"></i></a>
-                                    </div>
+                               
 
                                     <div class="dropdown">
                                         <ul>
