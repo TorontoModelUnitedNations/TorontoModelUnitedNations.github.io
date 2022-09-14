@@ -56,8 +56,7 @@ section{
 }
 
 .logo{
-    color: #fff;
-    height: 5rem;
+    height: 7rem;
 }
 
 
@@ -85,9 +84,9 @@ section{
 .nav-link > div a{
     line-height: 3rem;
     color: #fff;
-    padding: 0 .8rem;
+    padding: 2rem;
     letter-spacing: 1px;
-    font-size: .95rem;
+    font-size: 2rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -122,8 +121,6 @@ section{
     display: flex;
     background-color: #444;
     color: #ffffff;
-    padding: .5rem 1rem;
-    font-size: .9rem;
     align-items: center;
     justify-content: space-between;
     transition: .3s;
@@ -332,10 +329,12 @@ section{
 
     .dropdown.second .dropdown-link > div a{
         padding: 1.2rem 2rem 1.2rem 3rem;
+       
     }
 
     .dropdown.second .dropdown.second .dropdown-link > div a{
         padding: 1.2rem 2rem 1.2rem 4rem;
+      
     }
 
     .dropdown-link:not(:nth-last-child(2)){
@@ -361,6 +360,13 @@ section{
 
     </style>
     <script>
+        function hover(element) {
+            element.setAttribute('src', '../css/2017_style/img/logo-small-transparent-hover.svg');
+        }
+
+        function unhover(element) {
+            element.setAttribute('src', '../css/2017_style/img/logo-small-transparent.svg');
+        }
 
     
     </script>
@@ -372,17 +378,19 @@ section{
     
                 
                 <div class="nav-btn">
-                    <div class="nav-links">
-                        <a href="/"><img src="../css/2017_style/img/logo-small-transparent.svg" class="logo"></a> 
+                    <div class="nav-links" style="display: flex; height: 100%; align-items: center;">
+          
+                        <a href="/"><img src="../css/2017_style/img/logo-small-transparent.svg" class="logo" onmouseover="hover(this);" onmouseout="unhover(this);"></a> 
+                 
                     </div>
                     <div class="nav-links">
                         <ul>                        
                             {% for dropdown in site.data.navbar_links %}
                                 <li class="nav-link" style="--i: .6s">   
-                                    <div>
+                                    <div style="font-size: 4">
                                     <a href="#">{{dropdown.dropdown}}<i class="fas fa-caret-down"></i></a>
                                     </div>
-                                                      
+
                                     <div class="dropdown">
                                         <ul>
                                             {% for link in dropdown.links %}
