@@ -400,15 +400,15 @@ section{
                         <ul>                        
                             {% for dropdown in site.data.navbar_links %}
                                 <li class="nav-link" style="--i: .6s">   
-                                  
-                                    <a href="#">{{dropdown.dropdown}}<i class="fas fa-caret-down" style="margin-left: 5px;"></i></a>
+                                    
+                                    <a href="#" style="font-size: 2rem; width: 1000;">{{dropdown.dropdown}}</a>
                                
 
                                     <div class="dropdown">
                                         <ul>
                                             {% for link in dropdown.links %}
                                             <li class="dropdown-link">                                                                         
-                                                <a href="{{ link.link }}"> {{link.title}} </a>                                                                 
+                                                <a href="{{ link.link }}" style="font-size: 2rem; padding-bottom: 2rem; padding-top: 2rem;"> {{link.title}} </a>                                                                 
                                             </li>     
                                             {% endfor %}  
                                         </ul>
