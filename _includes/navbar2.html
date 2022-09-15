@@ -14,7 +14,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #333;
+    background-color: #222;
 }
 
 ul{
@@ -95,7 +95,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    transition: .5s;
+    transition: 0.5s;
 }
 
 .nav-link > a > i{
@@ -104,6 +104,8 @@ section{
 
 .nav-link:hover > a{
     transform: scale(1.1);
+    
+    
 }
 
 .dropdown{
@@ -115,7 +117,7 @@ section{
     transform: translateY(10px);
     opacity: 0;
     pointer-events: none;
-    transition: .5s;
+    transition: 0.5s;
     background-color: #444;
 }
 
@@ -128,8 +130,8 @@ section{
     color: #ffffff;
     align-items: center;
     justify-content: space-between;
-    transition: .3s;
     padding: 2rem;
+    transition: 0.5s;
     padding-right: 4rem;
     background-color: #444;
     
@@ -137,9 +139,14 @@ section{
 }
 
 
+
+
 .dropdown-link:hover > a {
     background-color: #222;
+    transition: 1s;
     color: #fff;
+    transform: scale(1.008);
+    
 }
 
 .dropdown-link i{
@@ -304,8 +311,8 @@ section{
     }
 
     .nav-link:hover > a{
-        transform: scale(1);
-
+        transform: scale(1.08);
+        color: #3c87ac;
     }
 
     .dropdown, .dropdown.second{
@@ -313,12 +320,14 @@ section{
         top: initial;
         left: initial;
         transform: initial;
-        opacity: 1;
+        opacity: 0;
+        
         pointer-events: auto;
         width: 1000%;
         padding: 0;
         z-index: 1000;
         display: none;
+        
     }
 
 
