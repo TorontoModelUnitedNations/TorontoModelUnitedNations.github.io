@@ -1,6 +1,10 @@
 <!-- Navigation -->
 
     <style>
+          .navbar {
+              background-color: #222;
+              padding: 0;
+          }
           nav ul {
             -webkit-font-smoothing: antialiased;
             list-style: none;
@@ -129,51 +133,7 @@
 
     </script>
 
-    <nav class="navbar navbar-default navbar-default-color navbar-fixed-top">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand page-scroll" href="/">
-                    <img src="../css/2017_style/img/logo-small-transparent.svg" onmouseover="hover(this);" onmouseout="unhover(this);" style="margin-top:-40%" width="90vh" alt="icon-about">
-                </a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-
-                    <li class="hidden">
-                        <a href="/"></a>
-                    </li>
-
-                    {% for dropdown in site.data.navbar_links %}
-                        <li tabindex="0"><a class="dropdown"> {{dropdown.dropdown}} </a>
-                            <ul>
-                                {% for link in dropdown.links %}
-                                <li><a href="{{ link.link }}"> {{link.title}} </a></li>
-                                {% endfor %}
-                            </ul>
-                        </li>
-                    {% endfor %}
-
-                    <li tabindex="0"><a class="dropdown">Sponsorship</a>
-                        <ul>
-                            <li><a href="/css/2017_style/pdf/TMUN_Sponsorship_Packet.pdf" target="_blank">Sponsorship package</a></li>
-                        </ul>
-                    </li>
-
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-    </nav>
+    {% include navbar2.html %}
 
     <!-- Header -->
     <header class="parallax-wrapper" style="padding-bottom: 90px !important; position: relative; z-index: 0; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; background-image: url('{{ site.baseurl }}/css/2016_style/img/header-bg.jpg');">
