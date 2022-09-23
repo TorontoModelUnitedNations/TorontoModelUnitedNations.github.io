@@ -10,7 +10,39 @@ headsection: registration_section.html
 <!-- Event snippet for Website traffic conversion page --> <script> gtag('event', 'conversion', {'send_to': 'AW-10975379104/3v4oCL3b5dkDEKD9u_Eo'}); </script>
 
 <div class="event">
+    <h2 style="text-align: center;padding-bottom: 10px;font-size: 30px">Registration Prices & Info</h2>
+    <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">
+        <thead>
+            <tr>
+                <th class="row-1 agenda-time" style = "width: 40%"><center>Type</center></th>
+                <th class="row-1 agenda-activity" style = "width: 30%"><center>Registration Price</center></th>  
+                <th class="row-1 agenda-time" style = "width: 30%"><center>Late Registration Price</center></th>  
+            </tr>
+        </thead>
 
+        {% for type in site.data.registration_prices %}
+            <tr style="height: 60px">
+                <td>{{ type.type }}</td>
+                <td>{{ type.price }}</td>
+                <td>{{ type.late-price }}</td>
+            </tr> 
+        {% endfor %}
+    </table>
+    <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">
+        <thead>
+            <tr>
+                <th class="row-1 agenda-time"><center>Type</center></th>
+                <th class="row-1 agenda-time"><center>Information</center></th>  
+            </tr>
+        </thead>
+
+        {% for type in site.data.registration_prices %}
+            <tr style="height: 60px">
+                <td>{{ type.type }}</td>
+                <td>{{ type.info }}</td>
+            </tr> 
+        {% endfor %}
+    </table>
   <p>
     To attend TMUN 2023, delegates must register through the registration forms above. All delegates who register for TMUN will be provided with access to all conference events, and standard delegates will be provided with a two nights stay at the Sheraton Centre Toronto Hotel, located in downtown Toronto. For more information on our venue, please visit this <a href=/venue>page</a>. Delegates will also be provided with all necessary conference materials excluding a laptop, and are not required to bring any materials of their own.<br><br>
 
