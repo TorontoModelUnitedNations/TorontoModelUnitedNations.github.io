@@ -103,9 +103,8 @@ section{
 }
 
 .nav-link:hover > a{
-    transform: scale(1.1);
-    
-    
+    background-color: #bbbbbb;
+    color: #{{ site.data.template.color.primary }};
 }
 
 .dropdown{
@@ -138,21 +137,16 @@ section{
    
 }
 
-
-
-
 .dropdown-link:hover > a {
-    background-color: #222;
-    transition: 1s;
-    color: #fff;
-    transform: scale(1.008);
-    
+    background-color: #bbbbbb;
+    color: #{{ site.data.template.color.primary }};
+    transition: 0.3s;
 }
+
 
 .dropdown-link i{
     transform: rotate(-90deg);
 }
-
 
 .dropdown-link{
     position: relative;
@@ -165,7 +159,6 @@ section{
     cursor: pointer;
     transform: translateX(10px);
 }
-
 
 .nav-link:hover > .dropdown,
 .dropdown-link:hover > .dropdown{
@@ -329,8 +322,6 @@ section{
         display: none;
         
     }
-
-
     
     .nav-link:hover > .dropdown,
     .dropdown-link:hover > .dropdown{
@@ -362,9 +353,6 @@ section{
     .dropdown-link:not(:nth-last-child(2)){
         border-bottom: none;
     }
-
- 
-
 
     .nav-link > a > i{
         font-size: 1.1rem;
@@ -408,16 +396,15 @@ section{
                     <div class="nav-links" style="display: flex; height: 100%; align-items: center; margin-top: 2px;">
                         <ul>                        
                             {% for dropdown in site.data.navbar_links %}
-                                <li class="nav-link" style="--i: .6s">   
+                                <li class="nav-link" style="--i: .6s; margin-bottom: -15px; margin-top: -2px">
                                     
-                                    <a href="#" style="font-size: 2rem; width: 1000;">{{dropdown.dropdown}}</a>
-                               
+                                    <a href="#" style="text-transform: uppercase; font-family: Montserrat, 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 18px; letter-spacing: 1px; color: #fff;">{{dropdown.dropdown}}</a>
 
                                     <div class="dropdown">
                                         <ul>
                                             {% for link in dropdown.links %}
                                             <li class="dropdown-link">                                                                         
-                                                <a href="{{ link.link }}" style="font-size: 2rem; padding-bottom: 2rem; padding-top: 2rem;"> {{link.title}} </a>                                                                 
+                                                <a href="{{ link.link }}" style="text-transform: uppercase; font-family: Montserrat, 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:15px; padding-bottom: 2rem; padding-top: 2rem;"> {{link.title}} </a>
                                             </li>     
                                             {% endfor %}  
                                         </ul>
