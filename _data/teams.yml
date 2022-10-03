@@ -1,8 +1,8 @@
 - title: Edward Liu
   name: Name-1
   subtitle: Secretary-General
-  img: edward.jpg
-  thumbnail: edward.jpg
+  img: edward.jpeg
+  thumbnail: edward.jpeg
   alt: Picture of TBD
   topic: Topic
   description: Edward Liu is a Grade 11 student who is extremely passionate about Model UN. After attending his first conference in 2020, he has since participated in numerous conferences. As the first-ever Secretary-General and founder of TMUN, he is excited to welcome all delegates to the Sheraton Centre in March. In his free time, he can be seen speed-walking around Mississauga, learning the newest Tetris opener, or playing Hearts of Iron IV with his friends.
@@ -10,53 +10,57 @@
 - title: Sophie Zhang
   name: Name-2
   subtitle: Director-General
-  img: sophie.jpg
-  thumbnail: sophie.jpg
+  img: sophie.png
+  thumbnail: sophie.png
   alt: Picture of TBD
   topic: Topic
   description: Hey y'all! I'm Sophie Zhang and I'm in grade 11 at The Woodlands Secondary School and I'll be your Director General. I sort of stumbled into MUN my first year just because the discord logo looked pretty, and it's been uphill since then! I can't wait to see everyone here, walking around, talking, and excited to start!
 
-- title: Yibo Sun
+- title: Aayush Panda
   name: Name-3
-  subtitle: USG of Marketing
-  img: yibo.jpg
-  thumbnail: yibo.jpg
+  subtitle: USG of Technology
+  img: aayush.png
+  thumbnail: aayush.png
   alt: Picture of TBD
   topic: Topic
-  description: More Info
-
-#- title: Aayush Panda
-#  name: Name-4
-#  subtitle: USG of Technology
-#  img: aayush.png
-#  thumbnail: aayush_thumb.png
-#  alt: Picture of TBD
-#  topic: Topic
-#  description: More Info
-
-#- title: Suri Sun
-#  name: Name-5
-#  subtitle: USG of Delegate Affairs
-#  img: suri.jpg
-#  thumbnail: suri.jpg
-#  alt: Picture of TBD
-#  topic: Topic
-#  description: Hi, everyone! I'm Suri Sun, in grade 11, and I'm excited to be your Secretariat of Delegate Affairs for TMUN 2022. I'm super passionate about MUN because it can teach a lot of imperative skills that I've been able to apply to various aspects of my academic and extracurricular careers. Outside of MUN, I enjoy exploring the outdoors and being hardstuck gold in VALORANT. Together, I look forward to building a fun, welcoming, and educational environment!
+  description: Hey guys, I’m Aayush Panda, a fullstack developer in Grade 11. I have a deep passion for software development, and spend much of my time grinding problems on DMOJ.
+    <br>
+    I also love doing contest math problems and working on mechatronics projects. Most of my free time is spent building rc planes, and being a huge aviation nerd overall.
+    <br>
+    I wish all delegates the very best of luck for the TMUN conference, and hope that they find the accompanying website well-made and easy to use.
 
 - title: Jacob Greene
   name: Name-6
   subtitle: USG of Committees
-  img: jacob.jpg
-  thumbnail: jacob.jpg
+  img: jacob.jpeg
+  thumbnail: jacob.jpeg
   alt: Picture of TBD
   topic: Topic
   description: Hello delegates, my name is Jacob Greene. I am a grade 10 student and I will be your Undersecretary-General of Committees for the first iteration of Toronto Model United Nations. I have always had a passion for learning history, geography and world politics, and stepping into the world of MUN over three years ago has allowed me to pursue this passion even further. I sincerely hope that delegates have a fun and memorable experience during our conference, and I wish the best of luck to all delegates partaking in TMUN 2023!
 
+- title: Yibo Sun
+  name: Name-4
+  subtitle: USG of Marketing
+  img: yibo.png
+  thumbnail: yibo.png
+  alt: Picture of TBD
+  topic: Topic
+  description:
+
+- title: Suri Sun
+  name: Name-5
+  subtitle: USG of Delegate Affairs
+  img: suri.jpeg
+  thumbnail: suri.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: Hi, everyone! I'm Suri Sun, in grade 11, and I'm excited to be your Secretariat of Delegate Affairs for TMUN 2022. I'm super passionate about MUN because it can teach a lot of imperative skills that I've been able to apply to various aspects of my academic and extracurricular careers. Outside of MUN, I enjoy exploring the outdoors and being hardstuck gold in VALORANT. Together, I look forward to building a fun, welcoming, and educational environment!
+
 - title: Hamzah Ali
   name: Name-7
   subtitle: USG of Finance
-  img: hamzah.jpg
-  thumbnail: hamzah.jpg
+  img: hamzah.jpeg
+  thumbnail: hamzah.jpeg
   alt: Picture of TBD
   topic: Topic
   description: I'm Hamzah Ali, a Grade 11 student who will be serving as your Under-Secretary General of Finance for this iteration of TMUN. I think that Model United Nations is great, but I also have a passion for business and finance. On the side, I like to play tennis, volleyball and trade stocks. I look forward to welcoming all delegates to the Sheraton Centre Toronto in March, and I hope that you all have a great time at TMUN 2023!
