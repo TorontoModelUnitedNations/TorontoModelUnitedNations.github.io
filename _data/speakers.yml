@@ -1,26 +1,11 @@
-- title: Name
-  name: Name-1
+- name: Alisha Arora
+  role: UNICEF Committee Guest Speaker
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  img: alisha.jpeg
+  description: "
+    Alisha Arora is an ambitious 16-year-old on a mission to leverage technology for good, Alisha serves as a UNICEF youth ambassador for technology and mental health.
+    <br><br>
+    She is currently the youngest researcher at MIT’s AI lab to diagnose mental illness. Alisha is also working towards detecting suicidal ideation in social media content to prevent suicide with the support of Microsoft.
+    <br><br>
+    As an ardent philanthropist she founded her own non-profit organization, The HopeSisters. Their passion for supporting children in foster care has led them to gain recognition on national television and from government officials.
+    "

@@ -1,0 +1,66 @@
+---
+layout: default_layout
+permalink: /guest_speakers
+title: Guest Speakers
+published: true
+banner: true
+---
+
+<style>
+
+    .speaker-title {
+        font-size: 30px;
+    }
+
+    .role-title {
+        font-size: 20px;
+    }
+
+    .main {
+        width: 53vw;
+    }
+
+    @media screen and (max-width : 992px){
+        .speaker-title {
+            padding-top: 15px;
+        }
+
+    }
+
+    @media screen and (max-width : 512px){
+        .speaker-title {
+            font-size: 7vw !important;
+        }
+
+        .role-title {
+            font-size: 4vw !important;
+            margin-top: 10px;
+        }
+
+        .main {
+            width: 70vw !important;
+        }
+    }
+
+</style>
+
+<div class="event">
+
+    {% for speaker in site.data.speakers %}
+
+    <div class="main row" style="margin: 0 auto;">
+        <div class="col-md-5">
+            <img src="css/2017_style/img/speaker/{{speaker.img}}" style="border: 50px #000000;">
+        </div>
+
+        <div class="col-md-7">
+            <h2 class="speaker-title" style="text-align: center; margin-bottom: 0; margin-top: 0; justify-content: left">{{speaker.name}}</h2>
+            <h2 class="role-title" style="text-align: center;padding-bottom: 10px;color: #444444; justify-content: left">{{speaker.role}}</h2>
+            <p>{{speaker.description}}</p>
+        </div>
+    </div>
+
+    {% endfor %}
+
+
+</div>
