@@ -5,7 +5,42 @@ title: Country Matrix
 published: true
 banner: true;
 ---
+    <style>
+        .row {
+            display: flex;
+        }
 
-        </ul>
+        .column {
+            flex: 50%;
+        }
+
+        .place-mob {display: none;}
+
+        @media screen and (max-width: 1000px) {
+
+            .place-dt {display: none;}
+            .place-mob {display: block;}
+
+        }
+    </style>
+    <div class="event" style="">
+        <div class="row place-dt">
+            <div class="column" style="padding-right: 25px">
+                <p>TMUN 2023 will be held at the Sheraton Centre Hotel in Downtown Toronto.<br>
+                    Perfectually situated in the "centre" of the city, the Hotel Sheraton features a beautiful garden, cascading waterfalls and a picturesque pool.<br></p>
+
+                <p><b>Dates: </b>24-26 March, 2023<br></p>
+                <p>
+                    <b>Address:</b>
+                    <br>
+                    123 Queen St W<br>Toronto<br>ON, Canada<br>M5H 2M9
+                </p>
+            </div>
+            <div class="column">
+                <div class="venue-map border-black-fade" style="border-color: #1b1f23; border-width: 3px; border-style: solid">
+                    <iframe src="<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkorjZNaEjVC3C3HZ2rShltG0rXJRwgUDqtjsdPMIGaPiz8awugY1wUEGtiYTSCVVbXsDOePkFYPzA/pubhtml?widget=true&amp;headers=false"></iframe>" frameborder="0" style="border:0; margin-bottom: -5px" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
