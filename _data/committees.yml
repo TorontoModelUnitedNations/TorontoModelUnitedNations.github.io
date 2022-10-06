@@ -7,22 +7,420 @@
 - header: General Assemblies and ECOSOCs
   links: 
   - title: Disarment and International Security Committee
-    url: DISC
-    image: DISC.jpg
+    url: DISEC
+    image: DISEC.jpg
     description: "DISEC or the Disarmament and International Security Committee is a prominent General Assembly committee addressing issues and deterrents to achieving a global peace.  Topics that are often discussed relate to weapons, disarmament, and the safety of those affected by armed conflict. Dealing with not only global threats to peace, this important committee discusses solutions through international cooperation to achieve the principles in governing disarmament and agenda goals. Delegates will represent nations partaking in the DISEC committee to address the topics introduced for the session. This committee is fundamental in preserving a state of peace between great powers, and enforcing law and stability on an extensive scale."
     director: Samuel Wu
-  - topics:
-    - title: "Topic A: The regulation of illegitimate weapons dealings in conflict areas and their effects"
-      image: image_url
-    - title: "Topic B: Present and future humanitarian impacts of nuclear weapons testing"
-      image: image_url
+    role-type: Countries
+    role-type-singular: Countrie
+    roles:
+      - name: Afghanistan (Islamic Emirate of)
+      - name: Albania
+      - name: Algeria
+      - name: Andorra
+      - name: Angola
+      - name: Antigua and Barbuda
+      - name: Argentina
+      - name: Armenia
+      - name: Australia
+      - name: Austria
+      - name: Azerbaijan
+      - name: Bahamas
+      - name: Bahrain
+      - name: Bangladesh
+      - name: Barbados
+      - name: Belarus
+      - name: Belgium
+      - name: Belize
+      - name: Benin
+      - name: Bhutan
+      - name: Bolivia
+      - name: Bosnia and Herzegovina
+      - name: Botswana
+      - name: Brazil
+      - name: Brunei
+      - name: Bulgaria
+      - name: Burkina Faso
+      - name: Burundi
+      - name: Côte d'Ivoire
+      - name: Cabo Verde
+      - name: Cambodia
+      - name: Cameroon
+      - name: Canada
+      - name: Central African Republic
+      - name: Chad
+      - name: Chile
+      - name: People's Republic of China
+      - name: Republic of China (Taiwan)
+      - name: Colombia
+      - name: Comoros
+      - name: Congo (Congo-Brazzaville)
+      - name: Costa Rica
+      - name: Croatia
+      - name: Cuba
+      - name: Cyprus
+      - name: Czechia (Czech Republic)
+      - name: Democratic Republic of the Congo
+      - name: Denmark
+      - name: Djibouti
+      - name: Dominica
+      - name: Dominican Republic
+      - name: Ecuador
+      - name: Egypt
+      - name: El Salvador
+      - name: Equatorial Guinea
+      - name: Eritrea
+      - name: Estonia
+      - name: Eswatini
+      - name: Ethiopia
+      - name: Fiji
+      - name: Finland
+      - name: France
+      - name: Gabon
+      - name: Gambia
+      - name: Georgia
+      - name: Germany
+      - name: Ghana
+      - name: Greece
+      - name: Grenada
+      - name: Guatemala
+      - name: Guinea
+      - name: Guinea-Bissau
+      - name: Guyana
+      - name: Haiti
+      - name: Holy See
+      - name: Honduras
+      - name: Hungary
+      - name: Iceland
+      - name: India
+      - name: Indonesia
+      - name: Iran
+      - name: Iraq
+      - name: Ireland
+      - name: Israel
+      - name: Italy
+      - name: Jamaica
+      - name: Japan
+      - name: Jordan
+      - name: Kazakhstan
+      - name: Kenya
+      - name: Kiribati
+      - name: Kuwait
+      - name: Kyrgyzstan
+      - name: Laos
+      - name: Latvia
+      - name: Lebanon
+      - name: Lesotho
+      - name: Liberia
+      - name: Libya
+      - name: Liechtenstein
+      - name: Lithuania
+      - name: Luxembourg
+      - name: Madagascar
+      - name: Malawi
+      - name: Malaysia
+      - name: Maldives
+      - name: Mali
+      - name: Malta
+      - name: Marshall Islands
+      - name: Mauritania
+      - name: Mauritius
+      - name: Mexico
+      - name: Micronesia
+      - name: Moldova
+      - name: Monaco
+      - name: Mongolia
+      - name: Montenegro
+      - name: Morocco
+      - name: Mozambique
+      - name: Myanmar
+      - name: Namibia
+      - name: Nauru
+      - name: Nepal
+      - name: Netherlands
+      - name: New Zealand
+      - name: Nicaragua
+      - name: Niger
+      - name: Nigeria
+      - name: Korea (DPRK)
+      - name: North Macedonia
+      - name: Norway
+      - name: Oman
+      - name: Pakistan
+      - name: Palau
+      - name: Palestinian Authority
+      - name: Panama
+      - name: Papua New Guinea
+      - name: Paraguay
+      - name: Peru
+      - name: Philippines
+      - name: Poland
+      - name: Portugal
+      - name: Qatar
+      - name: Romania
+      - name: Russia
+      - name: Rwanda
+      - name: Saint Kitts and Nevis
+      - name: Saint Lucia
+      - name: Saint Vincent and the Grenadines
+      - name: Samoa
+      - name: San Marino
+      - name: Sao Tome and Principe
+      - name: Saudi Arabia
+      - name: Senegal
+      - name: Serbia
+      - name: Seychelles
+      - name: Sierra Leone
+      - name: Singapore
+      - name: Slovakia
+      - name: Slovenia
+      - name: Solomon Islands
+      - name: Somalia
+      - name: South Africa
+      - name: Korea (ROK)
+      - name: South Sudan
+      - name: Spain
+      - name: Sri Lanka
+      - name: Sudan
+      - name: Suriname
+      - name: Sweden
+      - name: Switzerland
+      - name: Syria
+      - name: Tajikistan
+      - name: Tanzania
+      - name: Thailand
+      - name: Timor-Leste
+      - name: Togo
+      - name: Tonga
+      - name: Trinidad and Tobago
+      - name: Tunisia
+      - name: Turkey
+      - name: Turkmenistan
+      - name: Tuvalu
+      - name: Uganda
+      - name: Ukraine
+      - name: United Arab Emirates
+      - name: United Kingdom
+      - name: United States of America
+      - name: Uruguay
+      - name: Uzbekistan
+      - name: Vanuatu
+      - name: Venezuela
+      - name: Vietnam
+      - name: Yemen
+      - name: Zambia
+      - name: Zimbabwe
+    topics:
+      - title: "Topic A: The regulation of illegitimate weapons dealings in conflict areas and their effects"
+        image: image_url
+      - title: "Topic B: Present and future humanitarian impacts of nuclear weapons testing"
+        image: image_url
 
   - title: Legal Committee
     url: legal_committee
     image: legal.jpg
     description: "Established in 1947, the United Nations General Assembly Sixth Committee, also known as the Legal committee, is a primary forum that focuses on the development of international law and other legal matters concerning the United Nations. Annually, the Legal committee circulates around 5 main topic areas, namely the promotion of justice and international law, accountability and internal United Nations justice matters, Drug control, Crime prevention, and Combating international terrorism. However, here in the Legal committee, delegates will debate on the wide variety of global matters from the perspective of their legitimacy with great focus on established international law and national sovereignty. At TMUN 2022, delegates of the Legal committee will not only engage in 3 days of civilized debate, but also receive insightful takeaways on the United Nations Legal conventions to last. This committee holds great expectations of offering a collaborative and educational environment for all, and hopes to witness creative and original solutions that address the agenda topics."
     director: Sarah Hu
-  - topics:
+    role-type: Countries
+    role-type-singular: Countrie
+    roles:
+      - name: Afghanistan (Islamic Emirate of)
+      - name: Albania
+      - name: Algeria
+      - name: Andorra
+      - name: Angola
+      - name: Antigua and Barbuda
+      - name: Argentina
+      - name: Armenia
+      - name: Australia
+      - name: Austria
+      - name: Azerbaijan
+      - name: Bahamas
+      - name: Bahrain
+      - name: Bangladesh
+      - name: Barbados
+      - name: Belarus
+      - name: Belgium
+      - name: Belize
+      - name: Benin
+      - name: Bhutan
+      - name: Bolivia
+      - name: Bosnia and Herzegovina
+      - name: Botswana
+      - name: Brazil
+      - name: Brunei
+      - name: Bulgaria
+      - name: Burkina Faso
+      - name: Burundi
+      - name: Côte d'Ivoire
+      - name: Cabo Verde
+      - name: Cambodia
+      - name: Cameroon
+      - name: Canada
+      - name: Central African Republic
+      - name: Chad
+      - name: Chile
+      - name: People's Republic of China
+      - name: Republic of China (Taiwan)
+      - name: Colombia
+      - name: Comoros
+      - name: Congo (Congo-Brazzaville)
+      - name: Costa Rica
+      - name: Croatia
+      - name: Cuba
+      - name: Cyprus
+      - name: Czechia (Czech Republic)
+      - name: Democratic Republic of the Congo
+      - name: Denmark
+      - name: Djibouti
+      - name: Dominica
+      - name: Dominican Republic
+      - name: Ecuador
+      - name: Egypt
+      - name: El Salvador
+      - name: Equatorial Guinea
+      - name: Eritrea
+      - name: Estonia
+      - name: Eswatini
+      - name: Ethiopia
+      - name: Fiji
+      - name: Finland
+      - name: France
+      - name: Gabon
+      - name: Gambia
+      - name: Georgia
+      - name: Germany
+      - name: Ghana
+      - name: Greece
+      - name: Grenada
+      - name: Guatemala
+      - name: Guinea
+      - name: Guinea-Bissau
+      - name: Guyana
+      - name: Haiti
+      - name: Holy See
+      - name: Honduras
+      - name: Hungary
+      - name: Iceland
+      - name: India
+      - name: Indonesia
+      - name: Iran
+      - name: Iraq
+      - name: Ireland
+      - name: Israel
+      - name: Italy
+      - name: Jamaica
+      - name: Japan
+      - name: Jordan
+      - name: Kazakhstan
+      - name: Kenya
+      - name: Kiribati
+      - name: Kuwait
+      - name: Kyrgyzstan
+      - name: Laos
+      - name: Latvia
+      - name: Lebanon
+      - name: Lesotho
+      - name: Liberia
+      - name: Libya
+      - name: Liechtenstein
+      - name: Lithuania
+      - name: Luxembourg
+      - name: Madagascar
+      - name: Malawi
+      - name: Malaysia
+      - name: Maldives
+      - name: Mali
+      - name: Malta
+      - name: Marshall Islands
+      - name: Mauritania
+      - name: Mauritius
+      - name: Mexico
+      - name: Micronesia
+      - name: Moldova
+      - name: Monaco
+      - name: Mongolia
+      - name: Montenegro
+      - name: Morocco
+      - name: Mozambique
+      - name: Myanmar
+      - name: Namibia
+      - name: Nauru
+      - name: Nepal
+      - name: Netherlands
+      - name: New Zealand
+      - name: Nicaragua
+      - name: Niger
+      - name: Nigeria
+      - name: Korea (DPRK)
+      - name: North Macedonia
+      - name: Norway
+      - name: Oman
+      - name: Pakistan
+      - name: Palau
+      - name: Palestinian Authority
+      - name: Panama
+      - name: Papua New Guinea
+      - name: Paraguay
+      - name: Peru
+      - name: Philippines
+      - name: Poland
+      - name: Portugal
+      - name: Qatar
+      - name: Romania
+      - name: Russia
+      - name: Rwanda
+      - name: Saint Kitts and Nevis
+      - name: Saint Lucia
+      - name: Saint Vincent and the Grenadines
+      - name: Samoa
+      - name: San Marino
+      - name: Sao Tome and Principe
+      - name: Saudi Arabia
+      - name: Senegal
+      - name: Serbia
+      - name: Seychelles
+      - name: Sierra Leone
+      - name: Singapore
+      - name: Slovakia
+      - name: Slovenia
+      - name: Solomon Islands
+      - name: Somalia
+      - name: South Africa
+      - name: Korea (ROK)
+      - name: South Sudan
+      - name: Spain
+      - name: Sri Lanka
+      - name: Sudan
+      - name: Suriname
+      - name: Sweden
+      - name: Switzerland
+      - name: Syria
+      - name: Tajikistan
+      - name: Tanzania
+      - name: Thailand
+      - name: Timor-Leste
+      - name: Togo
+      - name: Tonga
+      - name: Trinidad and Tobago
+      - name: Tunisia
+      - name: Turkey
+      - name: Turkmenistan
+      - name: Tuvalu
+      - name: Uganda
+      - name: Ukraine
+      - name: United Arab Emirates
+      - name: United Kingdom
+      - name: United States of America
+      - name: Uruguay
+      - name: Uzbekistan
+      - name: Vanuatu
+      - name: Venezuela
+      - name: Vietnam
+      - name: Yemen
+      - name: Zambia
+      - name: Zimbabwe
+    topics:
       - title: "Topic A: Sanctions & the Economic State of the World"
         image: image_url
       - title: "Topic B: Seperarist Regions & Political Control"
@@ -33,10 +431,209 @@
     image: UNICEF.jpg
     description: "The United Nations Children's Fund (UNICEF), founded in the year 1946, is a humanitarian agency developed for the purpose of protecting the rights and freedoms of children worldwide. Initially created as an emergency response to the dire situation that World War II left children in across the globe, the organization began to work towards combating famine and disease in the youth population. Not long after, The United Nations then extended UNICEF's mandate, thereby establishing it as a committee dedicated to the advocation and protection of the wellbeing of children. Today, the committee's goal is to strive towards overcoming poverty, disease, and exploitation, as well as providing aid for the education, health, and welfare of children."
     director: Sumaiyya Mahmood
-  - topics:
+    role-type: Countries
+    role-type-singular: Countrie
+    roles:
+      - name: Afghanistan (Islamic Emirate of)
+      - name: Albania
+      - name: Algeria
+      - name: Andorra
+      - name: Angola
+      - name: Antigua and Barbuda
+      - name: Argentina
+      - name: Armenia
+      - name: Australia
+      - name: Austria
+      - name: Azerbaijan
+      - name: Bahamas
+      - name: Bahrain
+      - name: Bangladesh
+      - name: Barbados
+      - name: Belarus
+      - name: Belgium
+      - name: Belize
+      - name: Benin
+      - name: Bhutan
+      - name: Bolivia
+      - name: Bosnia and Herzegovina
+      - name: Botswana
+      - name: Brazil
+      - name: Brunei
+      - name: Bulgaria
+      - name: Burkina Faso
+      - name: Burundi
+      - name: Côte d'Ivoire
+      - name: Cabo Verde
+      - name: Cambodia
+      - name: Cameroon
+      - name: Canada
+      - name: Central African Republic
+      - name: Chad
+      - name: Chile
+      - name: People's Republic of China
+      - name: Republic of China (Taiwan)
+      - name: Colombia
+      - name: Comoros
+      - name: Congo (Congo-Brazzaville)
+      - name: Costa Rica
+      - name: Croatia
+      - name: Cuba
+      - name: Cyprus
+      - name: Czechia (Czech Republic)
+      - name: Democratic Republic of the Congo
+      - name: Denmark
+      - name: Djibouti
+      - name: Dominica
+      - name: Dominican Republic
+      - name: Ecuador
+      - name: Egypt
+      - name: El Salvador
+      - name: Equatorial Guinea
+      - name: Eritrea
+      - name: Estonia
+      - name: Eswatini
+      - name: Ethiopia
+      - name: Fiji
+      - name: Finland
+      - name: France
+      - name: Gabon
+      - name: Gambia
+      - name: Georgia
+      - name: Germany
+      - name: Ghana
+      - name: Greece
+      - name: Grenada
+      - name: Guatemala
+      - name: Guinea
+      - name: Guinea-Bissau
+      - name: Guyana
+      - name: Haiti
+      - name: Holy See
+      - name: Honduras
+      - name: Hungary
+      - name: Iceland
+      - name: India
+      - name: Indonesia
+      - name: Iran
+      - name: Iraq
+      - name: Ireland
+      - name: Israel
+      - name: Italy
+      - name: Jamaica
+      - name: Japan
+      - name: Jordan
+      - name: Kazakhstan
+      - name: Kenya
+      - name: Kiribati
+      - name: Kuwait
+      - name: Kyrgyzstan
+      - name: Laos
+      - name: Latvia
+      - name: Lebanon
+      - name: Lesotho
+      - name: Liberia
+      - name: Libya
+      - name: Liechtenstein
+      - name: Lithuania
+      - name: Luxembourg
+      - name: Madagascar
+      - name: Malawi
+      - name: Malaysia
+      - name: Maldives
+      - name: Mali
+      - name: Malta
+      - name: Marshall Islands
+      - name: Mauritania
+      - name: Mauritius
+      - name: Mexico
+      - name: Micronesia
+      - name: Moldova
+      - name: Monaco
+      - name: Mongolia
+      - name: Montenegro
+      - name: Morocco
+      - name: Mozambique
+      - name: Myanmar
+      - name: Namibia
+      - name: Nauru
+      - name: Nepal
+      - name: Netherlands
+      - name: New Zealand
+      - name: Nicaragua
+      - name: Niger
+      - name: Nigeria
+      - name: Korea (DPRK)
+      - name: North Macedonia
+      - name: Norway
+      - name: Oman
+      - name: Pakistan
+      - name: Palau
+      - name: Palestinian Authority
+      - name: Panama
+      - name: Papua New Guinea
+      - name: Paraguay
+      - name: Peru
+      - name: Philippines
+      - name: Poland
+      - name: Portugal
+      - name: Qatar
+      - name: Romania
+      - name: Russia
+      - name: Rwanda
+      - name: Saint Kitts and Nevis
+      - name: Saint Lucia
+      - name: Saint Vincent and the Grenadines
+      - name: Samoa
+      - name: San Marino
+      - name: Sao Tome and Principe
+      - name: Saudi Arabia
+      - name: Senegal
+      - name: Serbia
+      - name: Seychelles
+      - name: Sierra Leone
+      - name: Singapore
+      - name: Slovakia
+      - name: Slovenia
+      - name: Solomon Islands
+      - name: Somalia
+      - name: South Africa
+      - name: Korea (ROK)
+      - name: South Sudan
+      - name: Spain
+      - name: Sri Lanka
+      - name: Sudan
+      - name: Suriname
+      - name: Sweden
+      - name: Switzerland
+      - name: Syria
+      - name: Tajikistan
+      - name: Tanzania
+      - name: Thailand
+      - name: Timor-Leste
+      - name: Togo
+      - name: Tonga
+      - name: Trinidad and Tobago
+      - name: Tunisia
+      - name: Turkey
+      - name: Turkmenistan
+      - name: Tuvalu
+      - name: Uganda
+      - name: Ukraine
+      - name: United Arab Emirates
+      - name: United Kingdom
+      - name: United States of America
+      - name: Uruguay
+      - name: Uzbekistan
+      - name: Vanuatu
+      - name: Venezuela
+      - name: Vietnam
+      - name: Yemen
+      - name: Zambia
+      - name: Zimbabwe
+    topics:
       - title: "Topic A: Sanctions & the Economic State of the World"
         image: image_url
-      - title: "Topic B: Seperarist Regions & Political Control"
+      - title: "Topic B: Separatist Regions & Political Control"
         image: image_url
 
   - title: Social, Cultural and Humanitarian Committee
@@ -44,7 +641,84 @@
     image: SOCHUM.jpg
     description: "SOCHUM, also known as the Social, Humanitarian, and Cultural Committee is the third committee of the UN General Assembly, focused on promoting international cooperation and fundamental rights for all. It encourages discussions and the implementation of legislation surrounding topics such as: the right to life, expression of culture, religion, and political ideology, freedom of political participation, the rights of children, and more. In SOCHUM TMUN 2023, we will be discussing Human Trafficking in South East Asia, and the Treatment of LGBTQI+ People in Africa. These topics, while centred around a geographical area for the sake of debate, are complex global issues, that require cooperative and creative solutions."
     director: Isabelle Bruce
-  - topics:
+    role-type: Countries
+    role-type-singular: Countrie
+    roles:
+      - name: Armenia
+      - name: Australia
+      - name: Austria
+      - name: Bahrain
+      - name: Belarus
+      - name: Bhutan
+      - name: Brazil
+      - name: Bulgaria
+      - name: Burundi
+      - name: Cameroon
+      - name: Canada
+      - name: Chad
+      - name: China
+      - name: Colombia
+      - name: Croatia
+      - name: Democratic Republic of Congo
+      - name: Djibouti
+      - name: Korea (Democratic People's Republic of)
+      - name: Egypt
+      - name: Ethiopia
+      - name: Finland
+      - name: France
+      - name: Germany
+      - name: Greece
+      - name: Guatemala
+      - name: Hungary
+      - name: India
+      - name: Indonesia
+      - name: Iran
+      - name: Iraq
+      - name: Ireland
+      - name: Israel
+      - name: Italy
+      - name: Japan
+      - name: Jordan
+      - name: Kenya
+      - name: Kuwait
+      - name: Lebanon
+      - name: Madagascar
+      - name: Malaysia
+      - name: Mali
+      - name: Mauritania
+      - name: Mexico
+      - name: Montenegro
+      - name: Morocco
+      - name: Myanmar
+      - name: Nepal
+      - name: Netherland
+      - name: New Zealand
+      - name: Niger
+      - name: Norway
+      - name: Oman
+      - name: Pakistan
+      - name: Palestinian Authority
+      - name: Qatar
+      - name: Korea (Republic of)
+      - name: Saudi Arabia
+      - name: Singapore
+      - name: Somalia
+      - name: South Sudan
+      - name: Spain
+      - name: Sweden
+      - name: Switzerland
+      - name: Syria
+      - name: Thailand
+      - name: Turkey
+      - name: United Arab Emirates
+      - name: Uganda
+      - name: United Kingdom
+      - name: United States of America
+      - name: Venezuela
+      - name: Vietnam
+      - name: Vietnam
+      - name: Yemen
+    topics:
       - title: "Topic A: Human Trafficking in South East Asia"
         image: image_url
       - title: "Topic B: Treatment of LGBTQI+ People in Africa"
@@ -58,7 +732,30 @@
       image: AS.jpg
       description: "What began with an upset produce vendor in Tunisia who lit himself on fire to protest the corrupt regime under Zine El Abidine Ben Ali, would later lead to one of the most significant revolutions in human history. With a total of 6 governments overthrown, multiple civil wars, and 20 countries directly affected, some resulted in the original goal of achieving freedom, liberty, human rights, and democracy but the majority resulted in ongoing civil wars and increased tyranny from the government. This is due to the various actors with varying points of view from the corrupt governments, to the protesters, to extremist organizations, to external Western nations choosing sides. This crisis committee took place on January 14th, 2011, the end of the overthrow of the Tunisia government and the beginning of the protests in the Arab world. Your task as delegates representing various actors is to achieve your agenda - whatever agenda that may be."
       director: Adam Ben Lassoued
-    - topics:
+      role-type: Characters
+      role-type-singular: Character
+      roles:
+        - name: Zine El Abidine Ben Ali (2011 Government  of Tunisia)
+        - name: Abdelaziz Bouteflika (2011 Government  of Algeria)
+        - name: Hosni Mubarak (2011 Government of Egypt)
+        - name: Bashar Al-Assad (2011 Government  of Syria)
+        - name: Ali Abdullah Saleh (2011 Government  of Yemen)
+        - name: Muammar Gaddafi (2011 Government  of Libya)
+        - name: Nouri al-Maliki (2011 Government  of Iraq)
+        - name: King Abdullah II (Monarch of Jordan)
+        - name: Mohamed Ghannouchi (Democratic Constitutional Assembly of Tunisia)
+        - name: Karim Tabbou (Democratic and Social Union of Algeria)
+        - name: Abdel Fatah El-Sisi (2011 Egyptian Minister of Defense)
+        - name: Naser al-Hariri (Leader of the National Coalition for Syrian Revolutionary and Opposition Forces)
+        - name: Abdul-Malik al-Houthi (Leader of the Houthi Insurgency)
+        - name: Khalifa Belqasim Haftar (Supreme Commander of the Libyan National Army)
+        - name: Mohammed Younis al-Ahmed (Leader of Al-Awda, "the underground Ba'ath movement")
+        - name: Hamza Mansour (Leader of the Islamic Action Front of Jordan)
+        - name: Hilary Clinton (2011 United States Secretary of State)
+        - name: Sergey Lavrov (Russian Minister of Foreign Affairs)
+        - name: Dai Bingguo (2011 Chinese Seceratary-General of the Foreign Affairs Leading Group)
+        - name: Avigdor Lieberman (2011 Israeli Minister of Foreign Affairs)
+      topics:
         - title: "Topic A: Taking Steps to Rebuild Tunisia"
           image: image_url
         - title: "Topic B: Rising Tensions in Arab States After the Fall of Al Abadine"
@@ -69,7 +766,30 @@
       image: mars.jpg
       description: "The staff members of the Mars Crisis Committee are beyond excited to welcome you to TMUN 2023! This committee takes place in the future, where the living condition on Earth does not allow us to stay on our home planet anymore and forces us to start colonizing Mars. In this fast-paced crisis committee, you will be challenged to face multiple issues. Tasked with managing the Earth-Mars voyage and distributing land on Mars, you will represent space agencies and institutions and will use your creativity, diplomacy, and ability to negotiate throughout the conference. Remember, the fate of the human race is in your hands!"
       director: Yuqing Zhou
-    - topics:
+      role-type: Countries
+      role-type-singular: Country
+      roles:
+        - name: Brazil
+        - name: Canada
+        - name: Chile
+        - name: China
+        - name: East African Federation
+        - name: The United Kingdom
+        - name: Egypt
+        - name: Germany
+        - name: Greater Mexico
+        - name: India
+        - name: Italy
+        - name: Japan
+        - name: Korea
+        - name: New Persia
+        - name: Oceanic Union
+        - name: Russia
+        - name: Spain
+        - name: Ukraine
+        - name: United Arab Emirates
+        - name: United States of America
+      topics:
         - title: "Topic A: Taking Steps to Rebuild Tunisia"
           image: image_url
         - title: "Topic B: Rising Tensions in Arab States After the Fall of Al Abadine"
@@ -80,7 +800,31 @@
       image: multiverse_of_madness.jpg
       description: "SHIELD Director Nick Fury once created a group of remarkable people to face extraordinary threats; the Avengers. Decades later, these super powered individuals have fought various opponents, including hardened criminals, and interplanetary species. However the Avengers are now faced with a new challenge, a portal to the Multiverse has been opened by an unknown source, and creatures are causing chaos. Based on the popular Marvel Cinematic Franchise, delegates will have to make choices to not only protect Earth, but to protect the entire universe."
       director: Abigail Nicholas
-    - topics:
+      role-type: Characters
+      role-type-singular: Character
+      roles:
+        - name: Alexandria Ocasio-Cortez
+        - name: America Chavez
+        - name: Bruce Banner
+        - name: Bucky Barnes
+        - name: Carol Danvers
+        - name: Clint Barton
+        - name: Jimmy Woo
+        - name: Joe Biden
+        - name: Kamala Khan
+        - name: Maria Hill
+        - name: Monica Rambeau
+        - name: Nick Fury
+        - name: Peter Quill
+        - name: Sam Wilson
+        - name: Scott Lang
+        - name: Stephen Strange
+        - name: T’Challa
+        - name: Thaddeus Ross
+        - name: Thor
+        - name: Wong
+        - name: Yelena Belova
+      topics:
         - title: "Topic A: Sanctions & the Economic State of the World"
           image: image_url
         - title: "Topic B: Seperarist Regions & Political Control"
@@ -91,7 +835,30 @@
       image: rupn.jpeg
       description: "In the midst of the largest full-scale invasion since the conclusion of the second world war, the world lies in a state of crisis in light of the 2022 Russian invasion of Ukraine. Set in the months following the start, delegates in this committee will attempt to come to terms with the conflict, the issues, and themselves. From Russian & Ukrainian military leaders to foreign ambassadors and organizations, delegates here will have the task of resolving the 21st century's biggest conflict to best suit their political agendas. Will you be able to come out on top? Or will you fall to the wrath of modern geopolitics and conflict? Whatever happens, may the best delegate win."
       director: Mohit Bhabak
-    - topics:
+      role-type: Characters
+      role-type-singular: Character
+      roles:
+        - name: Vladamir Putin (Russian President)
+        - name: Oleg Salyukov (Russian Commander In-Chief)
+        - name: Sergei Shoigu (Russian Minister of Defense)
+        - name: Sergey Lavrov (Russian Minister of Foreign Affairs)
+        - name: Maxim Reshetnikov (Russian Minister of Economic Development)
+        - name: Volodymyr Zelenskyy (Ukrainian President)
+        - name: Valerii Zaluzhnyi (Ukrainian Commander-In-Chief)
+        - name: Oleksii Reznikov (Ukrainian Minister of Defense)
+        - name: Dmytro Kuleba (Ukrainian Minister of Foreign Affairs)
+        - name: Yulia Svyrydenko (Ukrainian Minister of Economic Development)
+        - name: Antony J. Blinken (American Secretary of State)
+        - name: Wang Yi (Chinese Minister of Foreign Affairs)
+        - name: Subrahmanyam Jaishankar (Indian Minister of External Affairs)
+        - name: Mélanie Joly (Canadian Minister of Foreign Affairs)
+        - name: Marija Pejčinović Burić (Secretary-General of the European Union)
+        - name: Mevlüt Çavuşoğlu (Turkish Minister of Foreign Affairs)
+        - name: Leonid Pasechnik (Head of the Luhansk People's Republic)
+        - name: Denis Pushilin (Head of the Donetsk People’s Republic)
+        - name: James Cleverly MP (British Secretary of State)
+        - name: Vladimir Makei (Belarussian Minister of Foreign Affairs)
+      topics:
         - title: "Topic A: Sanctions & the Economic State of the World"
           image: image_url
         - title: "Topic B: Seperarist Regions & Political Control"
@@ -104,7 +871,206 @@
       image: WHO.jpg
       description: "The World Health Organization targets all issues related to the topic of global health, which may be intertwined with global politics. Healthcare inequalities continue to worsen, especially between low and high income communities, with large discrepancies in both quality and quantity of care. The COVID-19 pandemic caused a global health crisis, a crisis which can be avoided in the future if countries choose to be prepared. Both issues come with long and diverse backgrounds of information. But if one thing is for sure, these are prominent issues that must be addressed imminently."
       director: Seth Goyal
-    - topics:
+      role-type: Countries
+      role-type-singular: Country
+      roles:
+        - name: Afghanistan (Islamic Emirate of)
+        - name: Albania
+        - name: Algeria
+        - name: Andorra
+        - name: Angola
+        - name: Antigua and Barbuda
+        - name: Argentina
+        - name: Armenia
+        - name: Australia
+        - name: Austria
+        - name: Azerbaijan
+        - name: Bahamas
+        - name: Bahrain
+        - name: Bangladesh
+        - name: Barbados
+        - name: Belarus
+        - name: Belgium
+        - name: Belize
+        - name: Benin
+        - name: Bhutan
+        - name: Bolivia
+        - name: Bosnia and Herzegovina
+        - name: Botswana
+        - name: Brazil
+        - name: Brunei
+        - name: Bulgaria
+        - name: Burkina Faso
+        - name: Burundi
+        - name: Côte d'Ivoire
+        - name: Cabo Verde
+        - name: Cambodia
+        - name: Cameroon
+        - name: Canada
+        - name: Central African Republic
+        - name: Chad
+        - name: Chile
+        - name: People's Republic of China
+        - name: Republic of China (Taiwan)
+        - name: Colombia
+        - name: Comoros
+        - name: Congo (Congo-Brazzaville)
+        - name: Costa Rica
+        - name: Croatia
+        - name: Cuba
+        - name: Cyprus
+        - name: Czechia (Czech Republic)
+        - name: Democratic Republic of the Congo
+        - name: Denmark
+        - name: Djibouti
+        - name: Dominica
+        - name: Dominican Republic
+        - name: Ecuador
+        - name: Egypt
+        - name: El Salvador
+        - name: Equatorial Guinea
+        - name: Eritrea
+        - name: Estonia
+        - name: Eswatini
+        - name: Ethiopia
+        - name: Fiji
+        - name: Finland
+        - name: France
+        - name: Gabon
+        - name: Gambia
+        - name: Georgia
+        - name: Germany
+        - name: Ghana
+        - name: Greece
+        - name: Grenada
+        - name: Guatemala
+        - name: Guinea
+        - name: Guinea-Bissau
+        - name: Guyana
+        - name: Haiti
+        - name: Holy See
+        - name: Honduras
+        - name: Hungary
+        - name: Iceland
+        - name: India
+        - name: Indonesia
+        - name: Iran
+        - name: Iraq
+        - name: Ireland
+        - name: Israel
+        - name: Italy
+        - name: Jamaica
+        - name: Japan
+        - name: Jordan
+        - name: Kazakhstan
+        - name: Kenya
+        - name: Kiribati
+        - name: Kuwait
+        - name: Kyrgyzstan
+        - name: Laos
+        - name: Latvia
+        - name: Lebanon
+        - name: Lesotho
+        - name: Liberia
+        - name: Libya
+        - name: Liechtenstein
+        - name: Lithuania
+        - name: Luxembourg
+        - name: Madagascar
+        - name: Malawi
+        - name: Malaysia
+        - name: Maldives
+        - name: Mali
+        - name: Malta
+        - name: Marshall Islands
+        - name: Mauritania
+        - name: Mauritius
+        - name: Mexico
+        - name: Micronesia
+        - name: Moldova
+        - name: Monaco
+        - name: Mongolia
+        - name: Montenegro
+        - name: Morocco
+        - name: Mozambique
+        - name: Myanmar
+        - name: Namibia
+        - name: Nauru
+        - name: Nepal
+        - name: Netherlands
+        - name: New Zealand
+        - name: Nicaragua
+        - name: Niger
+        - name: Nigeria
+        - name: Korea (DPRK)
+        - name: North Macedonia
+        - name: Norway
+        - name: Oman
+        - name: Pakistan
+        - name: Palau
+        - name: Palestinian Authority
+        - name: Panama
+        - name: Papua New Guinea
+        - name: Paraguay
+        - name: Peru
+        - name: Philippines
+        - name: Poland
+        - name: Portugal
+        - name: Qatar
+        - name: Romania
+        - name: Russia
+        - name: Rwanda
+        - name: Saint Kitts and Nevis
+        - name: Saint Lucia
+        - name: Saint Vincent and the Grenadines
+        - name: Samoa
+        - name: San Marino
+        - name: Sao Tome and Principe
+        - name: Saudi Arabia
+        - name: Senegal
+        - name: Serbia
+        - name: Seychelles
+        - name: Sierra Leone
+        - name: Singapore
+        - name: Slovakia
+        - name: Slovenia
+        - name: Solomon Islands
+        - name: Somalia
+        - name: South Africa
+        - name: Korea (ROK)
+        - name: South Sudan
+        - name: Spain
+        - name: Sri Lanka
+        - name: Sudan
+        - name: Suriname
+        - name: Sweden
+        - name: Switzerland
+        - name: Syria
+        - name: Tajikistan
+        - name: Tanzania
+        - name: Thailand
+        - name: Timor-Leste
+        - name: Togo
+        - name: Tonga
+        - name: Trinidad and Tobago
+        - name: Tunisia
+        - name: Turkey
+        - name: Turkmenistan
+        - name: Tuvalu
+        - name: Uganda
+        - name: Ukraine
+        - name: United Arab Emirates
+        - name: United Kingdom
+        - name: United States of America
+        - name: Uruguay
+        - name: Uzbekistan
+        - name: Vanuatu
+        - name: Venezuela
+        - name: Vietnam
+        - name: Yemen
+        - name: Zambia
+        - name: Zimbabwe
+      topics:
         - title: "Topic A: Healthcare Inequality in the Developing World"
           image: image_url
         - title: "Topic B: Post Effects of the COVID-19 Virus"
@@ -115,22 +1081,221 @@
       image: UNCSTD.jpg
       description: "This GA committee has the general theme of technological issues around the planet. With a rapidly changing world, industries are changing and many countries are being left behind. New industries and frontiers also open up new legal challenges and delegates must ensure their countries' concerns are heard when writing resolutions. Discussions can range from new space travel regulations in response to the moon base planned in the USA's Artemis moon mission, the impact of AI and automation around the world, and the movement of rare earth metals for green technologies. Delegates must cooperate to come to agreements to make sure their country is at the edge of innovation."
       director: Dhyey Bhatt
-    - topics:
+      role-type: Countries
+      role-type-singular: Country
+      roles:
+        - name: Afghanistan (Islamic Emirate of)
+        - name: Albania
+        - name: Algeria
+        - name: Andorra
+        - name: Angola
+        - name: Antigua and Barbuda
+        - name: Argentina
+        - name: Armenia
+        - name: Australia
+        - name: Austria
+        - name: Azerbaijan
+        - name: Bahamas
+        - name: Bahrain
+        - name: Bangladesh
+        - name: Barbados
+        - name: Belarus
+        - name: Belgium
+        - name: Belize
+        - name: Benin
+        - name: Bhutan
+        - name: Bolivia
+        - name: Bosnia and Herzegovina
+        - name: Botswana
+        - name: Brazil
+        - name: Brunei
+        - name: Bulgaria
+        - name: Burkina Faso
+        - name: Burundi
+        - name: Côte d'Ivoire
+        - name: Cabo Verde
+        - name: Cambodia
+        - name: Cameroon
+        - name: Canada
+        - name: Central African Republic
+        - name: Chad
+        - name: Chile
+        - name: People's Republic of China
+        - name: Republic of China (Taiwan)
+        - name: Colombia
+        - name: Comoros
+        - name: Congo (Congo-Brazzaville)
+        - name: Costa Rica
+        - name: Croatia
+        - name: Cuba
+        - name: Cyprus
+        - name: Czechia (Czech Republic)
+        - name: Democratic Republic of the Congo
+        - name: Denmark
+        - name: Djibouti
+        - name: Dominica
+        - name: Dominican Republic
+        - name: Ecuador
+        - name: Egypt
+        - name: El Salvador
+        - name: Equatorial Guinea
+        - name: Eritrea
+        - name: Estonia
+        - name: Eswatini
+        - name: Ethiopia
+        - name: Fiji
+        - name: Finland
+        - name: France
+        - name: Gabon
+        - name: Gambia
+        - name: Georgia
+        - name: Germany
+        - name: Ghana
+        - name: Greece
+        - name: Grenada
+        - name: Guatemala
+        - name: Guinea
+        - name: Guinea-Bissau
+        - name: Guyana
+        - name: Haiti
+        - name: Holy See
+        - name: Honduras
+        - name: Hungary
+        - name: Iceland
+        - name: India
+        - name: Indonesia
+        - name: Iran
+        - name: Iraq
+        - name: Ireland
+        - name: Israel
+        - name: Italy
+        - name: Jamaica
+        - name: Japan
+        - name: Jordan
+        - name: Kazakhstan
+        - name: Kenya
+        - name: Kiribati
+        - name: Kuwait
+        - name: Kyrgyzstan
+        - name: Laos
+        - name: Latvia
+        - name: Lebanon
+        - name: Lesotho
+        - name: Liberia
+        - name: Libya
+        - name: Liechtenstein
+        - name: Lithuania
+        - name: Luxembourg
+        - name: Madagascar
+        - name: Malawi
+        - name: Malaysia
+        - name: Maldives
+        - name: Mali
+        - name: Malta
+        - name: Marshall Islands
+        - name: Mauritania
+        - name: Mauritius
+        - name: Mexico
+        - name: Micronesia
+        - name: Moldova
+        - name: Monaco
+        - name: Mongolia
+        - name: Montenegro
+        - name: Morocco
+        - name: Mozambique
+        - name: Myanmar
+        - name: Namibia
+        - name: Nauru
+        - name: Nepal
+        - name: Netherlands
+        - name: New Zealand
+        - name: Nicaragua
+        - name: Niger
+        - name: Nigeria
+        - name: Korea (DPRK)
+        - name: North Macedonia
+        - name: Norway
+        - name: Oman
+        - name: Pakistan
+        - name: Palau
+        - name: Palestinian Authority
+        - name: Panama
+        - name: Papua New Guinea
+        - name: Paraguay
+        - name: Peru
+        - name: Philippines
+        - name: Poland
+        - name: Portugal
+        - name: Qatar
+        - name: Romania
+        - name: Russia
+        - name: Rwanda
+        - name: Saint Kitts and Nevis
+        - name: Saint Lucia
+        - name: Saint Vincent and the Grenadines
+        - name: Samoa
+        - name: San Marino
+        - name: Sao Tome and Principe
+        - name: Saudi Arabia
+        - name: Senegal
+        - name: Serbia
+        - name: Seychelles
+        - name: Sierra Leone
+        - name: Singapore
+        - name: Slovakia
+        - name: Slovenia
+        - name: Solomon Islands
+        - name: Somalia
+        - name: South Africa
+        - name: Korea (ROK)
+        - name: South Sudan
+        - name: Spain
+        - name: Sri Lanka
+        - name: Sudan
+        - name: Suriname
+        - name: Sweden
+        - name: Switzerland
+        - name: Syria
+        - name: Tajikistan
+        - name: Tanzania
+        - name: Thailand
+        - name: Timor-Leste
+        - name: Togo
+        - name: Tonga
+        - name: Trinidad and Tobago
+        - name: Tunisia
+        - name: Turkey
+        - name: Turkmenistan
+        - name: Tuvalu
+        - name: Uganda
+        - name: Ukraine
+        - name: United Arab Emirates
+        - name: United Kingdom
+        - name: United States of America
+        - name: Uruguay
+        - name: Uzbekistan
+        - name: Vanuatu
+        - name: Venezuela
+        - name: Vietnam
+        - name: Yemen
+        - name: Zambia
+        - name: Zimbabwe
+      topics:
         - title: "Topic A: Global Impact of Artificial Intelligence / Automation"
           image: image_url
         - title: "Topic B: Technological Cooperation on Climate Change"
           image: image_url
 
-    - title: Kaiserreich - What if Germany Won WW1
-      url: kaiserreich
-      image: kaiserreich.jpg
-      description: "TBD"
-      director: Dhyey Bhatt
-    - topics:
-        - title: "TBD"
-          image: image_url
-        - title: "TBD"
-          image: image_url
+#    - title: Kaiserreich - What if Germany Won WW1
+#      url: kaiserreich
+#      image: kaiserreich.jpg
+#      description: "TBD"
+#      director: TBD
+#      topics:
+#        - title: "TBD"
+#          image: image_url
+#        - title: "TBD"
+#          image: image_url
 
 
 

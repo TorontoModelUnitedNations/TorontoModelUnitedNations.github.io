@@ -25,9 +25,27 @@
                 </div>
             </div>
             <div class="event">
+                <h2 style="text-align: center;padding-bottom: 10px;padding-top: 10px;font-size: 30px">Committee Description</h2>
+
                 <p>
                     {{link.description}}
                 <p>
+
+                <h2 style="text-align: center;padding-bottom: 10px;padding-top: 30px;font-size: 30px">{{ link.role-type-singular }} Matrix</h2>
+                <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">
+                    <thead>
+                    <tr>
+                        <th class="row-1 agenda-time"><center>Available {{ link.role-type }}</center></th>
+                    </tr>
+                    </thead>
+
+                    {% for role in link.roles %}
+                    <tr style="height: 60px">
+                        <td>{{ role.name }}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+
             </div>
         </div>
     {% endfor %}
