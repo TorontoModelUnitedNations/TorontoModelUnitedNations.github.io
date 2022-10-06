@@ -8,6 +8,8 @@
       link: ./secretariat
     - title: FAQ
       link: ./faq
+    - title: Board of Directors
+      link:  /board_of_directors
 - dropdown: Registration
   links:
     - title: Overview
