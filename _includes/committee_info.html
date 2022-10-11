@@ -24,12 +24,29 @@
                     </div>
                 </div>
             </div>
+
+
+
             <div class="event">
                 <h2 style="text-align: center;padding-bottom: 10px;padding-top: 10px;font-size: 30px">Committee Description</h2>
 
                 <p>
                     {{link.description}}
                 <p>
+
+                <div id="contact" style="padding-bottom: 45px; padding-top: 35px; margin-top: 50px; width: 100vw; margin-left: calc(-50vw + 50%); background-color: #00283C;">
+                    <div class="container">
+
+                        <row>
+                            {% for topic in link.topics %}
+                            <div class="col-lg-6" style="padding-right: 60px">
+                                <h2 style="color: #FFFFFF; text-align: center">{{ topic.title }}</h2>
+                                <p style="color: #FFFFFF">{{ topic.desc }}</p>
+                            </div>
+                            {% endfor %}
+                        </row>
+                    </div>
+                </div>
 
                 <h2 style="text-align: center;padding-bottom: 10px;padding-top: 30px;font-size: 30px">{{ link.role-type-singular }} Matrix</h2>
                 <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">

@@ -211,10 +211,10 @@
       - name: Zambia
       - name: Zimbabwe
     topics:
-      - title: "Topic A: The regulation of illegitimate weapons dealings in conflict areas and their effects"
-        image: image_url
-      - title: "Topic B: Present and future humanitarian impacts of nuclear weapons testing"
-        image: image_url
+      - title: "Topic A - Global Illicit Arms Trading"
+        desc: "Throughout human history and that since the existence of warfare, the supply of weapons has been a cornerstone in the success of a campaign. In more recent times, illegal and clandestine dealings of weapons has proven to become more prevalent in conflicts, when belligerents are unable to financially support official arms purchases. This has resulted in the circulation of weapons throughout the developing and war-torn areas of the world, falling into the hands of civilians and militant groups. DISEC and the United Nations strive to resolve or find a way to civilly manage the issue of illegitimate weapon circulation and mitigate the negative effects it has on the citizens of the world."
+      - title: "Topic B - Nuclear Weapons on the Global Stage"
+        desc: "Since the development and introduction of nuclear weapons, the world has witnessed the suffering and pain they have the potential to cause upon a nation and its populace. Nagasaki and Hiroshima were the first - and thus far - only atomic weapons used in an armed conflict. These two humanitarian disasters were caused by the primitive ancestors of these weapons we possess today. Bombs that could inflict immediate damage one hundred times more than that of Hiroshima and Nagasaki, on humans but also the environment. In this day and age, the United Nations and DISEC must consider the counterintuitive impacts that the continued testing and possible strategic usage of nuclear weapons in warfare could mean for the future of our world, and in conflicts such as climate change, and the war in Ukraine."
 
   - title: Legal Committee
     url: legal_committee
@@ -421,10 +421,10 @@
       - name: Zambia
       - name: Zimbabwe
     topics:
-      - title: "Topic A: Sanctions & the Economic State of the World"
-        image: image_url
-      - title: "Topic B: Seperarist Regions & Political Control"
-        image: image_url
+      - title: "Topic A - Transitional Justice"
+        desc: "History is composed of various cases of serious human right violations, inclusive of state sanctioned tragedies. Political rhetoric centers on methods to end such cases, however guidelines for nations to rebuild afterwards is also of utmost importance. Thus transitional justice comes to play, as the process to which nations utilize to address these tragedies. It asks some of the most difficult questions in law, politics, and the social sciences and grapples with innumerable dilemmas. Above all, transitional justice is about victims, how to address the legacies of horrendous atrocities, or to end recurring cycles of violent conflict, by developing a range of responses covering 3 areas; truth-seeking, victim reparations, and prosecutions."
+      - title: "Topic B - Regulating Multinational Corporations"
+        desc: "Multinational corporations (MNCs) are large businesses operating in numerous countries. Because they operate in different legal jurisdictions, MNCs can be difficult for any one government to regulate. Since MNCs are working in the foreign country (host country), it is necessary that they must not violate and abuse human rights or break legal laws of the host country. Sometimes these MNCs take advantage of its strength and try to dominate in the host country, compelling the government to change their laws favoring MNCs. For this topic, delegates will consider the legal solutions that the UN could pursue to hold these MNCs accountable. Only through systems of accountability and responsibility can MNCs become purely beneficial contributors to global prosperity."
 
   - title: United Nations Children’s Fund
     url: UNICEF
@@ -631,10 +631,7 @@
       - name: Zambia
       - name: Zimbabwe
     topics:
-      - title: "Topic A: Sanctions & the Economic State of the World"
-        image: image_url
-      - title: "Topic B: Separatist Regions & Political Control"
-        image: image_url
+
 
   - title: Social, Cultural and Humanitarian Committee
     url: SOCHUM
@@ -719,10 +716,10 @@
       - name: Vietnam
       - name: Yemen
     topics:
-      - title: "Topic A: Human Trafficking in South East Asia"
-        image: image_url
-      - title: "Topic B: Treatment of LGBTQI+ People in Africa"
-        image: image_url
+      - title: "Topic A - Treatment of LGBTQI+ People in Africa"
+        desc: "Hateful acts towards LGBTQI+ people continue to occur daily around the world. A shockingly low 14% of people said that homosexuality should be accepted in a study done in 2019, this is highlighted especially in Africa, and the rest of the world. Sadly, LGBTQI+ peoples frequently report acts of violence against them in their homes, places of work and worship, in countries such as Kenya, Georgia, Honduras, Cameroon, etc. These people are often ignored by their governments and police forces when they ask for help or go to report hate crimes, and in many cases, the people in power are the abusers."
+      - title: "Topic B - Human Trafficking in South East Asia"
+        desc: "Although many people view slavery as a dark piece of history, it continues to thrive today in the form of human trafficking - defined as the act of transporting an individual by coercion, force, or manipulation to benefit from them typically in the form of sexual exploitation, forced labour, and organ extraction. The United Nations has estimated that this illegal activity generates approximately $32 billion USD annually for offenders making it the second most profitable criminal enterprise after drug trafficking. Organizations engaged in human trafficking are highly structured, with established clandestine transnational routes, and are equipped with action plans to carry out each stage of the crime."
 
 
 - header: Crisis Committees
@@ -790,10 +787,10 @@
         - name: United Arab Emirates
         - name: United States of America
       topics:
-        - title: "Topic A: Taking Steps to Rebuild Tunisia"
-          image: image_url
-        - title: "Topic B: Rising Tensions in Arab States After the Fall of Al Abadine"
-          image: image_url
+        - title: "Topic A – Escape Route"
+          desc: "Over the years, people have searched for alternatives to ensure the survival of the human race as pollution hugely impacts our health and our current planet in a non-reversible way. This severe pollution causes extreme weather events that occur frequently in the 2040s. Missions and studies that have been carried out on Mars in the 2020s as well as the calculations of scientists suggest that Mars colonization is the most reliable and realistic way to ensure the prosperity of humankind. Delegates will have to come up with a relatively detailed and concrete plan of an efficient voyage from Earth to Mars while taking into consideration the limited time and resources that are left on Earth, keeping in mind that negotiation between governments, corporations, and the population as a whole is also important. "
+        - title: "Topic B – Rebuilding Foundations"
+          desc: "The colonization of Mars also consists of settling on the red planet. To start rebuilding the daily routines that are similar to the ones on Earth, delegates will have to write directives regarding the land distribution, transportation, as well as construction of infrastructure and basic public services such as health and education systems on Mars. While trying to build foundations on Mars, delegates should also bear in mind that continuous communication with Earth is also important. This includes sharing resources, keeping in touch with people who are still on Earth, potentially bringing more people to Mars during the first few years of colonization, etc."
 
     - title: Multiverse of Madness
       url: multiverse_of_madness
@@ -825,10 +822,6 @@
         - name: Wong
         - name: Yelena Belova
       topics:
-        - title: "Topic A: Sanctions & the Economic State of the World"
-          image: image_url
-        - title: "Topic B: Seperarist Regions & Political Control"
-          image: image_url
 
     - title: Russo-Ukrainian Peace Negotiations
       url: RUPN
@@ -859,10 +852,10 @@
         - name: James Cleverly MP (British Secretary of State)
         - name: Vladimir Makei (Belarussian Minister of Foreign Affairs)
       topics:
-        - title: "Topic A: Sanctions & the Economic State of the World"
-          image: image_url
-        - title: "Topic B: Seperarist Regions & Political Control"
-          image: image_url
+        - title: "Topic A - Sanctions & the Economic State of the World"
+          desc: "Since the beginning of the 2022 Russo-Ukrainian conflict, sanctions have rained down on Russia from almost every corner. The economic state of the world has arguably never been more volatile since WW2. With almost all of Europe, the United States, Canada and so many others laying massive economic sanctions on the nation, and with Russia also being kicked out of many economic, sporting, & political organizations, it goes to wonder how much either side can keep this up. Whether it be reduced oil & gas supply and the subsequent price hikes, or major companies leaving and almost blacklisting nations, something must be done. The economic situation can only remain so tense for so long before one side must cave in, and it is up to delegates to now write the script and make sure it is not their nations who succumb to the pressures first."
+        - title: "Topic B - Seperatist Regions & Political Control"
+          desc: "With the public announcement of the “special military operation” in Ukraine being declared, alongside it came the official claims to independence from two self-proclaimed nations, the Luhansk & Donetsk Peoples’ Republics. Recognized by the Russian government, and even holding referendums regarding integration into the Russian state, the sovereignty and ownership of two seperatist nations pose a grave challenge to all. Combined with the ever-lasting problem of Crimea, the issue of Ukraine’s Russian-backed seperatist regions and political control over the region as a whole must remain at the forefront of any debate regarding the conflict."
 
 - header: Online Committees
   links:
@@ -1072,9 +1065,7 @@
         - name: Zimbabwe
       topics:
         - title: "Topic A: Healthcare Inequality in the Developing World"
-          image: image_url
         - title: "Topic B: Post Effects of the COVID-19 Virus"
-          image: image_url
 
     - title: Commission on Science and Technology for Development
       url: UNCSTD
@@ -1282,9 +1273,7 @@
         - name: Zimbabwe
       topics:
         - title: "Topic A: Global Impact of Artificial Intelligence / Automation"
-          image: image_url
         - title: "Topic B: Technological Cooperation on Climate Change"
-          image: image_url
 
 #    - title: Kaiserreich - What if Germany Won WW1
 #      url: kaiserreich
