@@ -631,7 +631,10 @@
       - name: Zambia
       - name: Zimbabwe
     topics:
-
+      - title: "Topic A - Recruitment of Children in Armed Militias"
+        desc: "The recruitment of children into armed forces is a violation of international humanitarian law. Throughout history, thousands of children have been recruited for the purpose of aiding armed forces in conflicts across the world. Child soldiers are abducted and then exploited for the purposes of engaging in combat for local militia, facing appalling violence in their formative years. Consequently, these children experience poverty, disability, death, and ostracization in their own communities. Those who are able to escape or are dismissed from service deal with insurmountable psychological afflictions and an inability to effectively rejoin society. Today, UNICEF aims to dissolve the recruitment of child soldiers in warring countries and work towards rehabilitating child victims of such violence."
+      - title: "Topic B - Child Trafficking in Asia-Pacific"
+        desc: "Asia has long been a major transgressing region in terms of their significant numbers of child trafficking cases. Abduction, luring, and deception are used to draw in many children into abusive and cruel industries that generate billions of dollars in profit annually. Considered a high-value commodity, millions of children are forced into prostitution rings and slave labour with them making up one third of all trafficking victims worldwide. They experience sexual abuse, forced labour, organ trafficking, and slavery in one of the largest, most lucrative crime industries in the world. Providing pathways and strengthening child protection policies are key goals in UNICEF's active involvement."
 
   - title: Social, Cultural and Humanitarian Committee
     url: SOCHUM
@@ -753,10 +756,10 @@
         - name: Dai Bingguo (2011 Chinese Seceratary-General of the Foreign Affairs Leading Group)
         - name: Avigdor Lieberman (2011 Israeli Minister of Foreign Affairs)
       topics:
-        - title: "Topic A: Taking Steps to Rebuild Tunisia"
-          image: image_url
-        - title: "Topic B: Rising Tensions in Arab States After the Fall of Al Abadine"
-          image: image_url
+        - title: "Topic A - Taking Steps to Rebuild Tunisia"
+          desc: "In the first topic, the committee will discuss the effects of the revolution in Tunisia and will brainstorm ideas to instill a democratic government, secure trust for the government, create fair elections, rebuild the nation’s damaged infrastructure, reduce the oppression on news outlets and other media, and deal with the displacement of millions of Tunisians that resulted due to the civil unrest. With the help of internal and external international actors, a new Tunisia will be rebuilt with a reputation to represent, serve, and protect the people."
+        - title: "Topic B - Rising Tensions in the Arab World"
+          desc: "The effects of the semi-successful revolution in Tunisia has created a snowball effect with the Arab nations of the world witnessing the rise of the proletariat against the oppressive government and has given hope for change of government to a more democratic and just society. However, with protests arising many nations are in the direction of civil war, destruction, and unnecessary mass bloodshed. The goal of this topic is to reduce the overall damage of the revolutions and to maximize its chances of creating a democratic nation."
 
     - title: The Humanity Beyond — Mars 2050
       url: Mars
@@ -854,8 +857,8 @@
       topics:
         - title: "Topic A - Sanctions & the Economic State of the World"
           desc: "Since the beginning of the 2022 Russo-Ukrainian conflict, sanctions have rained down on Russia from almost every corner. The economic state of the world has arguably never been more volatile since WW2. With almost all of Europe, the United States, Canada and so many others laying massive economic sanctions on the nation, and with Russia also being kicked out of many economic, sporting, & political organizations, it goes to wonder how much either side can keep this up. Whether it be reduced oil & gas supply and the subsequent price hikes, or major companies leaving and almost blacklisting nations, something must be done. The economic situation can only remain so tense for so long before one side must cave in, and it is up to delegates to now write the script and make sure it is not their nations who succumb to the pressures first."
-        - title: "Topic B - Seperatist Regions & Political Control"
-          desc: "With the public announcement of the “special military operation” in Ukraine being declared, alongside it came the official claims to independence from two self-proclaimed nations, the Luhansk & Donetsk Peoples’ Republics. Recognized by the Russian government, and even holding referendums regarding integration into the Russian state, the sovereignty and ownership of two seperatist nations pose a grave challenge to all. Combined with the ever-lasting problem of Crimea, the issue of Ukraine’s Russian-backed seperatist regions and political control over the region as a whole must remain at the forefront of any debate regarding the conflict."
+        - title: "Topic B - Separatist Regions & Political Control"
+          desc: "With the public announcement of the “special military operation” in Ukraine came the official claims to independence from two self-proclaimed nations: the Luhansk & Donetsk Peoples’ Republics. Recognized by the Russian government, and even holding referendums regarding integration into the Russian state, the sovereignty and ownership of two separatist nations pose a grave challenge to all. Combined with the ever-lasting problem of Crimea, the issue of Ukraine’s Russian-backed seperatist regions and political control over the region as a whole must remain at the forefront of any debate regarding the conflict."
 
 - header: Online Committees
   links:
