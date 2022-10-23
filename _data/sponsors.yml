@@ -1,16 +1,4 @@
 -
-  - name: CGI
-    link: https://www.cgi.com/
-    image: EdgePrim.png
-  - name: DigitalOcean
-    link: https://www.digitalocean.com/
-    image: DigitalOcean.png
-  - name: echo3D
-    link: https://www.echo3d.co/
-    image: echo3D.png
-  - name: Voiceflow
-    link: https://www.voiceflow.com/
-    image: Voiceflow.png
-  - name: EdgePrim
-    link: https://edgeprim.com/
-    image: EdgePrim.png
+  - name: Crimson Education
+    link: https://www.crimsoneducation.org
+    image: crimson_education.png
