@@ -829,13 +829,17 @@
         - title: "Topic A: Global Impact of Artificial Intelligence / Automation"
         - title: "Topic B: Technological Cooperation on Climate Change"
 
-#    - title: Kaiserreich - What if Germany Won WW1
-#      url: kaiserreich
-#      image: kaiserreich.jpg
-#      description: "TBD"
-#      director: TBD
-#      topics:
-#        - title: "TBD"
-#          image: image_url
-#        - title: "TBD"
-#          image: image_url
+    - title: The East is Red, the Chinese Cultural Revolution 1968 - 9th Politburo of the CPC (Crisis)
+      url: CCP
+      image: ccp.jpg
+      description: "The Politburo of the Chinese Communist Party simulates debate from the perspective of the highest echelons of the CPC–the decision making body of the People’s Republic of China–while adhering to crisis rules of procedure. This year’s iteration of the Politburo of the CPC explores the height of the Cultural Revolution in the 9th Politburo of the CPC.
+          This committee is designed for advanced delegates with extensive experience and debate knowledge, as well as those with in-depth knowledge about Chinese history and politics. Positions papers are thus mandatory for this committee. Please direct all inquiries and position papers for this committee to <a href=mailto:delegateaffairs@tmun.ca target='_blank'>delegateaffairs@tmun.ca</a>"
+      director: Kevin Zhou
+      topics:
+        - title: Internal Stability
+          desc: "Since the establishment of the People’s Republic of China, internal stability has become a struggle to maintain. Increasing separatist movements in regions such as Xinjiang and Tibet coupled with the factionalism within the Red Guards is causing a treacherous increase in unrest. The People’s Republic, founded not long ago, faces more internal strife as separatist groups and Kuomintang remnants continue to cause unrest. Chairman Mao Zedong created the Red Guards to counter these revisionist forces; however, Mao’s efforts are beginning to backfire as factions begin to form in the Red Guards, additionally disbanding the cause. Given further provocation from Vietnamese and Soviet borders, it is up to delegates to stabilize the growing PRC’s internal situation and expand the nation’s influence."
+        - title: Economic Stagnation and Recovery from the Great Leap Forward
+          desc: "Due to the damages to the PRC from the Second Sino-Japanese war and the Chinese Civil War, the Chinese economy is in a recession. Many skilled young men have died fighting the Japanese. Due to the lack of skilled individuals, the rebuilding of the Chinese economy and industries are stagnant. After many pecuniary policies, Chinese industry is still weaker than what it can be. Activities from revisionist groups and the costs of repressing them is costing our industry as Red Guards use cargo transportation to instead transport their ranks to suppress revisionists. This, amongst many other problems, are what delegates need to resolve in order to set China on the correct path to prosperity."
+        #      role-type: Characters
+        #      role-type-singular: Country
+        #      roles:
