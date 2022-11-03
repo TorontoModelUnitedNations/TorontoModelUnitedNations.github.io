@@ -1,7 +1,7 @@
 - title: Committee Program
   info: TMUN 2023 will run in a hybrid format, with eight exciting in-person committees and two online
          committees. With offerings ranging from the classic Disarmament and International Security Committee to the new and innovative Mars Crisis Committee, there is a committee for everyone.
-         <br><br>
+         
          During the registration process, delegates will be able to indicate the top three committees that they would like to participate in. While we cannot guarantee that delegates will be placed in their preferred committees, it is more likely that you will receive your preferred committee if you register earlier. To see a list of countries/characters within the different committees, please check the country matrices on the respective committee tabs.
 
 - header: General Assemblies and ECOSOCs
@@ -309,26 +309,26 @@
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: "<a class='bolded'>Zine El Abidine Ben Ali</a> (2011 Government of Tunisia)"
-        - name: "<a class='bolded'>Abdelaziz Bouteflika</a> (2011 Government of Algeria)"
-        - name: "<a class='bolded'>Hosni Mubarak</a> (2011 Government of Egypt)"
-        - name: "<a class='bolded'>Bashar Al-Assad</a> (2011 Government of Syria)"
-        - name: "<a class='bolded'>Ali Abdullah Saleh</a> (2011 Government of Yemen)"
-        - name: "<a class='bolded'>Muammar Gaddafi</a> (2011 Government of Libya)"
-        - name: "<a class='bolded'>Nouri al-Maliki</a> (2011 Government of Iraq)"
-        - name: "<a class='bolded'>King Abdullah II</a> (Monarch of Jordan)"
-        - name: "<a class='bolded'>Mohamed Ghannouchi</a> (Democratic Constitutional Assembly of Tunisia)"
-        - name: "<a class='bolded'>Karim Tabbou</a> (Democratic and Social Union of Algeria)"
-        - name: "<a class='bolded'>Abdel Fatah El-Sisi</a> (2011 Egyptian Minister of Defense)"
-        - name: "<a class='bolded'>Naser al-Hariri</a> (Leader of the National Coalition for Syrian Revolutionary and Opposition Forces)"
-        - name: "<a class='bolded'>Abdul-Malik al-Houthi</a> (Leader of the Houthi Insurgency)"
-        - name: "<a class='bolded'>Khalifa Belqasim Haftar</a> (Supreme Commander of the Libyan National Army)"
-        - name: "<a class='bolded'>Mohammed Younis al-Ahmed</a> (Leader of Al-Awda, </a> the underground Ba'ath movement</a> )"
-        - name: "<a class='bolded'>Hamza Mansour</a> (Leader of the Islamic Action Front of Jordan)"
-        - name: "<a class='bolded'>Hillary Clinton</a> (2011 United States Secretary of State)"
-        - name: "<a class='bolded'>Sergey Lavrov</a> (Russian Minister of Foreign Affairs)"
-        - name: "<a class='bolded'>Dai Bingguo</a> (2011 Chinese Seceratary-General of the Foreign Affairs Leading Group)"
-        - name: "<a class='bolded'>Avigdor Lieberman</a> (2011 Israeli Minister of Foreign Affairs)"
+        - name: "<a class='bolded'>Zine El Abidine Ben Ali</a><br>2011 Government of Tunisia"
+        - name: "<a class='bolded'>Abdelaziz Bouteflika</a><br>2011 Government of Algeria"
+        - name: "<a class='bolded'>Hosni Mubarak</a><br>2011 Government of Egypt"
+        - name: "<a class='bolded'>Bashar Al-Assad</a><br>2011 Government of Syria"
+        - name: "<a class='bolded'>Ali Abdullah Saleh</a><br>2011 Government of Yemen"
+        - name: "<a class='bolded'>Muammar Gaddafi</a><br>2011 Government of Libya"
+        - name: "<a class='bolded'>Nouri al-Maliki</a><br>2011 Government of Iraq"
+        - name: "<a class='bolded'>King Abdullah II</a><br>Monarch of Jordan"
+        - name: "<a class='bolded'>Mohamed Ghannouchi</a><br>Democratic Constitutional Assembly of Tunisia"
+        - name: "<a class='bolded'>Karim Tabbou</a><br>Democratic and Social Union of Algeria"
+        - name: "<a class='bolded'>Abdel Fatah El-Sisi</a><br>2011 Egyptian Minister of Defense"
+        - name: "<a class='bolded'>Naser al-Hariri</a><br>Leader of the National Coalition for Syrian Revolutionary and Opposition Forces"
+        - name: "<a class='bolded'>Abdul-Malik al-Houthi</a><br>Leader of the Houthi Insurgency"
+        - name: "<a class='bolded'>Khalifa Belqasim Haftar</a><br>Supreme Commander of the Libyan National Army"
+        - name: "<a class='bolded'>Mohammed Younis al-Ahmed</a><br>Leader of Al-Awda, </a><br> the underground Ba'ath movement</a><br> "
+        - name: "<a class='bolded'>Hamza Mansour</a><br>Leader of the Islamic Action Front of Jordan"
+        - name: "<a class='bolded'>Hillary Clinton</a><br>2011 United States Secretary of State"
+        - name: "<a class='bolded'>Sergey Lavrov</a><br>Russian Minister of Foreign Affairs"
+        - name: "<a class='bolded'>Dai Bingguo</a><br>2011 Chinese Seceratary-General of the Foreign Affairs Leading Group"
+        - name: "<a class='bolded'>Avigdor Lieberman</a><br>2011 Israeli Minister of Foreign Affairs"
       topics:
         - title: "Topic A - Taking Steps to Rebuild Tunisia"
           desc: "In the first topic, the committee will discuss the effects of the revolution in Tunisia and will brainstorm ideas to instill a democratic government, secure trust for the government, create fair elections, rebuild the nation’s damaged infrastructure, reduce the oppression on news outlets and other media, and deal with the displacement of millions of Tunisians that resulted due to the civil unrest. With the help of internal and external international actors, a new Tunisia will be rebuilt with a reputation to represent, serve, and protect the people."
@@ -408,26 +408,26 @@
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: "<a class='bolded'>Vladamir Putin</a> (Russian President)"
-        - name: "<a class='bolded'>Oleg Salyukov</a> (Russian Commander In-Chief)"
-        - name: "<a class='bolded'>Sergei Shoigu</a> (Russian Minister of Defense)"
-        - name: "<a class='bolded'>Sergey Lavrov</a> (Russian Minister of Foreign Affairs)"
-        - name: "<a class='bolded'>Maxim Reshetnikov</a> (Russian Minister of Economic Development)"
-        - name: "<a class='bolded'>Volodymyr Zelenskyy</a> (Ukrainian President)"
-        - name: "<a class='bolded'>Valerii Zaluzhnyi</a> (Ukrainian Commander-In-Chief)"
-        - name: "<a class='bolded'>Oleksii Reznikov</a> (Ukrainian Minister of Defense)"
-        - name: "<a class='bolded'>Dmytro Kuleba</a> (Ukrainian Minister of Foreign Affairs)"
-        - name: "<a class='bolded'>Yulia Svyrydenko</a> (Ukrainian Minister of Economic Development)"
-        - name: "<a class='bolded'>Antony J. Blinken</a> (American Secretary of State)"
-        - name: "<a class='bolded'>Wang Yi</a> (Chinese Minister of Foreign Affairs)"
-        - name: "<a class='bolded'>Subrahmanyam Jaishankar</a> (Indian Minister of External Affairs)"
-        - name: "<a class='bolded'>Mélanie Joly</a> (Canadian Minister of Foreign Affairs)"
-        - name: "<a class='bolded'>Marija Pejčinović Burić</a> (Secretary-General of the European Union)"
-        - name: "<a class='bolded'>Mevlüt Çavuşoğlu</a> (Turkish Minister of Foreign Affairs)"
+        - name: "<a class='bolded'>Vladamir Putin</a><br>Russian President)"
+        - name: "<a class='bolded'>Oleg Salyukov</a><br>Russian Commander In-Chief)"
+        - name: "<a class='bolded'>Sergei Shoigu</a><br>Russian Minister of Defense)"
+        - name: "<a class='bolded'>Sergey Lavrov</a><br>Russian Minister of Foreign Affairs)"
+        - name: "<a class='bolded'>Maxim Reshetnikov</a><br>Russian Minister of Economic Development)"
+        - name: "<a class='bolded'>Volodymyr Zelenskyy</a><br>Ukrainian President)"
+        - name: "<a class='bolded'>Valerii Zaluzhnyi</a><br>Ukrainian Commander-In-Chief)"
+        - name: "<a class='bolded'>Oleksii Reznikov</a><br>Ukrainian Minister of Defense)"
+        - name: "<a class='bolded'>Dmytro Kuleba</a><br>Ukrainian Minister of Foreign Affairs)"
+        - name: "<a class='bolded'>Yulia Svyrydenko</a><br>Ukrainian Minister of Economic Development)"
+        - name: "<a class='bolded'>Antony J. Blinken</a><br>American Secretary of State)"
+        - name: "<a class='bolded'>Wang Yi</a><br>Chinese Minister of Foreign Affairs)"
+        - name: "<a class='bolded'>Subrahmanyam Jaishankar</a><br>Indian Minister of External Affairs)"
+        - name: "<a class='bolded'>Mélanie Joly</a><br>Canadian Minister of Foreign Affairs)"
+        - name: "<a class='bolded'>Marija Pejčinović Burić</a><br>Secretary-General of the European Union)"
+        - name: "<a class='bolded'>Mevlüt Çavuşoğlu</a><br>Turkish Minister of Foreign Affairs)"
         - name: "<a class='bolded'>Head of the Luhansk People's Republic"
-        - name: "<a class='bolded'>Denis Pushilin</a> (Head of the Donetsk People’s Republic)"
-        - name: "<a class='bolded'>James Cleverly MP</a> (British Secretary of State)"
-        - name: "<a class='bolded'>Vladimir Makei</a> (Belarussian Minister of Foreign Affairs)"
+        - name: "<a class='bolded'>Denis Pushilin</a><br>Head of the Donetsk People’s Republic)"
+        - name: "<a class='bolded'>James Cleverly MP</a><br>British Secretary of State)"
+        - name: "<a class='bolded'>Vladimir Makei</a><br>Belarussian Minister of Foreign Affairs)"
       topics:
         - title: "Topic A - Sanctions & the Economic State of the World"
           desc: "Since the beginning of the 2022 Russo-Ukrainian conflict, sanctions have rained down on Russia from almost every corner. The economic state of the world has arguably never been more volatile since WW2. With almost all of Europe, the United States, Canada and so many others laying massive economic sanctions on the nation, and with Russia also being kicked out of many economic, sporting, & political organizations, it goes to wonder how much either side can keep this up. Whether it be reduced oil & gas supply and the subsequent price hikes, or major companies leaving and almost blacklisting nations, something must be done. The economic situation can only remain so tense for so long before one side must cave in, and it is up to delegates to now write the script and make sure it is not their nations who succumb to the pressures first."
@@ -833,7 +833,7 @@
       url: CCP
       image: ccp.jpg
       description: "The Politburo of the Chinese Communist Party simulates debate from the perspective of the highest echelons of the CPC–the decision making body of the People’s Republic of China–while adhering to crisis rules of procedure. This year’s iteration of the Politburo of the CPC explores the height of the Cultural Revolution in the 9th Politburo of the CPC.
-          This committee is designed for advanced delegates with extensive experience and debate knowledge, as well as those with in-depth knowledge about Chinese history and politics. Positions papers are thus mandatory for this committee. Please direct all inquiries and position papers for this committee to <a href=mailto:delegateaffairs@tmun.ca target='_blank'>delegateaffairs@tmun.ca</a>"
+          This committee is designed for advanced delegates with extensive experience and debate knowledge, as well as those with in-depth knowledge about Chinese history and politics. Positions papers are thus mandatory for this committee. Please direct all inquiries and position papers for this committee to <a href=mailto:delegateaffairs@tmun.ca target='_blank'>delegateaffairs@tmun.ca</a><br>"
       director: Kevin Zhou
       topics:
         - title: Internal Stability
@@ -843,4 +843,23 @@
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: TO BE DETERMINED
+        - name: "<a class='bolded'>Mao Zedong</a><br>Chairman of the Communist Party of China"
+        - name: "<a class='bolded'>Zhou Enlai</a><br>Premier of the People's Republic of China"
+        - name: "<a class='bolded'>Lin - Biao</a><br>Chairman of the National Committee Of the CPC"
+        - name: "<a class='bolded'>Kang Sheng</a><br>Minister of National Defense"
+        - name: "<a class='bolded'>Chen Boda</a><br>Director of the Central Social Affairs Department"
+        - name: "<a class='bolded'>Zhu De</a><br>Deputy Director of the CCP Propaganda Department"
+        - name: "<a class='bolded'>Li Xiannian</a><br>Director of the Institute of Political Research"
+        - name: "<a class='bolded'>Wu Faxian</a><br>Chairman of the NPCSC"
+        - name: "<a class='bolded'>Dong Biwu</a><br>Minister of Finance"
+        - name: "<a class='bolded'>Liu Bochen</a><br>Commander of the PLA Air Force"
+        - name: "<a class='bolded'>Zhang Chunqiao</a><br>President of the Supreme People's Court"
+        - name: "<a class='bolded'>Xie Fuzhi</a><br>Director of the Finance and Economic Committee of the Government Council"
+        - name: "<a class='bolded'>Yao Wenyuan</a><br>President and Commissar of the Military Academy of the PLA"
+        - name: "<a class='bolded'>Ji Dengkui</a><br>Vice-chairman of the Standing Committee of the National People’s Congress"
+        - name: "<a class='bolded'>Chen Xilian</a><br>Chairman of the Revolutionary Committee of Shanghai"
+        - name: "<a class='bolded'>Jiang Qing</a><br>Minister of Public Security"
+        - name: "<a class='bolded'>Li Zuopeng</a><br>Member of the Politburo"
+        - name: "<a class='bolded'>Ye Jianying</a><br>Deputy Director of the Henan Cultural Revolution Committee"
+        - name: "<a class='bolded'>Li Xuefeng</a><br>Commander of the Shenyang Military Region"
+        - name: "<a class='bolded'>Deng Xiaoping</a><br>Leader of the Gang of Four, Secretary to Mao Zedong"
