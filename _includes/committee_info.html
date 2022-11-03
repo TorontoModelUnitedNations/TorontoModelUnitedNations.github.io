@@ -1,4 +1,3 @@
-
 <!-- Portfolio Modals -->
 {% for linkhead in site.data.committees %}
     {% for link in linkhead.links %}
@@ -18,13 +17,14 @@
                     </div>
                 </div>
             </header>
-            <div class="close-modal" data-dismiss="modal">  
+            <a href="{{site.baseurl}}/committees">
+            <div class="close-modal button">
                 <div class="lr lrw">
                     <div class="rl rlw">
                     </div>
                 </div>
             </div>
-
+            </a>
 
 
             <div class="event">
