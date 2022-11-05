@@ -9,7 +9,7 @@ banner: true
 <script>
     $(document).ready(function() {
         var url = window.location.href;
-        var modal_name = url.split("/").at(-1)
+        var modal_name = url.split("/").at(-1);
         if (modal_name !== "committees") {
             $('#'+modal_name).modal('show');
         }
