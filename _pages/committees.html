@@ -5,9 +5,10 @@ title: Committees
 published: true
 banner: true
 ---
+<script src="{{ '.../css/2016_style/js/jquery-1.11.0.js' | prepend: site.baseurl }}"> </script>
 
 <script>
-    $(document).ready(function() {
+    document.addEventListener("DOMContentLoaded", function(event) {
         var url = window.location.href;
         var modal_name = url.split("/").at(-1);
         if (modal_name !== "committees") {
