@@ -6,16 +6,6 @@ published: true
 banner: true
 ---
 
-<script>
-    document.addEventListener("DOMContentLoaded", function(event) {
-        var url = window.location.href;
-        var modal_name = url.split("/").at(-1);
-        if (modal_name !== "committees") {
-            $('#'+modal_name).modal('show');
-        }
-    });
-</script>
-
 <!-- Event snippet for Website traffic conversion page --> <script> gtag('event', 'conversion', {'send_to': 'AW-10975379104/3v4oCL3b5dkDEKD9u_Eo'}); </script>
 <style>
     .bolded{
@@ -42,5 +32,21 @@ banner: true
 </div>
 {% include committee_info.html %}
 
+<script>
+    console.log("HERE-1");
+    document.addEventListener("DOMContentLoaded", function(event) {
+        console.log("HERE0");
+        var url = window.location.href;
+        console.log("HERE1");
+        var modal_name = url.split('/').at(-1);
+        console.log("HERE2");
+        if (modal_name !== "committees" && url.split('/').at(-2) === 'committees') {
+            console.log("HERE3");
+            $('#'+modal_name).modal('show');
+            console.log("HERE4")
+        }
+        console.log("done")
+    });
+</script>
 
 
