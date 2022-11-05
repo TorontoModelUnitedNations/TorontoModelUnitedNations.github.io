@@ -6,7 +6,6 @@ published: true
 banner: true
 ---
 
-<!-- Event snippet for Website traffic conversion page --> <script> gtag('event', 'conversion', {'send_to': 'AW-10975379104/3v4oCL3b5dkDEKD9u_Eo'}); </script>
 <style>
     .bolded{
         font-weight: bold;
@@ -25,7 +24,7 @@ banner: true
         {% for linkhead in site.data.committees %}
             <p style="font-size: x-large; text-align: left; white-space: pre-wrap;"><b>{{ linkhead.header }}</b><br><p>
             {% for link in linkhead.links %}
-                <p style="margin-left: 25px"><a href="{{site.baseurl}}/committees/{{ link.url }}" data-toggle="modal" style="color: {{site.data.template.color.primary}}">{{link.title}}</a></p>
+                <p style="margin-left: 25px" href="#{{ link.url }}"><a href="#{{ link.url }}" style="color: {{site.data.template.color.primary}}">{{link.title}}</a></p>
             {% endfor %}
         {% endfor %}
     </p>
@@ -38,14 +37,13 @@ banner: true
         console.log("HERE0");
         var url = window.location.href;
         console.log("HERE1");
-        var modal_name = url.split('/').at(-1);
-        console.log("HERE2");
-        if (modal_name !== "committees" && url.split('/').at(-2) === 'committees') {
+        var modal_name = url.split('#').at(-1);
+        if (modal_name !== url) {
             console.log("HERE3");
             $('#'+modal_name).modal('show');
-            console.log("HERE4")
+            console.log("HERE4");
         }
-        console.log("done")
+        console.log("done1");
     });
 </script>
 
