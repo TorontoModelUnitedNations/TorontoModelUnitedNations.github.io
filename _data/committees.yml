@@ -863,3 +863,96 @@
         - name: "<a class='bolded'>Ye Jianying</a><br>Member of the National People's Congress, Previous Mayor of Guangzhou"
         - name: "<a class='bolded'>Li Xuefeng</a><br>First Secretary of the North China Bureau, First Political Commissar of the Beijing Military Region"
         - name: "<a class='bolded'>Deng Xiaoping</a><br>Former Head of the Communist Party's Organization Department, Former Member of the Central Military Commission."
+
+    - title: United Nations Human Rights Council
+      url: UNHRC
+      image: UNHRC.jpg
+      description: "The United Nations Commission on Human Rights was superseded by the United Nations Human Rights Council in 2006. The Council is a UN human rights system intergovernmental body made up of 47 States chosen by the UN General Assembly and charged with enhancing the promotion and protection of human rights around the world. Its major objective is to address instances of human rights breaches and offer solutions. Resolution 60/251 of the General Assembly, on March 15, 2006, established its authority.
+                    The Council reports to the General Assembly and holds three regular sessions and as many special sessions as necessary each year.
+                    <br><br>
+                    <b>Please note that this committee will be hosted in IST (Indian Standard Time) to accompany international delegates and their schedules.</b>"
+      director: Arunava Banerjee
+      topics:
+        - title: Right to Privacy in the Digital Age
+          desc: "Technological progress has created a situation of severe tension and incompatibility between the right to privacy and the extensive data pooling on which the digital economy is based. This development requires new thinking about the substance of that right."
+        - title: Human Rights of Private Militias and Paramilitary Soldiers
+          desc: "The members of the Private Militia and paramilitary soldiers  are called upon to perform duties which may necessitate killing other people or sacrificing their own lives. They may have to live and serve in hostile areas and always be capable of guarding the frontiers of the country and ensuring internal security. These special factors call for placing limitations on their rights. However, should armed forces personnel not be entitled to certain basic human rights?"
+      role-type: Countries
+      role-type-singular: Country
+      roles:
+        - name: Afghanistan (Islamic Emirate of)
+        - name: Algeria
+        - name: Angola
+        - name: Argentina
+        - name: Armenia
+        - name: Australia
+        - name: Austria
+        - name: Azerbaijan
+        - name: Bangladesh
+        - name: Belarus
+        - name: Belgium
+        - name: Bhutan
+        - name: Bolivia
+        - name: Bosnia and Herzegovina
+        - name: Brazil
+        - name: Bulgaria
+        - name: Burkina Faso
+        - name: Côte d'Ivoire
+        - name: Cambodia
+        - name: Canada
+        - name: Chile
+        - name: People's Republic of China
+        - name: Colombia
+        - name: Croatia
+        - name: Cuba
+        - name: Czechia (Czech Republic)
+        - name: Democratic Republic of the Congo
+        - name: Denmark
+        - name: Egypt
+        - name: Equatorial Guinea
+        - name: Ethiopia
+        - name: Finland
+        - name: France
+        - name: Georgia
+        - name: Germany
+        - name: Greece
+        - name: Hungary
+        - name: India
+        - name: Indonesia
+        - name: Iran
+        - name: Israel
+        - name: Italy
+        - name: Jamaica
+        - name: Kazakhstan
+        - name: Kuwait
+        - name: Libya
+        - name: Malaysia
+        - name: Mexico
+        - name: Myanmar
+        - name: Netherlands
+        - name: New Zealand
+        - name: Nigeria
+        - name: Korea (DPRK)
+        - name: Norway
+        - name: Pakistan
+        - name: Paraguay
+        - name: Philippines
+        - name: Portugal
+        - name: Romania
+        - name: Russia
+        - name: Rwanda
+        - name: Saudi Arabia
+        - name: Serbia
+        - name: Singapore
+        - name: South Africa
+        - name: Korea (ROK)
+        - name: South Sudan
+        - name: Spain
+        - name: Sudan
+        - name: Syria
+        - name: Tunisia
+        - name: Turkey
+        - name: United Arab Emirates
+        - name: United Kingdom
+        - name: United States of America
+        - name: Zimbabwe
