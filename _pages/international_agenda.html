@@ -1,0 +1,41 @@
+---
+layout: default_layout
+permalink: /international_agenda
+title: International Schedule
+published: true
+banner: true
+---
+    <!--background color
+    <script type="text/javascript">
+        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    div class should be black-frame
+    -->
+
+    <div class="event" style="padding-bottom: 5%; padding-top: 5%">
+
+        <p style="font-size: x-large; text-align: center; padding-bottom: 15px"><b>
+            This schedule is for Online International Delegates only. All times on this page are in IST.
+        </b><br><p>
+
+          {% for day in site.data.international_agenda %}
+            <h2 style="text-align: center;padding-bottom: 10px;font-size: 30px">{{ day.date }}</h2>
+            <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">
+                <thead>
+                    <tr>
+                        <th class="row-1 agenda-time"><center>Time</center></th>
+                        <th class="row-2 agenda-activity"><center>Activity</center></th>
+                    </tr>
+                </thead>
+
+                {% for event in day.events %}
+                    <tr style="height: 60px">
+                        <td>{{ event.time }}</td>
+                        <td>{{ event.info }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+          {% endfor %}
+
+    </div>
