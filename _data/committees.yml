@@ -864,6 +864,8 @@
         - name: "<a class='bolded'>Li Xuefeng</a><br>First Secretary of the North China Bureau, First Political Commissar of the Beijing Military Region"
         - name: "<a class='bolded'>Deng Xiaoping</a><br>Former Head of the Communist Party's Organization Department, Former Member of the Central Military Commission."
 
+- header: International Committees
+  links:
     - title: United Nations Human Rights Council
       url: UNHRC
       image: UNHRC.jpg
@@ -956,3 +958,18 @@
         - name: United Kingdom
         - name: United States of America
         - name: Zimbabwe
+
+    - title: The 2023 Cricket World Cup (Crisis)
+      url: cricket
+      image: cricket.jpg
+      description: "<b>Please note that this committee will be hosted in IST (Indian Standard Time) to accompany international delegates and their schedules.</b>"
+      director: Arunava Banerjee
+      topics:
+        - title: Rigged world cup?
+          desc: "Some classified sources have reported that the world cup 2023 is likely staged and the fate of most of the matches have already been decided. In those circumstances, the supporters are furious given that the sport is at the risk of losing its world wide fan base that it has. It's your responsibility to dig into the situation and figure out whether the reports are true or just a blame from unknown sources to create hate against the sport and its stakeholders"
+        - title: Security Risk
+          desc: "Intelligence agencies have received a threat that there will be a planned assassination attack on the Worldcup teams and venue in order to defame one of the biggest sports competition world wide. Your task is to uncover the truth behind it as the stakeholders of cricket world cup 2023 and ensure the safety of all the teams and people. The big question that remains is: will the World Cup still continue as scheduled?"
+      role-type: Characters
+      role-type-singular: Character
+      roles:
+        - name: TBD
