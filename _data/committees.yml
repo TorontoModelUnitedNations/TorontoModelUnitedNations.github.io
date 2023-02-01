@@ -972,4 +972,20 @@
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: TBD
+        - name: "<a class='bolded'>Cricket Teams</a>"
+        - name: England
+        - name: Australia
+        - name: Newzealand
+        - name: India
+        - name: Pakistan
+        - name: Bangladesh
+        - name: Afghanistan
+        - name: Srilanka
+        - name: West Indies
+        - name: South Africa
+        - name: "<a class='bolded'>Organizing body </a>"
+        - name: International Cricket Council
+        - name: "<a class='bolded'>Intelligence Agency </a>"
+        - name: Research and Analysis Wing
+        - name: "<a class='bolded'>Security Body</a>"
+        - name: Indian Security Agencies
