@@ -6,9 +6,9 @@
 
 -  date: "Day 1 - March 24"
    events:
-     - time: "3:00 PM - 4:00 PM"
+     - time: "2:00 PM - 4:00 PM"
        info: "<u>Check-In</u><br>Mezzanine Foyer"
-     - time: "4:15 PM - 4:45 PM"
+     - time: "4:00 PM - 4:45 PM"
        info: "<u>Opening Ceremony</u><br>Willow Room"
      - time: "4:45 PM - 6:00 PM"
        info: "<u>Dinner</u><br>"
