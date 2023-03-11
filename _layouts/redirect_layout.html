@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<style type="text/css">
+    /*INCLUDE MAIN CSS FILE*/
+    {% capture criticalcss %}
+    {% include /critical.scss %}
+    {% endcapture %}
+    {{ criticalcss | scssify }}
+</style>
+
+{% include js.html %}
+{% include head.html %}
+
+<body oncontextmenu="return false;">
+{% include 404_header.html %}
+
+    <!--background color-->
+    <script type="text/javascript">
+        document.write ('<body style="background: lightgray; background-attachment: fixed;">')
+    </script>
+
+    <div class="page-not-found venue-top">
+        <h1>Redirecting...</h1>
+        <p>Thank you for your patience! You will be redirected to <a href="{{ page.redir_to }}">your requested page</a>
+            in a few seconds.</p>
+    </div>
+
+    <meta http-equiv="refresh" content="1; URL='{{ page.redir_to }}'" />
+
+</body>
+{% include footer.html %}
+</html>
+
+<script>
+
+</script>
