@@ -11,11 +11,11 @@
      - time: "4:00 PM - 4:45 PM"
        info: "<u>Opening Ceremony</u><br>Willow Room"
      - time: "4:45 PM - 6:00 PM"
-       info: "<u>Dinner</u><br>"
+       info: "<u>Break</u><br>"
      - time: "6:00 PM - 7:30 PM"
        info: "<u>Committee Session 1</u><br>Committee Rooms"
      - time: "7:30 PM - 8:00 PM"
-       info: "<u>Break</u><br>"
+       info: "<u>Dinner</u><br>"
      - time: "8:00 PM - 9:30 PM"
        info: "<u>Committee Session 2</u><br>Committee Rooms"
 
