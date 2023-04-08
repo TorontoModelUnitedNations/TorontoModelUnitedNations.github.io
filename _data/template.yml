@@ -2,7 +2,7 @@
 color:
   primary: 0A7B9E
   secondary: 5390a3
-  secondary-dark: 023f52
+  secondary-dark: 022c3c # 023f52
   muted: 777
 
 # Font Families
