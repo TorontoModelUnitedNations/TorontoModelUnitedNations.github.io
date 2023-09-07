@@ -6,11 +6,11 @@
 
 - header: General Assemblies and ECOSOCs
   links: 
-  - title: Disarment and International Security Committee
-    url: DISEC
-    image: DISEC.jpg
+  - title: Special Political and Decolonization Committee
+    url: SPECPOL
+    image: SPECPOL.jpg
     description: "DISEC or the Disarmament and International Security Committee is a prominent General Assembly committee addressing issues and deterrents to achieving a global peace.  Topics that are often discussed relate to weapons, disarmament, and the safety of those affected by armed conflict. Dealing with not only global threats to peace, this important committee discusses solutions through international cooperation to achieve the principles in governing disarmament and agenda goals. Delegates will represent nations partaking in the DISEC committee to address the topics introduced for the session. This committee is fundamental in preserving a state of peace between great powers, and enforcing law and stability on an extensive scale."
-    director: Samuel Wu
+    director: TBD
     role-type: Countries
     role-type-singular: Country
     roles:
@@ -75,16 +75,16 @@
       - name: Vietnam
       - name: Zimbabwe
     topics:
-      - title: "Topic A - Global Illicit Arms Trading"
-        desc: "Throughout human history and that since the existence of warfare, the supply of weapons has been a cornerstone in the success of a campaign. In more recent times, illegal and clandestine dealings of weapons has proven to become more prevalent in conflicts, when belligerents are unable to financially support official arms purchases. This has resulted in the circulation of weapons throughout the developing and war-torn areas of the world, falling into the hands of civilians and militant groups. DISEC and the United Nations strive to resolve or find a way to civilly manage the issue of illegitimate weapon circulation and mitigate the negative effects it has on the citizens of the world."
-      - title: "Topic B - Nuclear Weapons on the Global Stage"
-        desc: "Since the development and introduction of nuclear weapons, the world has witnessed the suffering and pain they have the potential to cause upon a nation and its populace. Nagasaki and Hiroshima were the first - and thus far - only atomic weapons used in an armed conflict. These two humanitarian disasters were caused by the primitive ancestors of these weapons we possess today. Bombs that could inflict immediate damage one hundred times more than that of Hiroshima and Nagasaki, on humans but also the environment. In this day and age, the United Nations and DISEC must consider the counterintuitive impacts that the continued testing and possible strategic usage of nuclear weapons in warfare could mean for the future of our world, and in conflicts such as climate change, and the war in Ukraine."
+      - title: "TOPIC A - Issues Surrounding Decolonization"
+        desc: "As the age of colonialism is behind us, decolonization was and is the next step for any state that has not reached self-governance or integration with another state. As such, this can cause many issues, such as political disputes, territorial disputes, socio economic issues, and most importantly of all, affecting the livelihood of its people. The world is still very much in a grey area when it comes to decolonization, and many places’ futures are still indeterminate to this day. It is important that we come together and finally make sense of how we can properly decolonize the world and lead everyone to peace and prosperity. "
+      - title: "Topic B - Refugees of the Israeli-Palestinian Conflict"
+        desc: "The Israeli-Palestinian conflict has been an ongoing conflict since the mid-20th century, and has affected the lives of millions. As a result of violence and dispute, many people from the region have seen themselves displaced, living in refugee camps, where poverty is at an all time high and basic infrastructure is missing. With seemingly no conclusion to this conflict, it is imperative that the peoples’ needs are being met, in order for them to lead as healthy and prosperous lives as possible. It is important that we are able to provide the best solutions we can for these refugees, who have suffered for decades due to this issue."
 
-  - title: Legal Committee
-    url: legal_committee
-    image: legal.jpg
-    description: "Established in 1947, the United Nations General Assembly Sixth Committee, also known as the Legal committee, is a primary forum that focuses on the development of international law and other legal matters concerning the United Nations. Annually, the Legal committee circulates around 5 main topic areas, namely the promotion of justice and international law, accountability and internal United Nations justice matters, Drug control, Crime prevention, and Combating international terrorism. However, here in the Legal committee, delegates will debate on the wide variety of global matters from the perspective of their legitimacy with great focus on established international law and national sovereignty. At TMUN 2022, delegates of the Legal committee will not only engage in 3 days of civilized debate, but also receive insightful takeaways on the United Nations Legal conventions to last. This committee holds great expectations of offering a collaborative and educational environment for all, and hopes to witness creative and original solutions that address the agenda topics."
-    director: Sarah Hu
+  - title: UN Human Rights Council
+    url: UNHRC
+    image: UNHRC.jpg
+    description: "The United Nations Human Rights Council, also known as the UNHRC, was established by the General Assembly of the United Nations in 2006 and is dedicated to protecting human rights around the world, addressing violations in human rights, and establishing recommendations on how to resolve them. Comprising member states committed to upholding the principles established in the Universal Declaration of Human Rights, the UNHRC serves as a platform for open dialogue, critical discourse, and collaborative action on pressing human rights issues."
+    director: TBD
     role-type: Countries
     role-type-singular: Country
     roles:
@@ -165,16 +165,16 @@
       - name: United States of America
       - name: Zimbabwe
     topics:
-      - title: "Topic A - Transitional Justice"
-        desc: "History is composed of various cases of serious human right violations, inclusive of state sanctioned tragedies. Political rhetoric centers on methods to end such cases, however guidelines for nations to rebuild afterwards is also of utmost importance. Thus transitional justice comes to play, as the process to which nations utilize to address these tragedies. It asks some of the most difficult questions in law, politics, and the social sciences and grapples with innumerable dilemmas. Above all, transitional justice is about victims, how to address the legacies of horrendous atrocities, or to end recurring cycles of violent conflict, by developing a range of responses covering 3 areas; truth-seeking, victim reparations, and prosecutions."
-      - title: "Topic B - Regulating Multinational Corporations"
-        desc: "Multinational corporations (MNCs) are large businesses operating in numerous countries. Because they operate in different legal jurisdictions, MNCs can be difficult for any one government to regulate. Since MNCs are working in the foreign country (host country), it is necessary that they must not violate and abuse human rights or break legal laws of the host country. Sometimes these MNCs take advantage of its strength and try to dominate in the host country, compelling the government to change their laws favoring MNCs. For this topic, delegates will consider the legal solutions that the UN could pursue to hold these MNCs accountable. Only through systems of accountability and responsibility can MNCs become purely beneficial contributors to global prosperity."
+      - title: "Topic A - Responsible Use of Artificial Intelligence"
+        desc: "In an era of rapid technological advancement, the first topic of the UNHRC aims to address the ethical and human rights concerns revolving around Artificial Intelligence (AI). Delegates will develop ethical frameworks and ensure transparency and accountability in AI systems, and address the impact on human rights, privacy, and labour. With this rapidly developing field, it is important to create international guidelines that foster the responsible development and deployment of AI technologies, promoting fairness, transparency, and the protection of fundamental rights while harnessing AI's potential for positive change on a global scale."
+      - title: "Topic B - Mining Practices in the Arctic"
+        desc: "The UNHRC will also turn its attention to the complex issue of mining practices in the Arctic region. Delegates will explore the environmental, social, and geopolitical challenges posed by increasing mining activities in this sensitive ecosystem. Discussions will revolve around sustainable resource extraction, indigenous rights, environmental protection, and international cooperation. The objective will be to formulate strategies that balance economic development with the preservation of the fragile Arctic environment, respecting the rights of indigenous communities and safeguarding the global common interests associated with this region."
 
-  - title: United Nations Children’s Fund
-    url: UNICEF
-    image: UNICEF.jpg
-    description: "The United Nations Children's Fund (UNICEF), founded in the year 1946, is a humanitarian agency developed for the purpose of protecting the rights and freedoms of children worldwide. Initially created as an emergency response to the dire situation that World War II left children in across the globe, the organization began to work towards combating famine and disease in the youth population. Not long after, The United Nations then extended UNICEF's mandate, thereby establishing it as a committee dedicated to the advocation and protection of the wellbeing of children. Today, the committee's goal is to strive towards overcoming poverty, disease, and exploitation, as well as providing aid for the education, health, and welfare of children."
-    director: Jorin Liu, Andy Zhang
+  - title: Social, Cultural and Humanitarian Committee
+    url: SOCHUM
+    image: SOCHUM.jpg
+    description: "The Social, Cultural, and Humanitarian Committee, or SOCHUM, is the committee of the UN General Assembly dealing with humanitarian and social issues. In particular, SOCHUM works closely with the United Nations Human Rights Council to promote and advocate for human rights as described in the Universal Declaration of Human Rights (UDHR). "
+    director: TBD
     role-type: Countries
     role-type-singular: Country
     roles:
@@ -239,16 +239,16 @@
       - name: United States of America
       - name: Yemen
     topics:
-      - title: "Topic A - Recruitment of Children in Armed Militias"
-        desc: "The recruitment of children into armed forces is a violation of international humanitarian law. Throughout history, thousands of children have been recruited for the purpose of aiding armed forces in conflicts across the world. Child soldiers are abducted and then exploited for the purposes of engaging in combat for local militia, facing appalling violence in their formative years. Consequently, these children experience poverty, disability, death, and ostracization in their own communities. Those who are able to escape or are dismissed from service deal with insurmountable psychological afflictions and an inability to effectively rejoin society. Today, UNICEF aims to dissolve the recruitment of child soldiers in warring countries and work towards rehabilitating child victims of such violence."
-      - title: "Topic B -  HIV and AIDS Infections Among Children and Adolescents"
-        desc: "The spread of HIV/AIDS among children and adolescents is one of the most important issues that the UNICEF committee must tackle. Hundreds of thousands of children are infected with HIV each year, primarily due to transmission from mother-child through birth or breastfeeding. Although children only account for 4% of those infected with HIV/AIDS worldwide, they account for over 15% of HIV/AIDS related deaths. It is vital to prevent the spread of this deadly disease, or to provide proper medication to those who do get infected."
+      - title: "Topic A - Mediterranean Migrant Crisis"
+        desc: "The Mediterranean route is one of the popular routes used by migrants attempting to reach Europe. Migrants, typically embarking from North Africa, cross dangerous waters in hopes of landing on the shores of countries such as Spain, Italy, or Greece. These countries are often reluctant to take responsibility for any rescue and processing of migrants, and, oftentimes, the overcrowded and unsafe boats sink at sea. According to the UN, over 26,000 people have died at sea in the Mediterranean in the past decade. "
+      - title: "Topic B - Governments and Social Media"
+        desc: "Social media has revolutionized the manner in which information is created and shared, with far-reaching implications for governments and their citizens. From fuelling revolutions during the Arab Spring of 2011, to spreading alternative pandemic treatments and cures, the influence of social media can seriously threaten government authority and public order. On the other hand, social media has allowed billions of people to participate in democratic discourse and marginalized groups and causes to coalesce. Another concern is the vast amount of data collected by private companies and the threat to user privacy."
 
-  - title: Social, Cultural and Humanitarian Committee
-    url: SOCHUM
-    image: SOCHUM.jpg
-    description: "SOCHUM, also known as the Social, Humanitarian, and Cultural Committee is the third committee of the UN General Assembly, focused on promoting international cooperation and fundamental rights for all. It encourages discussions and the implementation of legislation surrounding topics such as: the right to life, expression of culture, religion, and political ideology, freedom of political participation, the rights of children, and more. In SOCHUM TMUN 2023, we will be discussing Human Trafficking in South East Asia, and the Treatment of LGBTQI+ People in Africa. These topics, while centred around a geographical area for the sake of debate, are complex global issues, that require cooperative and creative solutions."
-    director: Isabelle Bruce
+  - title: Disarmament and International Security Committee
+    url: DISEC
+    image: DISEC.jpg
+    description: "The Disarmament and International Security Committee (DISEC) serves as a pivotal organ of the United Nations General Assembly, addressing an array of global challenges related to arms control, non-proliferation, and conflict prevention. In this committee, delegates will be discussing reducing the development and use of biological and chemical weapons, as well as the mobilization of nuclear arms in Korea."
+    director: TBD
     role-type: Countries
     role-type-singular: Country
     roles:
@@ -293,699 +293,85 @@
       - name: Vietnam
       - name: Yemen
     topics:
-      - title: "Topic A - Treatment of LGBTQI+ People in Africa"
-        desc: "Hateful acts towards LGBTQI+ people continue to occur daily around the world. A shockingly low 14% of people said that homosexuality should be accepted in a study done in 2019, this is highlighted especially in Africa, and the rest of the world. Sadly, LGBTQI+ peoples frequently report acts of violence against them in their homes, places of work and worship, in countries such as Kenya, Georgia, Honduras, Cameroon, etc. These people are often ignored by their governments and police forces when they ask for help or go to report hate crimes, and in many cases, the people in power are the abusers."
-      - title: "Topic B - Human Trafficking in South East Asia"
-        desc: "Although many people view slavery as a dark piece of history, it continues to thrive today in the form of human trafficking - defined as the act of transporting an individual by coercion, force, or manipulation to benefit from them typically in the form of sexual exploitation, forced labour, and organ extraction. The United Nations has estimated that this illegal activity generates approximately $32 billion USD annually for offenders making it the second most profitable criminal enterprise after drug trafficking. Organizations engaged in human trafficking are highly structured, with established clandestine transnational routes, and are equipped with action plans to carry out each stage of the crime."
+      - title: "Topic A - CBRN Warfare"
+        desc: "In the realm of warfare and conflict, the specter of bioweapons and chemical weapons looms ominously, underscoring the depths to which human ingenuity can descend when harnessed for destructive purposes. These two categories of unconventional weaponry, while distinct in nature, share a common thread of utilizing toxic agents to inflict harm upon adversaries. Bioweapons harness living organisms or their byproducts to unleash diseases, while chemical weapons leverage synthetic compounds to cause incapacitation or death. As the global community grapples with the evolving landscape of warfare and security threats, the responsibilities of DISEC expand beyond mere discussions to fostering tangible actions. The urgency of the situation demands that DISEC members collaborate to formulate concrete strategies that not only prevent the further spread of these devastating tools but also hold accountable those who seek to employ them. "
+      - title: "Topic B - The Korean Peninsula"
+        desc: "In the complex geopolitical landscape of the Korean Peninsula, the specter of nuclear mobilization has cast a shadow over regional stability and global security. The interplay of historical, political, and military dynamics has led to a situation where the presence and potential use of nuclear weaponry has become central to discussions and concerns surrounding this region. The intricate web of interests and tensions has elevated the urgency of comprehending the factors that have contributed to the nuclear mobilization in the Korean Peninsula. As one of the main committees of the United Nations General Assembly, DISEC plays a vital role in deliberating on strategies to mitigate tensions, promote disarmament, and secure a peaceful resolution to the ongoing crisis. The committee's historical significance, rooted in its establishment as a fundamental component of the UN in 1945, reflects the global acknowledgment of the imperative to prevent the escalation of nuclear tensions and promote lasting security measures."
 
 
 - header: Crisis Committees
   links:
-    - title: Arab Spring
-      url: arab_spring
-      image: AS.jpg
-      description: "What began with an upset produce vendor in Tunisia who lit himself on fire to protest the corrupt regime under Zine El Abidine Ben Ali, would later lead to one of the most significant revolutions in human history. With a total of 6 governments overthrown, multiple civil wars, and 20 countries directly affected, some resulted in the original goal of achieving freedom, liberty, human rights, and democracy but the majority resulted in ongoing civil wars and increased tyranny from the government. This is due to the various actors with varying points of view from the corrupt governments, to the protesters, to extremist organizations, to external Western nations choosing sides. This crisis committee took place on January 14th, 2011, the end of the overthrow of the Tunisia government and the beginning of the protests in the Arab world. Your task as delegates representing various actors is to achieve your agenda - whatever agenda that may be."
-      director: Adam Ben Lassoued
+    - title: Turkish Invasion of Cyprus 1974
+      url: cyprus
+      image: cyprus.jpg
+      description: "TBD"
+      director: TBD
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: "<a class='bolded'>Zine El Abidine Ben Ali</a><br>2011 Government of Tunisia"
-        - name: "<a class='bolded'>Abdelaziz Bouteflika</a><br>2011 Government of Algeria"
-        - name: "<a class='bolded'>Hosni Mubarak</a><br>2011 Government of Egypt"
-        - name: "<a class='bolded'>Bashar Al-Assad</a><br>2011 Government of Syria"
-        - name: "<a class='bolded'>Ali Abdullah Saleh</a><br>2011 Government of Yemen"
-        - name: "<a class='bolded'>Muammar Gaddafi</a><br>2011 Government of Libya"
-        - name: "<a class='bolded'>Nouri al-Maliki</a><br>2011 Government of Iraq"
-        - name: "<a class='bolded'>King Abdullah II</a><br>Monarch of Jordan"
-        - name: "<a class='bolded'>Mohamed Ghannouchi</a><br>Democratic Constitutional Assembly of Tunisia"
-        - name: "<a class='bolded'>Karim Tabbou</a><br>Democratic and Social Union of Algeria"
-        - name: "<a class='bolded'>Abdel Fatah El-Sisi</a><br>2011 Egyptian Minister of Defense"
-        - name: "<a class='bolded'>Naser al-Hariri</a><br>Leader of the National Coalition for Syrian Revolutionary and Opposition Forces"
-        - name: "<a class='bolded'>Abdul-Malik al-Houthi</a><br>Leader of the Houthi Insurgency"
-        - name: "<a class='bolded'>Khalifa Belqasim Haftar</a><br>Supreme Commander of the Libyan National Army"
-        - name: "<a class='bolded'>Mohammed Younis al-Ahmed</a><br>Leader of Al-Awda, </a><br> the underground Ba'ath movement</a><br> "
-        - name: "<a class='bolded'>Hamza Mansour</a><br>Leader of the Islamic Action Front of Jordan"
-        - name: "<a class='bolded'>Hillary Clinton</a><br>2011 United States Secretary of State"
-        - name: "<a class='bolded'>Sergey Lavrov</a><br>Russian Minister of Foreign Affairs"
-        - name: "<a class='bolded'>Dai Bingguo</a><br>2011 Chinese Seceratary-General of the Foreign Affairs Leading Group"
-        - name: "<a class='bolded'>Avigdor Lieberman</a><br>2011 Israeli Minister of Foreign Affairs"
+        - name: TBD
       topics:
-        - title: "Topic A - Taking Steps to Rebuild Tunisia"
-          desc: "In the first topic, the committee will discuss the effects of the revolution in Tunisia and will brainstorm ideas to instill a democratic government, secure trust for the government, create fair elections, rebuild the nation’s damaged infrastructure, reduce the oppression on news outlets and other media, and deal with the displacement of millions of Tunisians that resulted due to the civil unrest. With the help of internal and external international actors, a new Tunisia will be rebuilt with a reputation to represent, serve, and protect the people."
-        - title: "Topic B - Rising Tensions in the Arab World"
-          desc: "The effects of the semi-successful revolution in Tunisia has created a snowball effect with the Arab nations of the world witnessing the rise of the proletariat against the oppressive government and has given hope for change of government to a more democratic and just society. However, with protests arising many nations are in the direction of civil war, destruction, and unnecessary mass bloodshed. The goal of this topic is to reduce the overall damage of the revolutions and to maximize its chances of creating a democratic nation."
+        - title: "TBD"
+          desc: "TBD"
+        - title: "TBD"
+          desc: "TBD"
 
-    - title: The Humanity Beyond — Mars 2050
-      url: Mars
-      image: mars.jpg
-      description: "The staff members of the Mars Crisis Committee are beyond excited to welcome you to TMUN 2023! This committee takes place in the future, where the living condition on Earth does not allow us to stay on our home planet anymore and forces us to start colonizing Mars. In this fast-paced crisis committee, you will be challenged to face multiple issues. Tasked with managing the Earth-Mars voyage and distributing land on Mars, you will represent space agencies and institutions and will use your creativity, diplomacy, and ability to negotiate throughout the conference. Remember, the fate of the human race is in your hands!"
-      director: Yuqing Zhou
-      role-type: Countries
-      role-type-singular: Country
-      roles:
-        - name: Brazil
-        - name: Canada
-        - name: Chile
-        - name: China
-        - name: East African Federation
-        - name: The United Kingdom
-        - name: Egypt
-        - name: Germany
-        - name: Greater Mexico
-        - name: India
-        - name: Italy
-        - name: Japan
-        - name: Korea
-        - name: New Persia
-        - name: Oceanic Union
-        - name: Russia
-        - name: Spain
-        - name: Ukraine
-        - name: United Arab Emirates
-        - name: United States of America
-      topics:
-        - title: "Topic A – Escape Route"
-          desc: "Over the years, people have searched for alternatives to ensure the survival of the human race as pollution hugely impacts our health and our current planet in a non-reversible way. This severe pollution causes extreme weather events that occur frequently in the 2040s. Missions and studies that have been carried out on Mars in the 2020s as well as the calculations of scientists suggest that Mars colonization is the most reliable and realistic way to ensure the prosperity of humankind. Delegates will have to come up with a relatively detailed and concrete plan of an efficient voyage from Earth to Mars while taking into consideration the limited time and resources that are left on Earth, keeping in mind that negotiation between governments, corporations, and the population as a whole is also important. "
-        - title: "Topic B – Rebuilding Foundations"
-          desc: "The colonization of Mars also consists of settling on the red planet. To start rebuilding the daily routines that are similar to the ones on Earth, delegates will have to write directives regarding the land distribution, transportation, as well as construction of infrastructure and basic public services such as health and education systems on Mars. While trying to build foundations on Mars, delegates should also bear in mind that continuous communication with Earth is also important. This includes sharing resources, keeping in touch with people who are still on Earth, potentially bringing more people to Mars during the first few years of colonization, etc."
-
-    - title: Multiverse of Madness
-      url: multiverse_of_madness
-      image: multiverse_of_madness.jpg
-      description: "SHIELD Director Nick Fury once created a group of remarkable people to face extraordinary threats; the Avengers. Decades later, these super powered individuals have fought various opponents, including hardened criminals, and interplanetary species. However the Avengers are now faced with a new challenge, a portal to the Multiverse has been opened by an unknown source, and creatures are causing chaos. Based on the popular Marvel Cinematic Franchise, delegates will have to make choices to not only protect Earth, but to protect the entire universe."
-      director: Abigail Nicholas
+    - title: Strawberry Productions LTD
+      url: strawberry
+      image: strawberry.jpg
+      description: "TBD"
+      director: TBD
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: Alexandria Ocasio-Cortez
-        - name: America Chavez
-        - name: Bruce Banner
-        - name: Bucky Barnes
-        - name: Carol Danvers
-        - name: Clint Barton
-        - name: Jimmy Woo
-        - name: Joe Biden
-        - name: Kamala Khan
-        - name: Maria Hill
-        - name: Monica Rambeau
-        - name: Nick Fury
-        - name: Peter Quill
-        - name: Sam Wilson
-        - name: Scott Lang
-        - name: Stephen Strange
-        - name: T’Challa
-        - name: Thaddeus Ross
-        - name: Thor
-        - name: Wong
-        - name: Yelena Belova
+        - name: TBD
       topics:
+        - title: "TBD"
+          desc: "TBD"
+        - title: "TBD"
+          desc: "TBD"
 
-    - title: Russo-Ukrainian Peace Negotiations
-      url: RUPN
-      image: rupn.jpeg
-      description: "In the midst of the largest full-scale invasion since the conclusion of the second world war, the world lies in a state of crisis in light of the 2022 Russian invasion of Ukraine. Set in the months following the start, delegates in this committee will attempt to come to terms with the conflict, the issues, and themselves. From Russian & Ukrainian military leaders to foreign ambassadors and organizations, delegates here will have the task of resolving the 21st century's biggest conflict to best suit their political agendas. Will you be able to come out on top? Or will you fall to the wrath of modern geopolitics and conflict? Whatever happens, may the best delegate win."
-      director: Mohit Bhabak
+    - title: Death of Kim Jong Il
+      url: kimjongil
+      image: kimjongil.jpg
+      description: "TBD"
+      director: TBD
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: "<a class='bolded'>Vladamir Putin</a><br>Russian President"
-        - name: "<a class='bolded'>Oleg Salyukov</a><br>Russian Commander In-Chief"
-        - name: "<a class='bolded'>Sergei Shoigu</a><br>Russian Minister of Defense"
-        - name: "<a class='bolded'>Sergey Lavrov</a><br>Russian Minister of Foreign Affairs"
-        - name: "<a class='bolded'>Maxim Reshetnikov</a><br>Russian Minister of Economic Development"
-        - name: "<a class='bolded'>Volodymyr Zelenskyy</a><br>Ukrainian President"
-        - name: "<a class='bolded'>Valerii Zaluzhnyi</a><br>Ukrainian Commander-In-Chief"
-        - name: "<a class='bolded'>Oleksii Reznikov</a><br>Ukrainian Minister of Defense"
-        - name: "<a class='bolded'>Dmytro Kuleba</a><br>Ukrainian Minister of Foreign Affairs"
-        - name: "<a class='bolded'>Yulia Svyrydenko</a><br>Ukrainian Minister of Economic Development"
-        - name: "<a class='bolded'>Antony J. Blinken</a><br>American Secretary of State"
-        - name: "<a class='bolded'>Wang Yi</a><br>Chinese Minister of Foreign Affairs"
-        - name: "<a class='bolded'>Subrahmanyam Jaishankar</a><br>Indian Minister of External Affairs"
-        - name: "<a class='bolded'>Mélanie Joly</a><br>Canadian Minister of Foreign Affairs"
-        - name: "<a class='bolded'>Marija Pejčinović Burić</a><br>Secretary-General of the European Union"
-        - name: "<a class='bolded'>Mevlüt Çavuşoğlu</a><br>Turkish Minister of Foreign Affairs"
-        - name: "<a class='bolded'>Head of the Luhansk People's Republic"
-        - name: "<a class='bolded'>Denis Pushilin</a><br>Head of the Donetsk People’s Republic"
-        - name: "<a class='bolded'>James Cleverly MP</a><br>British Secretary of State"
-        - name: "<a class='bolded'>Vladimir Makei</a><br>Belarussian Minister of Foreign Affairs"
+        - name: TBD
       topics:
-        - title: "Topic A - Sanctions & the Economic State of the World"
-          desc: "Since the beginning of the 2022 Russo-Ukrainian conflict, sanctions have rained down on Russia from almost every corner. The economic state of the world has arguably never been more volatile since WW2. With almost all of Europe, the United States, Canada and so many others laying massive economic sanctions on the nation, and with Russia also being kicked out of many economic, sporting, & political organizations, it goes to wonder how much either side can keep this up. Whether it be reduced oil & gas supply and the subsequent price hikes, or major companies leaving and almost blacklisting nations, something must be done. The economic situation can only remain so tense for so long before one side must cave in, and it is up to delegates to now write the script and make sure it is not their nations who succumb to the pressures first."
-        - title: "Topic B - Separatist Regions & Political Control"
-          desc: "With the public announcement of the “special military operation” in Ukraine came the official claims to independence from two self-proclaimed nations: the Luhansk & Donetsk Peoples’ Republics. Recognized by the Russian government, and even holding referendums regarding integration into the Russian state, the sovereignty and ownership of two separatist nations pose a grave challenge to all. Combined with the ever-lasting problem of Crimea, the issue of Ukraine’s Russian-backed seperatist regions and political control over the region as a whole must remain at the forefront of any debate regarding the conflict."
+        - title: "TBD"
+          desc: "TBD"
+        - title: "TBD"
+          desc: "TBD"
 
-- header: Online Committees
-  links:
-    - title: World Health Organisation
-      url: WHO
-      image: WHO.jpg
-      description: "The World Health Organization targets all issues related to the topic of global health, which may be intertwined with global politics. Healthcare inequalities continue to worsen, especially between low and high income communities, with large discrepancies in both quality and quantity of care. The COVID-19 pandemic caused a global health crisis, a crisis which can be avoided in the future if countries choose to be prepared. Both issues come with long and diverse backgrounds of information. But if one thing is for sure, these are prominent issues that must be addressed imminently."
-      director: Seth Goyal
-      role-type: Countries
-      role-type-singular: Country
-      roles:
-        - name: Afghanistan (Islamic Emirate of)
-        - name: Algeria
-        - name: Argentina
-        - name: Armenia
-        - name: Australia
-        - name: Austria
-        - name: Azerbaijan
-        - name: Bahamas
-        - name: Bahrain
-        - name: Bangladesh
-        - name: Barbados
-        - name: Belarus
-        - name: Belgium
-        - name: Belize
-        - name: Benin
-        - name: Bolivia
-        - name: Bosnia and Herzegovina
-        - name: Botswana
-        - name: Brazil
-        - name: Brunei
-        - name: Burkina Faso
-        - name: Burundi
-        - name: Côte d'Ivoire
-        - name: Cabo Verde
-        - name: Cambodia
-        - name: Cameroon
-        - name: Canada
-        - name: Central African Republic
-        - name: Chad
-        - name: Chile
-        - name: People's Republic of China
-        - name: Republic of China (Taiwan)
-        - name: Colombia
-        - name: Comoros
-        - name: Congo (Congo-Brazzaville)
-        - name: Costa Rica
-        - name: Croatia
-        - name: Cuba
-        - name: Cyprus
-        - name: Czechia (Czech Republic)
-        - name: Democratic Republic of the Congo
-        - name: Denmark
-        - name: Djibouti
-        - name: Dominica
-        - name: Dominican Republic
-        - name: Ecuador
-        - name: Egypt
-        - name: El Salvador
-        - name: Equatorial Guinea
-        - name: Eritrea
-        - name: Estonia
-        - name: Eswatini
-        - name: Ethiopia
-        - name: Fiji
-        - name: Finland
-        - name: France
-        - name: Gabon
-        - name: Gambia
-        - name: Georgia
-        - name: Germany
-        - name: Ghana
-        - name: Greece
-        - name: Grenada
-        - name: Guatemala
-        - name: Guinea
-        - name: Guinea-Bissau
-        - name: Guyana
-        - name: Haiti
-        - name: Holy See
-        - name: Honduras
-        - name: Hungary
-        - name: Iceland
-        - name: India
-        - name: Indonesia
-        - name: Iran
-        - name: Iraq
-        - name: Ireland
-        - name: Israel
-        - name: Italy
-        - name: Jamaica
-        - name: Japan
-        - name: Jordan
-        - name: Kazakhstan
-        - name: Kenya
-        - name: Kiribati
-        - name: Kuwait
-        - name: Kyrgyzstan
-        - name: Laos
-        - name: Latvia
-        - name: Lebanon
-        - name: Lesotho
-        - name: Liberia
-        - name: Libya
-        - name: Liechtenstein
-        - name: Lithuania
-        - name: Luxembourg
-        - name: Madagascar
-        - name: Malawi
-        - name: Malaysia
-        - name: Maldives
-        - name: Mali
-        - name: Malta
-        - name: Marshall Islands
-        - name: Mauritania
-        - name: Mauritius
-        - name: Mexico
-        - name: Micronesia
-        - name: Moldova
-        - name: Monaco
-        - name: Mongolia
-        - name: Montenegro
-        - name: Morocco
-        - name: Mozambique
-        - name: Myanmar
-        - name: Namibia
-        - name: Nauru
-        - name: Nepal
-        - name: Netherlands
-        - name: New Zealand
-        - name: Nicaragua
-        - name: Niger
-        - name: Nigeria
-        - name: Korea (DPRK)
-        - name: North Macedonia
-        - name: Norway
-        - name: Oman
-        - name: Pakistan
-        - name: Palau
-        - name: Palestinian Authority
-        - name: Panama
-        - name: Papua New Guinea
-        - name: Paraguay
-        - name: Peru
-        - name: Philippines
-        - name: Poland
-        - name: Portugal
-        - name: Qatar
-        - name: Romania
-        - name: Russia
-        - name: Rwanda
-        - name: Saint Kitts and Nevis
-        - name: Saint Lucia
-        - name: Saint Vincent and the Grenadines
-        - name: Samoa
-        - name: San Marino
-        - name: Sao Tome and Principe
-        - name: Saudi Arabia
-        - name: Senegal
-        - name: Serbia
-        - name: Seychelles
-        - name: Sierra Leone
-        - name: Singapore
-        - name: Slovakia
-        - name: Slovenia
-        - name: South Africa
-        - name: Korea (ROK)
-        - name: Spain
-        - name: Sudan
-        - name: Sweden
-        - name: Switzerland
-        - name: Syria
-        - name: Tanzania
-        - name: Thailand
-        - name: Turkey
-        - name: Ukraine
-        - name: United Arab Emirates
-        - name: United Kingdom
-        - name: United States of America
-        - name: Uruguay
-        - name: Venezuela
-        - name: Vietnam
-        - name: Yemen
-        - name: Zimbabwe
-      topics:
-        - title: "Topic A: Healthcare Inequality in the Developing World"
-        - title: "Topic B: Post Effects of the COVID-19 Virus"
-
-    - title: Commission on Science and Technology for Development
-      url: UNCSTD
-      image: UNCSTD.jpg
-      description: "This GA committee has the general theme of technological issues around the planet. With a rapidly changing world, industries are changing and many countries are being left behind. New industries and frontiers also open up new legal challenges and delegates must ensure their countries' concerns are heard when writing resolutions. Discussions can range from new space travel regulations in response to the moon base planned in the USA's Artemis moon mission, the impact of AI and automation around the world, and the movement of rare earth metals for green technologies. Delegates must cooperate to come to agreements to make sure their country is at the edge of innovation."
-      director: Dhyey Bhatt
-      role-type: Countries
-      role-type-singular: Country
-      roles:
-        - name: Afghanistan (Islamic Emirate of)
-        - name: Albania
-        - name: Algeria
-        - name: Andorra
-        - name: Angola
-        - name: Antigua and Barbuda
-        - name: Argentina
-        - name: Armenia
-        - name: Australia
-        - name: Austria
-        - name: Azerbaijan
-        - name: Bahamas
-        - name: Bahrain
-        - name: Bangladesh
-        - name: Barbados
-        - name: Belarus
-        - name: Belgium
-        - name: Belize
-        - name: Benin
-        - name: Bhutan
-        - name: Bolivia
-        - name: Bosnia and Herzegovina
-        - name: Botswana
-        - name: Brazil
-        - name: Brunei
-        - name: Bulgaria
-        - name: Burkina Faso
-        - name: Burundi
-        - name: Côte d'Ivoire
-        - name: Cabo Verde
-        - name: Cambodia
-        - name: Cameroon
-        - name: Canada
-        - name: Central African Republic
-        - name: Chad
-        - name: Chile
-        - name: People's Republic of China
-        - name: Republic of China (Taiwan)
-        - name: Colombia
-        - name: Comoros
-        - name: Congo (Congo-Brazzaville)
-        - name: Costa Rica
-        - name: Croatia
-        - name: Cuba
-        - name: Cyprus
-        - name: Czechia (Czech Republic)
-        - name: Democratic Republic of the Congo
-        - name: Denmark
-        - name: Djibouti
-        - name: Dominica
-        - name: Dominican Republic
-        - name: Ecuador
-        - name: Egypt
-        - name: El Salvador
-        - name: Equatorial Guinea
-        - name: Eritrea
-        - name: Estonia
-        - name: Eswatini
-        - name: Ethiopia
-        - name: Fiji
-        - name: Finland
-        - name: France
-        - name: Gabon
-        - name: Gambia
-        - name: Georgia
-        - name: Germany
-        - name: Ghana
-        - name: Greece
-        - name: Grenada
-        - name: Guatemala
-        - name: Guinea
-        - name: Guinea-Bissau
-        - name: Guyana
-        - name: Haiti
-        - name: Holy See
-        - name: Honduras
-        - name: Hungary
-        - name: Iceland
-        - name: India
-        - name: Indonesia
-        - name: Iran
-        - name: Iraq
-        - name: Ireland
-        - name: Israel
-        - name: Italy
-        - name: Jamaica
-        - name: Japan
-        - name: Jordan
-        - name: Kazakhstan
-        - name: Kenya
-        - name: Kiribati
-        - name: Kuwait
-        - name: Kyrgyzstan
-        - name: Laos
-        - name: Latvia
-        - name: Lebanon
-        - name: Lesotho
-        - name: Liberia
-        - name: Libya
-        - name: Liechtenstein
-        - name: Lithuania
-        - name: Luxembourg
-        - name: Madagascar
-        - name: Malawi
-        - name: Malaysia
-        - name: Maldives
-        - name: Mali
-        - name: Malta
-        - name: Marshall Islands
-        - name: Mauritania
-        - name: Mauritius
-        - name: Mexico
-        - name: Micronesia
-        - name: Moldova
-        - name: Monaco
-        - name: Mongolia
-        - name: Montenegro
-        - name: Morocco
-        - name: Mozambique
-        - name: Myanmar
-        - name: Namibia
-        - name: Nauru
-        - name: Nepal
-        - name: Netherlands
-        - name: New Zealand
-        - name: Nicaragua
-        - name: Niger
-        - name: Nigeria
-        - name: Korea (DPRK)
-        - name: North Macedonia
-        - name: Norway
-        - name: Oman
-        - name: Pakistan
-        - name: Palau
-        - name: Palestinian Authority
-        - name: Panama
-        - name: Papua New Guinea
-        - name: Paraguay
-        - name: Peru
-        - name: Philippines
-        - name: Poland
-        - name: Portugal
-        - name: Qatar
-        - name: Romania
-        - name: Russia
-        - name: Rwanda
-        - name: Saint Kitts and Nevis
-        - name: Saint Lucia
-        - name: Saint Vincent and the Grenadines
-        - name: Samoa
-        - name: San Marino
-        - name: Sao Tome and Principe
-        - name: Saudi Arabia
-        - name: Senegal
-        - name: Serbia
-        - name: Seychelles
-        - name: Sierra Leone
-        - name: Singapore
-        - name: Slovakia
-        - name: Slovenia
-        - name: Solomon Islands
-        - name: Somalia
-        - name: South Africa
-        - name: Korea (ROK)
-        - name: South Sudan
-        - name: Spain
-        - name: Sri Lanka
-        - name: Sudan
-        - name: Suriname
-        - name: Sweden
-        - name: Switzerland
-        - name: Syria
-        - name: Tajikistan
-        - name: Tanzania
-        - name: Thailand
-        - name: Timor-Leste
-        - name: Togo
-        - name: Tonga
-        - name: Trinidad and Tobago
-        - name: Tunisia
-        - name: Turkey
-        - name: Turkmenistan
-        - name: Tuvalu
-        - name: Uganda
-        - name: Ukraine
-        - name: United Arab Emirates
-        - name: United Kingdom
-        - name: United States of America
-        - name: Uruguay
-        - name: Uzbekistan
-        - name: Vanuatu
-        - name: Venezuela
-        - name: Vietnam
-        - name: Yemen
-        - name: Zambia
-        - name: Zimbabwe
-      topics:
-        - title: "Topic A: Global Impact of Artificial Intelligence / Automation"
-        - title: "Topic B: Technological Cooperation on Climate Change"
-
-    - title: The East is Red, the Chinese Cultural Revolution 1968 - 9th Politburo of the CPC (Crisis)
-      url: CCP
-      image: ccp.jpg
-      description: "The Politburo of the Chinese Communist Party simulates debate from the perspective of the highest echelons of the CPC–the decision making body of the People’s Republic of China–while adhering to crisis rules of procedure. This year’s iteration of the Politburo of the CPC explores the height of the Cultural Revolution in the 9th Politburo of the CPC.
-          This committee is designed for advanced delegates with extensive experience and debate knowledge, as well as those with in-depth knowledge about Chinese history and politics. Positions papers are thus mandatory for this committee. Please direct all inquiries and position papers for this committee to <a href=mailto:delegateaffairs@tmun.ca target='_blank'>delegateaffairs@tmun.ca</a><br>"
-      director: Kevin Zhou
-      topics:
-        - title: Internal Stability
-          desc: "Since the establishment of the People’s Republic of China, internal stability has become a struggle to maintain. Increasing separatist movements in regions such as Xinjiang and Tibet coupled with the factionalism within the Red Guards is causing a treacherous increase in unrest. The People’s Republic, founded not long ago, faces more internal strife as separatist groups and Kuomintang remnants continue to cause unrest. Chairman Mao Zedong created the Red Guards to counter these revisionist forces; however, Mao’s efforts are beginning to backfire as factions begin to form in the Red Guards, additionally disbanding the cause. Given further provocation from Vietnamese and Soviet borders, it is up to delegates to stabilize the growing PRC’s internal situation and expand the nation’s influence."
-        - title: Economic Stagnation and Recovery from the Great Leap Forward
-          desc: "Due to the damages to the PRC from the Second Sino-Japanese war and the Chinese Civil War, the Chinese economy is in a recession. Many skilled young men have died fighting the Japanese. Due to the lack of skilled individuals, the rebuilding of the Chinese economy and industries are stagnant. After many pecuniary policies, Chinese industry is still weaker than what it can be. Activities from revisionist groups and the costs of repressing them is costing our industry as Red Guards use cargo transportation to instead transport their ranks to suppress revisionists. This, amongst many other problems, are what delegates need to resolve in order to set China on the correct path to prosperity."
+    - title: "Autumn of Nations: Romania 1989"
+      url: romania
+      image: romania.jpg
+      description: "TBD"
+      director: TBD
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: "<a class='bolded'>Mao Zedong</a><br>Chairman of the Communist Party of China"
-        - name: "<a class='bolded'>Zhou Enlai</a><br>Premier of the People's Republic of China"
-        - name: "<a class='bolded'>Lin Biao</a><br>Vice Chairman of the Chinese Communist Party"
-        - name: "<a class='bolded'>Kang Sheng</a><br>Director of the Central Social Affairs Department"
-        - name: "<a class='bolded'>Chen Boda</a><br>Deputy Director of the CCP Propaganda Department, Director of the Institute of Political Research"
-        - name: "<a class='bolded'>Zhu De</a><br>Chairman of the Standing Committee of the National People's Congress"
-        - name: "<a class='bolded'>Li Xiannian</a><br>Minister of Finance, Vice Premier of China"
-        - name: "<a class='bolded'>Wu Faxian</a><br>Commander of the PLA Air Force, Political Commissar of the PLA Air Force"
-        - name: "<a class='bolded'>Dong Biwu</a><br>President of the Supreme People's Court, Director of the Finance and Economic Committee of the Government Council"
-        - name: "<a class='bolded'>Liu Bochen</a><br>President and Commissar of the Military Academy of the PLA, Vice-Chairman of the Central Military Committee of the CPC"
-        - name: "<a class='bolded'>Zhang Chunqiao</a><br>Chairman of the Revolutionary Committee of Shanghai"
-        - name: "<a class='bolded'>Xie Fuzhi</a><br>Secretary of the Secretariat of the Chinese Communist Party, Minister of Public Security"
-        - name: "<a class='bolded'>Yao Wenyuan</a><br>Member of the Politburo"
-        - name: "<a class='bolded'>Ji Dengkui</a><br>Deputy Director of the Henan Cultural Revolution Committee, Member of the Politburo"
-        - name: "<a class='bolded'>Chen Xilian</a><br>Commander of the Shenyang Military Region, Member of the Politburo"
-        - name: "<a class='bolded'>Jiang Qing</a><br>Spouse of Mao Zedong, Leader of the Gang of Four, Secretary to Mao Zedong"
-        - name: "<a class='bolded'>Li Zuopeng</a><br>General of the People's Liberation Army, Member of the Politburo"
-        - name: "<a class='bolded'>Ye Jianying</a><br>Member of the National People's Congress, Previous Mayor of Guangzhou"
-        - name: "<a class='bolded'>Li Xuefeng</a><br>First Secretary of the North China Bureau, First Political Commissar of the Beijing Military Region"
-        - name: "<a class='bolded'>Deng Xiaoping</a><br>Former Head of the Communist Party's Organization Department, Former Member of the Central Military Commission."
-
-- header: International Committees
-  links:
-    - title: United Nations Human Rights Council
-      url: UNHRC
-      image: UNHRC.jpg
-      description: "The United Nations Commission on Human Rights was superseded by the United Nations Human Rights Council in 2006. The Council is a UN human rights system intergovernmental body made up of 47 States chosen by the UN General Assembly and charged with enhancing the promotion and protection of human rights around the world. Its major objective is to address instances of human rights breaches and offer solutions. Resolution 60/251 of the General Assembly, on March 15, 2006, established its authority.
-                    The Council reports to the General Assembly and holds three regular sessions and as many special sessions as necessary each year.
-                    <br><br>
-                    <b>Please note that this committee will be hosted in IST (Indian Standard Time) to accompany international delegates and their schedules.</b>"
-      director: Arunava Banerjee
+        - name: TBD
       topics:
-        - title: Right to Privacy in the Digital Age
-          desc: "Technological progress has created a situation of severe tension and incompatibility between the right to privacy and the extensive data pooling on which the digital economy is based. This development requires new thinking about the substance of that right."
-        - title: Human Rights of Private Militias and Paramilitary Soldiers
-          desc: "The members of the Private Militia and paramilitary soldiers  are called upon to perform duties which may necessitate killing other people or sacrificing their own lives. They may have to live and serve in hostile areas and always be capable of guarding the frontiers of the country and ensuring internal security. These special factors call for placing limitations on their rights. However, should armed forces personnel not be entitled to certain basic human rights?"
-      role-type: Countries
-      role-type-singular: Country
-      roles:
-        - name: Afghanistan (Islamic Emirate of)
-        - name: Algeria
-        - name: Angola
-        - name: Argentina
-        - name: Armenia
-        - name: Australia
-        - name: Austria
-        - name: Azerbaijan
-        - name: Bangladesh
-        - name: Belarus
-        - name: Belgium
-        - name: Bhutan
-        - name: Bolivia
-        - name: Bosnia and Herzegovina
-        - name: Brazil
-        - name: Bulgaria
-        - name: Burkina Faso
-        - name: Côte d'Ivoire
-        - name: Cambodia
-        - name: Canada
-        - name: Chile
-        - name: People's Republic of China
-        - name: Colombia
-        - name: Croatia
-        - name: Cuba
-        - name: Czechia (Czech Republic)
-        - name: Democratic Republic of the Congo
-        - name: Denmark
-        - name: Egypt
-        - name: Equatorial Guinea
-        - name: Ethiopia
-        - name: Finland
-        - name: France
-        - name: Georgia
-        - name: Germany
-        - name: Greece
-        - name: Hungary
-        - name: India
-        - name: Indonesia
-        - name: Iran
-        - name: Israel
-        - name: Italy
-        - name: Jamaica
-        - name: Kazakhstan
-        - name: Kuwait
-        - name: Libya
-        - name: Malaysia
-        - name: Mexico
-        - name: Myanmar
-        - name: Netherlands
-        - name: New Zealand
-        - name: Nigeria
-        - name: Korea (DPRK)
-        - name: Norway
-        - name: Pakistan
-        - name: Paraguay
-        - name: Philippines
-        - name: Portugal
-        - name: Romania
-        - name: Russia
-        - name: Rwanda
-        - name: Saudi Arabia
-        - name: Serbia
-        - name: Singapore
-        - name: South Africa
-        - name: Korea (ROK)
-        - name: South Sudan
-        - name: Spain
-        - name: Sudan
-        - name: Syria
-        - name: Tunisia
-        - name: Turkey
-        - name: United Arab Emirates
-        - name: United Kingdom
-        - name: United States of America
-        - name: Zimbabwe
+        - title: "TBD"
+          desc: "TBD"
+        - title: "TBD"
+          desc: "TBD"
 
-    - title: The 2023 Cricket World Cup (Crisis)
-      url: cricket
-      image: cricket.jpg
-      description: "<b>Please note that this committee will be hosted in IST (Indian Standard Time) to accompany international delegates and their schedules.</b>"
-      director: Arunava Banerjee
-      topics:
-        - title: Rigged world cup?
-          desc: "Some classified sources have reported that the world cup 2023 is likely staged and the fate of most of the matches have already been decided. In those circumstances, the supporters are furious given that the sport is at the risk of losing its world wide fan base that it has. It's your responsibility to dig into the situation and figure out whether the reports are true or just a blame from unknown sources to create hate against the sport and its stakeholders"
-        - title: Security Risk
-          desc: "Intelligence agencies have received a threat that there will be a planned assassination attack on the Worldcup teams and venue in order to defame one of the biggest sports competition world wide. Your task is to uncover the truth behind it as the stakeholders of cricket world cup 2023 and ensure the safety of all the teams and people. The big question that remains is: will the World Cup still continue as scheduled?"
+    - title: Manhattan Project
+      url: manhattan
+      image: manhattan.jpg
+      description: "TBD"
+      director: TBD
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: "<a class='bolded'>Cricket Teams</a>"
-        - name: England
-        - name: Australia
-        - name: Newzealand
-        - name: India
-        - name: Pakistan
-        - name: Bangladesh
-        - name: Afghanistan
-        - name: Srilanka
-        - name: West Indies
-        - name: South Africa
-        - name: "<a class='bolded'>Organizing body </a>"
-        - name: International Cricket Council
-        - name: "<a class='bolded'>Intelligence Agency </a>"
-        - name: Research and Analysis Wing
-        - name: "<a class='bolded'>Security Body</a>"
-        - name: Indian Security Agencies
+        - name: TBD
+      topics:
+        - title: "TBD"
+          desc: "TBD"
+        - title: "TBD"
+          desc: "TBD"
