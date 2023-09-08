@@ -338,7 +338,26 @@ All in the name of success."
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: TBD
+        - name: <a class="bolded">Taishi Gotanda</a><br> Director
+        - name: <a class="bolded">Tetsu Urushibara</a><br> Director
+        - name: <a class="bolded">Chu2</a><br> Music Producer
+        - name: <a class="bolded">Masaya Kaburagi</a><br> Movie Producer
+        - name: <a class="bolded">Toshirou Kindaichi</a><br> Theater Producer
+        - name: <a class="bolded">Goa</a><br> Scriptwriter
+        - name: <a class="bolded">Kazuma Satou</a><br> Editor
+        - name: <a class="bolded">Subaru Natsuki</a><br> Editor
+        - name: <a class="bolded">Abiko Samejima</a><br> Author
+        - name: <a class="bolded">Sumiaki Raida</a><br> Event Coordinator/Producer
+        - name: <a class="bolded">Aqua Hoshino</a><br> Actor
+        - name: <a class="bolded">Ruby Hoshino</a><br> Idol
+        - name: <a class="bolded">Arima Kana</a><br> Actor
+        - name: <a class="bolded">Akane Kurokawa</a><br> Theater Actor
+        - name: <a class="bolded">Mem</a><br> Streamer
+        - name: <a class="bolded">Yukina Minato</a><br> Singer
+        - name: <a class="bolded">Sweet Macaron</a><br> Virtual Idol
+        - name: <a class="bolded">Yui</a><br> Singer
+        - name: <a class="bolded">Rie Takahashi</a><br> Voice Actor
+        - name: <a class="bolded">Bocchi</a><br> Musician
       topics:
         - title: "Topic A - The Competition"
           desc: "Despite seeing initial success and having a strong lineup, StrawPro is a fairly new entry to the world of entertainment. The industry currently remains dominated by massive corporations such as Shinomiya Entertainment Corp, which utilize their vast scores of wealth in order to fund their activities. Sponsors are a viable option to fund activities on the scale of the corporations, and serve as an important lifeline for StrawPro. However, sponsors are limited so you must act fast in order to secure them. "
