@@ -304,32 +304,46 @@
     - title: Turkish Invasion of Cyprus 1974
       url: cyprus
       image: cyprus.jpg
-      description: "TBD"
+      description: "The Cyprus 1974 committee will take place during the July 1974 invasion of the island by Turkish forces. This committee will be divided between a Greek-led faction and a Turkish-led faction, with both sides battling for control of the island. The committee will be equipped with a live map with troop positions, military depots and battle zones. Live updates will be provided regularly throughout the committee and delegates are urged to think on their feet as the processions will move quite rapidly. Although delegates will sit within their factions, they are encouraged to negotiate and pass notes accordingly with their counterparts. The committee will conclude with a surrender from one side or via a peace agreement between the two sides."
       director: TBD
       role-type: Characters
       role-type-singular: Character
       roles:
         - name: TBD
       topics:
-        - title: "TBD"
-          desc: "TBD"
-        - title: "TBD"
-          desc: "TBD"
+        - title: "Topic A - Role of UN and British Peacekeepers on the Island"
+          desc: "In the wake of the Turkish invasion, cases of ethnic violence and human rights violations against Greek and Turkish Cypriots alike became commonplace. Given limited resources and manpower, the British and UN peacekeepers must try to maintain stability in the region, negotiating ceasefires when possible and mitigating the humanitarian effects of the war. Delegates will determine access to corridors, crucial ports and military depots, and they can also try to establish some sort of a demarcation zone. "
+        - title: "Topic B - The Battle for Cyprus"
+          desc: "With battle still raging between Turkish and Greek forces, the future map of Cyprus has yet to be decided. Turkish forces have successfully made landfall onto the island, but they have not yet completely conquered the island. During the committee, delegates will have the ability to command their respective troops and battle for Cyprus. If a peace deal splitting the island is reached, delegates will have to decide how to split the island between all countries involved."
 
-    - title: Strawberry Productions LTD
+    - title: Strawberry Productions LTD.
       url: strawberry
       image: strawberry.jpg
-      description: "TBD"
+      description: "“This story is a work of fiction, or rather, this world, for the most part, is a work of fiction” 
+      
+      <br>- Aka Akasaka <br><br>
+
+Everyone in the world has their secrets—some more than others. Strawberry Productions LTD. (Abbreviated as StrawPro) is made up of a collection of these individuals, striving to reach the top of the entertainment industry. From actors to idols, from producers to scriptwriters, who will end up at the top and who will have all their secrets exposed?
+<br><br>
+Why do people lie? Is it to protect themselves? To make themselves feel better? Or is it to deceive others? To pass off as someone who they’re not? Perhaps the answers to these questions lie within the individual, however, one thing is for certain. Everyone lies. All in the name of success.
+<br><br>
+Step into this world of lies known as the entertainment industry, where everyone has a secret or two. Where these lies must never be found out or risk losing the support of the masses. Where each lie takes more lies to cover up, all for the purpose of earning money and getting jobs. All in the name of success.
+<br><br>
+Join us at Strawberry Productions LTD. We’re a group of these liars. We know you have your own lies but we won’t dig into it. Now, join us as we make you a star, someone who stands above everyone else. The one who lies the most. We’ll help you keep your lies, and we’ll protect you. All in the name of success.
+<br><br>
+So, are you with us? Good. Remember, if anyone finds out about these lies… So, let’s work together to keep these lies a secret, shall we? 
+<br><br>
+All in the name of success."
       director: TBD
       role-type: Characters
       role-type-singular: Character
       roles:
         - name: TBD
       topics:
-        - title: "TBD"
-          desc: "TBD"
-        - title: "TBD"
-          desc: "TBD"
+        - title: "Topic A - The Competition"
+          desc: "Despite seeing initial success and having a strong lineup, StrawPro is a fairly new entry to the world of entertainment. The industry currently remains dominated by massive corporations such as Shinomiya Entertainment Corp, which utilize their vast scores of wealth in order to fund their activities. Sponsors are a viable option to fund activities on the scale of the corporations, and serve as an important lifeline for StrawPro. However, sponsors are limited so you must act fast in order to secure them. "
+        - title: "Topic B - The Projects"
+          desc: "The upper management of StrawPro has absolutely no idea what they’re doing. As such, it’s up to the members of StrawPro to decide on new projects for themselves. Full creative freedom has been granted to everyone, however, without the support of the rest of the members, it will be hard to achieve anything. Ranging from music to movies, the only limit to these projects is your creativity."
 
     - title: Death of Kim Jong Il
       url: kimjongil
@@ -364,14 +378,15 @@
     - title: Manhattan Project
       url: manhattan
       image: manhattan.jpg
-      description: "TBD"
+      description: "J. Robert Oppenheimer’s resolve to create the first atomic weapon has irrevocably altered the course of history. The successful “Trinity Test” detonation has unveiled concerns about the weapon’s catalytic potential. While some fear an impending arms race, others wholly support its development and use, a sentiment fueled by one goal: ending the war. As constituents of the Manhattan Project, delegates must weigh the benefits of nuclear science against its most blaring cost – the threat of mass destruction. Will the ends justify the means?"
       director: TBD
       role-type: Characters
       role-type-singular: Character
       roles:
         - name: TBD
       topics:
-        - title: "TBD"
-          desc: "TBD"
-        - title: "TBD"
-          desc: "TBD"
+        - title: "Topic A - Radioactive Contamination and Cleanup"
+          desc: "As the world stands on a precipice after the successful detonation of the Trinity Test, a new threat looms—radioactive fallout. All across New Mexico, air, water, and land have been immutably marked by atomic energy; leaving civilians vulnerable to radiation exposure. 
+Confronted with immediate and enduring repercussions of radioactive contamination, delegates are faced with a weighty responsibility: determining the perils to human health and the ecosystem. Amidst the unsettling possibility of intergenerational repercussions, such as adverse genetic diseases, the delicate equilibrium between public safety, secrecy, and ethical quandaries will be navigated. Delegates are inevitably tasked with the intricate challenge of determining the next course of action within the confines of the Manhattan Project."
+        - title: "Topic B - International Diplomacy and Legacy"
+          desc: "The introduction of nuclear weapons brings forth a concern of international relations as newfound geopolitical shifts, alliances, and rivalries are expected to ensue. Spanning from negotiations at the Potsdam Conference to the anticipated onset of the Cold War, delegates will negotiate the complexities of nuclear diplomacy, arms control, and disarmament. As the test’s detonation stands not only as a scientific milestone but also the beginning of a new atomic age, delegates must consider the enduring legacy of the Trinity Test on global politics and the inexorable march of the arms race. "
