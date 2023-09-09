@@ -382,17 +382,17 @@ All in the name of success."
     - title: "Autumn of Nations: Romania 1989"
       url: romania
       image: romania.jpg
-      description: "TBD"
+      description: "The 1989 Romanian Revolution Committee is dedicated to examining a pivotal moment in history—the fall of the communist regime in Romania during the 'Autumn of Nations.' In 1989, Romania underwent a momentous shift with the downfall of Nicolae Ceaușescu's authoritarian regime. Delegates will play the roles of important figures in Romania at the the time of the revolution, including leaders of the Securitate (the Security), the Party, and the revolution. This committee provides a unique opportunity for delegates to revisit a critical chapter in history when a nation's struggle for freedom and democracy reverberated across borders. Delegates will be able to collaborate to draft resolutions and policies that reflect the historical context and the aspirations of the Romanian people during this transformative era."
       director: TBD
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: TBD
+        - name: 
       topics:
-        - title: "TBD"
-          desc: "TBD"
-        - title: "TBD"
-          desc: "TBD"
+        - title: ""
+          desc: ""
+        - title: ""
+          desc: ""
 
     - title: Manhattan Project
       url: manhattan
@@ -402,7 +402,29 @@ All in the name of success."
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: TBD
+        - name: <a class="bolded">J. Robert Oppenheimer</a><br> Scientific Director
+        - name: <a class="bolded">General Leslie Groves</a><br> Military Director
+        - name: <a class="bolded">Niels Bohr</a><br> Danish Physicist
+        - name: <a class="bolded">Enrico Fermi</a><br> Italian Physicist
+        - name: <a class="bolded">Richard Feynman</a><br> American Physicist
+        - name: <a class="bolded">Hans Bethe</a><br> German-American Physicist
+        - name: <a class="bolded">Klaus Fuchs</a><br> German Physicist
+        - name: <a class="bolded">Ernest Lawrence</a><br> Cyclotron Inventor
+        - name: <a class="bolded">Emilio Segrè</a><br> Italian-American Physicist
+        - name: <a class="bolded">Edward Teller</a><br> Hungarian-American Physicist
+        - name: <a class="bolded">Leó Szilárd</a><br> Hungarian-American Physicist
+        - name: <a class="bolded">Vannevar Bush</a><br> Science Administrator
+        - name: <a class="bolded">Dorothy McKibbin</a><br> Administrative Assistant
+        - name: <a class="bolded">General Kenneth Nichols</a><br> Military Officer
+        - name: <a class="bolded">General Thomas Farrell</a><br> Logistics Officer
+        - name: <a class="bolded">Louis Slotin</a><br> Canadian Physicist
+        - name: <a class="bolded">Herbert L. Anderson</a><br> Physicist
+        - name: <a class="bolded">James Conant</a><br> American Chemist
+        - name: <a class="bolded">James Chadwick</a><br> British Physicist
+        - name: <a class="bolded">Robert Serber</a><br> American Theoretical Physicist
+        - name: <a class="bolded">Edward Condon</a><br> Physicist and Administrator
+        - name: <a class="bolded">Samuel Goudsmit</a><br> Dutch-American Physicist
+        - name: <a class="bolded">Elizabeth R. Friedman</a><br> Cryptanalyst
       topics:
         - title: "Topic A - Radioactive Contamination and Cleanup"
           desc: "As the world stands on a precipice after the successful detonation of the Trinity Test, a new threat looms—radioactive fallout. All across New Mexico, air, water, and land have been immutably marked by atomic energy; leaving civilians vulnerable to radiation exposure. 
