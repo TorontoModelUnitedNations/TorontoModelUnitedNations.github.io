@@ -21,10 +21,10 @@
   links:
     - title: Schedule
       link: /agenda
-    - title: International Schedule
-      link: /international_agenda
-    - title: Guest Speakers
-      link: /guest_speakers
+#    - title: International Schedule
+#      link: /international_agenda
+#    - title: Guest Speakers
+#     link: /guest_speakers
 
 - dropdown: Committees
   links:
