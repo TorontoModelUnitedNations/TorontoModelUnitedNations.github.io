@@ -309,7 +309,26 @@
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: TBD
+        - name: <a class="bolded">Richard Nixon</a><br> President of the United States
+        - name: <a class="bolded">Nikos Sampson</a><br> Installed Greek President of Cyprus
+        - name: <a class="bolded">Dimitris Ioannidis</a><br> Greek Army Commander
+        - name: <a class="bolded">Phaedon Gizikis</a><br> Greek President
+        - name: <a class="bolded">Fahri Koruturk</a><br> President of Turkey (Second in Command)
+        - name: <a class="bolded">Makarios</a><br> Former Neutral President of Cyprus
+        - name: <a class="bolded">Harold Wilson</a><br> Prime Minister of Great Britain
+        - name: <a class="bolded">Kurt Waldheim</a><br> UN Secretary General 1974
+        - name: <a class="bolded">Semih Sancar</a><br> Turkish Army Commander
+        - name: <a class="bolded">Leonid Brezhnev</a><br> General Secretary of The Communist Party of The Soviet Union
+        - name: <a class="bolded">Valery D’Estaing</a><br> President of France
+        - name: <a class="bolded">Anwar El-Sadat</a><br> President of Egypt
+        - name: <a class="bolded">Athanasios Sklavenitis</a><br> Leader of EOKA (Greek-Cypriot Guerillas)
+        - name: <a class="bolded">Bulent Ecevit</a><br> Turkish PM (First in Command)
+        - name: <a class="bolded">Mustafa Barzani</a><br> Leader of Kurdish Party
+        - name: <a class="bolded">Rauf Denktas</a><br> Leader of Turkish Cyprus
+        - name: <a class="bolded">Yithzak Rabin</a><br> Israeli Prime Minister
+        - name: <a class="bolded">Henry Kissinger</a><br> US Secretary of State
+        - name: <a class="bolded">Ezekias Papioannou</a><br> Leader of AKEL (Greek-Cypriot Communist Party)
+        - name: <a class="bolded">Josip Broz Tito</a><br> Leader of Yugoslavia
       topics:
         - title: "Topic A - Role of UN and British Peacekeepers on the Island"
           desc: "In the wake of the Turkish invasion, cases of ethnic violence and human rights violations against Greek and Turkish Cypriots alike became commonplace. Given limited resources and manpower, the British and UN peacekeepers must try to maintain stability in the region, negotiating ceasefires when possible and mitigating the humanitarian effects of the war. Delegates will determine access to corridors, crucial ports and military depots, and they can also try to establish some sort of a demarcation zone. "
