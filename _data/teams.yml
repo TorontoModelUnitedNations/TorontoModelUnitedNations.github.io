@@ -25,6 +25,18 @@
   topic: Topic
   description: Hello delegates, my name is Jacob Greene. I am a grade 10 student and I will be your Undersecretary-General of Committees for the first iteration of Toronto Model United Nations. I have always had a passion for learning history, geography and world politics, and stepping into the world of MUN over three years ago has allowed me to pursue this passion even further. I sincerely hope that delegates have a fun and memorable experience during our conference, and I wish the best of luck to all delegates partaking in TMUN 2024!
 
+- title: Aayush Panda
+  name: Name-3
+  subtitle: USG of Technology
+  img: aayush.png
+  thumbnail: aayush.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Hey guys, I’m Aayush Panda, a fullstack developer in Grade 11. I have a deep passion for software development, and spend much of my time grinding problems on DMOJ.
+    <br>
+    I also love doing contest math problems and working on mechatronics projects. Most of my free time is spent building rc planes, and being a huge aviation nerd overall.
+    <br>
+    I wish all delegates the very best of luck for the TMUN conference, and hope that they find the accompanying website well-made and easy to use.
 
 - title: Katie Wu
   name: Name-5
@@ -34,8 +46,6 @@
   alt: Picture of TBD
   topic: Topic
   description: Hi, everyone! I'm Suri Sun, in grade 11, and I'm excited to be your Secretariat of Delegate Affairs for TMUN 2022. I'm super passionate about MUN because it can teach a lot of imperative skills that I've been able to apply to various aspects of my academic and extracurricular careers. Outside of MUN, I enjoy exploring the outdoors and being hardstuck gold in VALORANT. Together, I look forward to building a fun, welcoming, and educational environment!
-
-
 
 - title: Emily Qin
   name: Name-7
@@ -72,16 +82,3 @@
   alt: Picture of TBD
   topic: Topic
   description:
-
-- title: Aayush Panda
-  name: Name-3
-  subtitle: USG of Technology
-  img: aayush.png
-  thumbnail: aayush.png
-  alt: Picture of TBD
-  topic: Topic
-  description: Hey guys, I’m Aayush Panda, a fullstack developer in Grade 11. I have a deep passion for software development, and spend much of my time grinding problems on DMOJ.
-    <br>
-    I also love doing contest math problems and working on mechatronics projects. Most of my free time is spent building rc planes, and being a huge aviation nerd overall.
-    <br>
-    I wish all delegates the very best of luck for the TMUN conference, and hope that they find the accompanying website well-made and easy to use.
