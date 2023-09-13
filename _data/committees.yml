@@ -1,302 +1,299 @@
 - title: Committee Program
-  info: TMUN 2024 will run in a hybrid format, with eight exciting in-person committees and two online
-         committees. With offerings ranging from the classic Disarmament and International Security Committee to the new and innovative Mars Crisis Committee, there is a committee for everyone.
-         
-         During the registration process, delegates will be able to indicate the top three committees that they would like to participate in. While we cannot guarantee that delegates will be placed in their preferred committees, it is more likely that you will receive your preferred committee if you register earlier. To see a list of countries/characters within the different committees, please check the country matrices on the respective committee tabs.
+  info: TMUN 2024 will run in a hybrid format, with ten exciting in-person committees and two online committees. With offerings ranging from the classic Disarmament and International Security Committee to the new and innovative Manhattan Project Committee, there is a committee for everyone. During the registration process, delegates will be able to indicate the top three committees that they would like to participate in. While we cannot guarantee that delegates will be placed in their preferred committees, it is more likely that you will receive your preferred committee if you register earlier. To see a list of countries/characters within the different committees, please check the country matrices on the respective committee tabs.
 
 - header: General Assemblies and ECOSOCs
-  links: 
-  - title: Special Political and Decolonization Committee
-    url: SPECPOL
-    image: SPECPOL.jpg
-    description: "DISEC or the Disarmament and International Security Committee is a prominent General Assembly committee addressing issues and deterrents to achieving a global peace.  Topics that are often discussed relate to weapons, disarmament, and the safety of those affected by armed conflict. Dealing with not only global threats to peace, this important committee discusses solutions through international cooperation to achieve the principles in governing disarmament and agenda goals. Delegates will represent nations partaking in the DISEC committee to address the topics introduced for the session. This committee is fundamental in preserving a state of peace between great powers, and enforcing law and stability on an extensive scale."
-    director: TBD
-    role-type: Countries
-    role-type-singular: Country
-    roles:
-      - name: Angola
-      - name: Azerbaijan
-      - name: Belarus
-      - name: Belgium
-      - name: Bhutan
-      - name: Bosnia and Herzegovina
-      - name: Brazil
-      - name: Bulgaria
-      - name: Canada
-      - name: Chad
-      - name: People's Republic of China
-      - name: Republic of China (Taiwan)
-      - name: Colombia
-      - name: Congo (Congo-Brazzaville)
-      - name: Croatia
-      - name: Cuba
-      - name: Czechia (Czech Republic)
-      - name: Democratic Republic of the Congo
-      - name: Denmark
-      - name: Dominican Republic
-      - name: Ecuador
-      - name: Egypt
-      - name: El Salvador
-      - name: Ethiopia
-      - name: Finland
-      - name: France
-      - name: Georgia
-      - name: Germany
-      - name: Grenada
-      - name: Guyana
-      - name: Haiti
-      - name: Hungary
-      - name: India
-      - name: Indonesia
-      - name: Iran
-      - name: Iraq
-      - name: Israel
-      - name: Italy
-      - name: Jamaica
-      - name: Japan
-      - name: Jordan
-      - name: Kazakhstan
-      - name: Kenya
-      - name: Nigeria
-      - name: Korea (DPRK)
-      - name: Panama
-      - name: South Africa
-      - name: Korea (ROK)
-      - name: Sweden
-      - name: Switzerland
-      - name: Syria
-      - name: Tunisia
-      - name: Turkey
-      - name: Ukraine
-      - name: United Arab Emirates
-      - name: United Kingdom
-      - name: United States of America
-      - name: Venezuela
-      - name: Vietnam
-      - name: Zimbabwe
-    topics:
-      - title: "TOPIC A - Issues Surrounding Decolonization"
-        desc: "As the age of colonialism is behind us, decolonization was and is the next step for any state that has not reached self-governance or integration with another state. As such, this can cause many issues, such as political disputes, territorial disputes, socio economic issues, and most importantly of all, affecting the livelihood of its people. The world is still very much in a grey area when it comes to decolonization, and many places’ futures are still indeterminate to this day. It is important that we come together and finally make sense of how we can properly decolonize the world and lead everyone to peace and prosperity. "
-      - title: "Topic B - Refugees of the Israeli-Palestinian Conflict"
-        desc: "The Israeli-Palestinian conflict has been an ongoing conflict since the mid-20th century, and has affected the lives of millions. As a result of violence and dispute, many people from the region have seen themselves displaced, living in refugee camps, where poverty is at an all time high and basic infrastructure is missing. With seemingly no conclusion to this conflict, it is imperative that the peoples’ needs are being met, in order for them to lead as healthy and prosperous lives as possible. It is important that we are able to provide the best solutions we can for these refugees, who have suffered for decades due to this issue."
+  links:
+    - title: Special Political and Decolonization Committee
+      url: SPECPOL
+      image: SPECPOL.jpg
+      description: "The Special Political and Decolonization committee (SPECPOL) is the fourth committee of the United Nations General Assembly and is very crucial to maintaining peace and safety throughout the world, dealing with decolonization, review of the question of peacekeeping operations, the Israeli-Palestinian conflict, and the effects of atomic radiation. In this committee, delegates will be tackling the complicated issues surrounding decolonization and addressing the welfare of Palestinian refugees."
+      director: TBD
+      role-type: Countries
+      role-type-singular: Country
+      roles:
+        - name: Angola
+        - name: Azerbaijan
+        - name: Belarus
+        - name: Belgium
+        - name: Bhutan
+        - name: Bosnia and Herzegovina
+        - name: Brazil
+        - name: Bulgaria
+        - name: Canada
+        - name: Chad
+        - name: People's Republic of China
+        - name: Republic of China (Taiwan)
+        - name: Colombia
+        - name: Congo (Congo-Brazzaville)
+        - name: Croatia
+        - name: Cuba
+        - name: Czechia (Czech Republic)
+        - name: Democratic Republic of the Congo
+        - name: Denmark
+        - name: Dominican Republic
+        - name: Ecuador
+        - name: Egypt
+        - name: El Salvador
+        - name: Ethiopia
+        - name: Finland
+        - name: France
+        - name: Georgia
+        - name: Germany
+        - name: Grenada
+        - name: Guyana
+        - name: Haiti
+        - name: Hungary
+        - name: India
+        - name: Indonesia
+        - name: Iran
+        - name: Iraq
+        - name: Israel
+        - name: Italy
+        - name: Jamaica
+        - name: Japan
+        - name: Jordan
+        - name: Kazakhstan
+        - name: Kenya
+        - name: Nigeria
+        - name: Korea (DPRK)
+        - name: Panama
+        - name: South Africa
+        - name: Korea (ROK)
+        - name: Sweden
+        - name: Switzerland
+        - name: Syria
+        - name: Tunisia
+        - name: Turkey
+        - name: Ukraine
+        - name: United Arab Emirates
+        - name: United Kingdom
+        - name: United States of America
+        - name: Venezuela
+        - name: Vietnam
+        - name: Zimbabwe
+      topics:
+        - title: "TOPIC A - Issues Surrounding Decolonization"
+          desc: "As the age of colonialism is behind us, decolonization was and is the next step for any state that has not reached self-governance or integration with another state. As such, this can cause many issues, such as political disputes, territorial disputes, socio economic issues, and most importantly of all, affecting the livelihood of its people. The world is still very much in a grey area when it comes to decolonization, and many places’ futures are still indeterminate to this day. It is important that we come together and finally make sense of how we can properly decolonize the world and lead everyone to peace and prosperity. "
+        - title: "Topic B - Refugees of the Israeli-Palestinian Conflict"
+          desc: "The Israeli-Palestinian conflict has been an ongoing conflict since the mid-20th century, and has affected the lives of millions. As a result of violence and dispute, many people from the region have seen themselves displaced, living in refugee camps, where poverty is at an all time high and basic infrastructure is missing. With seemingly no conclusion to this conflict, it is imperative that the peoples’ needs are being met, in order for them to lead as healthy and prosperous lives as possible. It is important that we are able to provide the best solutions we can for these refugees, who have suffered for decades due to this issue."
 
-  - title: UN Human Rights Council
-    url: UNHRC
-    image: UNHRC.jpg
-    description: "The United Nations Human Rights Council, also known as the UNHRC, was established by the General Assembly of the United Nations in 2006 and is dedicated to protecting human rights around the world, addressing violations in human rights, and establishing recommendations on how to resolve them. Comprising member states committed to upholding the principles established in the Universal Declaration of Human Rights, the UNHRC serves as a platform for open dialogue, critical discourse, and collaborative action on pressing human rights issues."
-    director: TBD
-    role-type: Countries
-    role-type-singular: Country
-    roles:
-      - name: Afghanistan (Islamic Emirate of)
-      - name: Algeria
-      - name: Angola
-      - name: Argentina
-      - name: Armenia
-      - name: Australia
-      - name: Austria
-      - name: Azerbaijan
-      - name: Bangladesh
-      - name: Belarus
-      - name: Belgium
-      - name: Bhutan
-      - name: Bolivia
-      - name: Bosnia and Herzegovina
-      - name: Brazil
-      - name: Bulgaria
-      - name: Burkina Faso
-      - name: Côte d'Ivoire
-      - name: Cambodia
-      - name: Canada
-      - name: Chile
-      - name: People's Republic of China
-      - name: Colombia
-      - name: Croatia
-      - name: Cuba
-      - name: Czechia (Czech Republic)
-      - name: Democratic Republic of the Congo
-      - name: Denmark
-      - name: Egypt
-      - name: Equatorial Guinea
-      - name: Ethiopia
-      - name: Finland
-      - name: France
-      - name: Georgia
-      - name: Germany
-      - name: Greece
-      - name: Hungary
-      - name: India
-      - name: Indonesia
-      - name: Iran
-      - name: Israel
-      - name: Italy
-      - name: Jamaica
-      - name: Kazakhstan
-      - name: Kuwait
-      - name: Libya
-      - name: Malaysia
-      - name: Mexico
-      - name: Myanmar
-      - name: Netherlands
-      - name: New Zealand
-      - name: Nigeria
-      - name: Korea (DPRK)
-      - name: Norway
-      - name: Pakistan
-      - name: Paraguay
-      - name: Philippines
-      - name: Portugal
-      - name: Romania
-      - name: Russia
-      - name: Rwanda
-      - name: Saudi Arabia
-      - name: Serbia
-      - name: Singapore
-      - name: South Africa
-      - name: Korea (ROK)
-      - name: South Sudan
-      - name: Spain
-      - name: Sudan
-      - name: Syria
-      - name: Tunisia
-      - name: Turkey
-      - name: United Arab Emirates
-      - name: United Kingdom
-      - name: United States of America
-      - name: Zimbabwe
-    topics:
-      - title: "Topic A - Responsible Use of Artificial Intelligence"
-        desc: "In an era of rapid technological advancement, the first topic of the UNHRC aims to address the ethical and human rights concerns revolving around Artificial Intelligence (AI). Delegates will develop ethical frameworks and ensure transparency and accountability in AI systems, and address the impact on human rights, privacy, and labour. With this rapidly developing field, it is important to create international guidelines that foster the responsible development and deployment of AI technologies, promoting fairness, transparency, and the protection of fundamental rights while harnessing AI's potential for positive change on a global scale."
-      - title: "Topic B - Mining Practices in the Arctic"
-        desc: "The UNHRC will also turn its attention to the complex issue of mining practices in the Arctic region. Delegates will explore the environmental, social, and geopolitical challenges posed by increasing mining activities in this sensitive ecosystem. Discussions will revolve around sustainable resource extraction, indigenous rights, environmental protection, and international cooperation. The objective will be to formulate strategies that balance economic development with the preservation of the fragile Arctic environment, respecting the rights of indigenous communities and safeguarding the global common interests associated with this region."
+    - title: UN Human Rights Council
+      url: UNHRC
+      image: UNHRC.jpg
+      description: "The United Nations Human Rights Council, also known as the UNHRC, was established by the General Assembly of the United Nations in 2006 and is dedicated to protecting human rights around the world, addressing violations in human rights, and establishing recommendations on how to resolve them. Comprising member states committed to upholding the principles established in the Universal Declaration of Human Rights, the UNHRC serves as a platform for open dialogue, critical discourse, and collaborative action on pressing human rights issues."
+      director: TBD
+      role-type: Countries
+      role-type-singular: Country
+      roles:
+        - name: Afghanistan (Islamic Emirate of)
+        - name: Algeria
+        - name: Angola
+        - name: Argentina
+        - name: Armenia
+        - name: Australia
+        - name: Austria
+        - name: Azerbaijan
+        - name: Bangladesh
+        - name: Belarus
+        - name: Belgium
+        - name: Bhutan
+        - name: Bolivia
+        - name: Bosnia and Herzegovina
+        - name: Brazil
+        - name: Bulgaria
+        - name: Burkina Faso
+        - name: Côte d'Ivoire
+        - name: Cambodia
+        - name: Canada
+        - name: Chile
+        - name: People's Republic of China
+        - name: Colombia
+        - name: Croatia
+        - name: Cuba
+        - name: Czechia (Czech Republic)
+        - name: Democratic Republic of the Congo
+        - name: Denmark
+        - name: Egypt
+        - name: Equatorial Guinea
+        - name: Ethiopia
+        - name: Finland
+        - name: France
+        - name: Georgia
+        - name: Germany
+        - name: Greece
+        - name: Hungary
+        - name: India
+        - name: Indonesia
+        - name: Iran
+        - name: Israel
+        - name: Italy
+        - name: Jamaica
+        - name: Kazakhstan
+        - name: Kuwait
+        - name: Libya
+        - name: Malaysia
+        - name: Mexico
+        - name: Myanmar
+        - name: Netherlands
+        - name: New Zealand
+        - name: Nigeria
+        - name: Korea (DPRK)
+        - name: Norway
+        - name: Pakistan
+        - name: Paraguay
+        - name: Philippines
+        - name: Portugal
+        - name: Romania
+        - name: Russia
+        - name: Rwanda
+        - name: Saudi Arabia
+        - name: Serbia
+        - name: Singapore
+        - name: South Africa
+        - name: Korea (ROK)
+        - name: South Sudan
+        - name: Spain
+        - name: Sudan
+        - name: Syria
+        - name: Tunisia
+        - name: Turkey
+        - name: United Arab Emirates
+        - name: United Kingdom
+        - name: United States of America
+        - name: Zimbabwe
+      topics:
+        - title: "Topic A - Responsible Use of Artificial Intelligence"
+          desc: "In an era of rapid technological advancement, the first topic of the UNHRC aims to address the ethical and human rights concerns revolving around Artificial Intelligence (AI). Delegates will develop ethical frameworks and ensure transparency and accountability in AI systems, and address the impact on human rights, privacy, and labour. With this rapidly developing field, it is important to create international guidelines that foster the responsible development and deployment of AI technologies, promoting fairness, transparency, and the protection of fundamental rights while harnessing AI's potential for positive change on a global scale."
+        - title: "Topic B - Mining Practices in the Arctic"
+          desc: "The UNHRC will also turn its attention to the complex issue of mining practices in the Arctic region. Delegates will explore the environmental, social, and geopolitical challenges posed by increasing mining activities in this sensitive ecosystem. Discussions will revolve around sustainable resource extraction, indigenous rights, environmental protection, and international cooperation. The objective will be to formulate strategies that balance economic development with the preservation of the fragile Arctic environment, respecting the rights of indigenous communities and safeguarding the global common interests associated with this region."
 
-  - title: Social, Cultural and Humanitarian Committee
-    url: SOCHUM
-    image: SOCHUM.jpg
-    description: "The Social, Cultural, and Humanitarian Committee, or SOCHUM, is the committee of the UN General Assembly dealing with humanitarian and social issues. In particular, SOCHUM works closely with the United Nations Human Rights Council to promote and advocate for human rights as described in the Universal Declaration of Human Rights (UDHR). "
-    director: TBD
-    role-type: Countries
-    role-type-singular: Country
-    roles:
-      - name: Afghanistan (Islamic Emirate of)
-      - name: Algeria
-      - name: Angola
-      - name: Argentina
-      - name: Australia
-      - name: Austria
-      - name: Bahamas
-      - name: Bangladesh
-      - name: Belgium
-      - name: Bhutan
-      - name: Bosnia and Herzegovina
-      - name: Botswana
-      - name: Brunei
-      - name: Bulgaria
-      - name: Côte d'Ivoire
-      - name: Cameroon
-      - name: Canada
-      - name: Central African Republic
-      - name: Chad
-      - name: Chile
-      - name: People's Republic of China
-      - name: Colombia
-      - name: Congo (Congo-Brazzaville)
-      - name: Cuba
-      - name: Cyprus
-      - name: Denmark
-      - name: Egypt
-      - name: Eritrea
-      - name: Ethiopia
-      - name: France
-      - name: Gambia
-      - name: Germany
-      - name: Ghana
-      - name: Guatemala
-      - name: Guinea
-      - name: Hungary
-      - name: India
-      - name: Indonesia
-      - name: Italy
-      - name: Jamaica
-      - name: Kenya
-      - name: Lebanon
-      - name: Lithuania
-      - name: Netherlands
-      - name: New Zealand
-      - name: Nigeria
-      - name: Norway
-      - name: Palestinian Authority
-      - name: Paraguay
-      - name: Philippines
-      - name: Russia
-      - name: Rwanda
-      - name: Slovenia
-      - name: Korea (ROK)
-      - name: Sri Lanka
-      - name: Syria
-      - name: United Arab Emirates
-      - name: United Kingdom
-      - name: United States of America
-      - name: Yemen
-    topics:
-      - title: "Topic A - Mediterranean Migrant Crisis"
-        desc: "The Mediterranean route is one of the popular routes used by migrants attempting to reach Europe. Migrants, typically embarking from North Africa, cross dangerous waters in hopes of landing on the shores of countries such as Spain, Italy, or Greece. These countries are often reluctant to take responsibility for any rescue and processing of migrants, and, oftentimes, the overcrowded and unsafe boats sink at sea. According to the UN, over 26,000 people have died at sea in the Mediterranean in the past decade. "
-      - title: "Topic B - Governments and Social Media"
-        desc: "Social media has revolutionized the manner in which information is created and shared, with far-reaching implications for governments and their citizens. From fuelling revolutions during the Arab Spring of 2011, to spreading alternative pandemic treatments and cures, the influence of social media can seriously threaten government authority and public order. On the other hand, social media has allowed billions of people to participate in democratic discourse and marginalized groups and causes to coalesce. Another concern is the vast amount of data collected by private companies and the threat to user privacy."
+    - title: Social, Cultural and Humanitarian Committee
+      url: SOCHUM
+      image: SOCHUM.jpg
+      description: "The Social, Cultural, and Humanitarian Committee, or SOCHUM, is the committee of the UN General Assembly dealing with humanitarian and social issues. In particular, SOCHUM works closely with the United Nations Human Rights Council to promote and advocate for human rights as described in the Universal Declaration of Human Rights (UDHR). "
+      director: TBD
+      role-type: Countries
+      role-type-singular: Country
+      roles:
+        - name: Afghanistan (Islamic Emirate of)
+        - name: Algeria
+        - name: Angola
+        - name: Argentina
+        - name: Australia
+        - name: Austria
+        - name: Bahamas
+        - name: Bangladesh
+        - name: Belgium
+        - name: Bhutan
+        - name: Bosnia and Herzegovina
+        - name: Botswana
+        - name: Brunei
+        - name: Bulgaria
+        - name: Côte d'Ivoire
+        - name: Cameroon
+        - name: Canada
+        - name: Central African Republic
+        - name: Chad
+        - name: Chile
+        - name: People's Republic of China
+        - name: Colombia
+        - name: Congo (Congo-Brazzaville)
+        - name: Cuba
+        - name: Cyprus
+        - name: Denmark
+        - name: Egypt
+        - name: Eritrea
+        - name: Ethiopia
+        - name: France
+        - name: Gambia
+        - name: Germany
+        - name: Ghana
+        - name: Guatemala
+        - name: Guinea
+        - name: Hungary
+        - name: India
+        - name: Indonesia
+        - name: Italy
+        - name: Jamaica
+        - name: Kenya
+        - name: Lebanon
+        - name: Lithuania
+        - name: Netherlands
+        - name: New Zealand
+        - name: Nigeria
+        - name: Norway
+        - name: Palestinian Authority
+        - name: Paraguay
+        - name: Philippines
+        - name: Russia
+        - name: Rwanda
+        - name: Slovenia
+        - name: Korea (ROK)
+        - name: Sri Lanka
+        - name: Syria
+        - name: United Arab Emirates
+        - name: United Kingdom
+        - name: United States of America
+        - name: Yemen
+      topics:
+        - title: "Topic A - Mediterranean Migrant Crisis"
+          desc: "The Mediterranean route is one of the popular routes used by migrants attempting to reach Europe. Migrants, typically embarking from North Africa, cross dangerous waters in hopes of landing on the shores of countries such as Spain, Italy, or Greece. These countries are often reluctant to take responsibility for any rescue and processing of migrants, and, oftentimes, the overcrowded and unsafe boats sink at sea. According to the UN, over 26,000 people have died at sea in the Mediterranean in the past decade. "
+        - title: "Topic B - Governments and Social Media"
+          desc: "Social media has revolutionized the manner in which information is created and shared, with far-reaching implications for governments and their citizens. From fuelling revolutions during the Arab Spring of 2011, to spreading alternative pandemic treatments and cures, the influence of social media can seriously threaten government authority and public order. On the other hand, social media has allowed billions of people to participate in democratic discourse and marginalized groups and causes to coalesce. Another concern is the vast amount of data collected by private companies and the threat to user privacy."
 
-  - title: Disarmament and International Security Committee
-    url: DISEC
-    image: DISEC.jpg
-    description: "The Disarmament and International Security Committee (DISEC) serves as a pivotal organ of the United Nations General Assembly, addressing an array of global challenges related to arms control, non-proliferation, and conflict prevention. In this committee, delegates will be discussing reducing the development and use of biological and chemical weapons, as well as the mobilization of nuclear arms in Korea."
-    director: TBD
-    role-type: Countries
-    role-type-singular: Country
-    roles:
-      - name: Australia
-      - name: Bahrain
-      - name: Brazil
-      - name: Cambodia
-      - name: Cameroon
-      - name: Chad
-      - name: People's Republic of China
-      - name: Colombia
-      - name: Croatia
-      - name: Democratic Republic of Congo
-      - name: Korea (Democratic People's Republic of)
-      - name: Egypt
-      - name: Ethiopia
-      - name: France
-      - name: Germany
-      - name: Greece
-      - name: India
-      - name: Indonesia
-      - name: Iran
-      - name: Ireland
-      - name: Japan
-      - name: Malaysia
-      - name: Morocco
-      - name: Myanmar
-      - name: Pakistan
-      - name: Qatar
-      - name: Korea (Republic of)
-      - name: Saudi Arabia
-      - name: Singapore
-      - name: Sweden
-      - name: Switzerland
-      - name: Thailand
-      - name: Turkey
-      - name: United Arab Emirates
-      - name: Uganda
-      - name: United Kingdom
-      - name: United States of America
-      - name: Venezuela
-      - name: Vietnam
-      - name: Yemen
-    topics:
-      - title: "Topic A - CBRN Warfare"
-        desc: "In the realm of warfare and conflict, the specter of bioweapons and chemical weapons looms ominously, underscoring the depths to which human ingenuity can descend when harnessed for destructive purposes. These two categories of unconventional weaponry, while distinct in nature, share a common thread of utilizing toxic agents to inflict harm upon adversaries. Bioweapons harness living organisms or their byproducts to unleash diseases, while chemical weapons leverage synthetic compounds to cause incapacitation or death. As the global community grapples with the evolving landscape of warfare and security threats, the responsibilities of DISEC expand beyond mere discussions to fostering tangible actions. The urgency of the situation demands that DISEC members collaborate to formulate concrete strategies that not only prevent the further spread of these devastating tools but also hold accountable those who seek to employ them. "
-      - title: "Topic B - The Korean Peninsula"
-        desc: "In the complex geopolitical landscape of the Korean Peninsula, the specter of nuclear mobilization has cast a shadow over regional stability and global security. The interplay of historical, political, and military dynamics has led to a situation where the presence and potential use of nuclear weaponry has become central to discussions and concerns surrounding this region. The intricate web of interests and tensions has elevated the urgency of comprehending the factors that have contributed to the nuclear mobilization in the Korean Peninsula. As one of the main committees of the United Nations General Assembly, DISEC plays a vital role in deliberating on strategies to mitigate tensions, promote disarmament, and secure a peaceful resolution to the ongoing crisis. The committee's historical significance, rooted in its establishment as a fundamental component of the UN in 1945, reflects the global acknowledgment of the imperative to prevent the escalation of nuclear tensions and promote lasting security measures."
+    - title: Disarmament and International Security Committee
+      url: DISEC
+      image: DISEC.jpg
+      description: "The Disarmament and International Security Committee (DISEC) serves as a pivotal organ of the United Nations General Assembly, addressing an array of global challenges related to arms control, non-proliferation, and conflict prevention. In this committee, delegates will be discussing reducing the development and use of biological and chemical weapons, as well as the mobilization of nuclear arms in Korea."
+      director: TBD
+      role-type: Countries
+      role-type-singular: Country
+      roles:
+        - name: Australia
+        - name: Bahrain
+        - name: Brazil
+        - name: Cambodia
+        - name: Cameroon
+        - name: Chad
+        - name: People's Republic of China
+        - name: Colombia
+        - name: Croatia
+        - name: Democratic Republic of Congo
+        - name: Korea (Democratic People's Republic of)
+        - name: Egypt
+        - name: Ethiopia
+        - name: France
+        - name: Germany
+        - name: Greece
+        - name: India
+        - name: Indonesia
+        - name: Iran
+        - name: Ireland
+        - name: Japan
+        - name: Malaysia
+        - name: Morocco
+        - name: Myanmar
+        - name: Pakistan
+        - name: Qatar
+        - name: Korea (Republic of)
+        - name: Saudi Arabia
+        - name: Singapore
+        - name: Sweden
+        - name: Switzerland
+        - name: Thailand
+        - name: Turkey
+        - name: United Arab Emirates
+        - name: Uganda
+        - name: United Kingdom
+        - name: United States of America
+        - name: Venezuela
+        - name: Vietnam
+        - name: Yemen
+      topics:
+        - title: "Topic A - CBRN Warfare"
+          desc: "In the realm of warfare and conflict, the specter of bioweapons and chemical weapons looms ominously, underscoring the depths to which human ingenuity can descend when harnessed for destructive purposes. These two categories of unconventional weaponry, while distinct in nature, share a common thread of utilizing toxic agents to inflict harm upon adversaries. Bioweapons harness living organisms or their byproducts to unleash diseases, while chemical weapons leverage synthetic compounds to cause incapacitation or death. As the global community grapples with the evolving landscape of warfare and security threats, the responsibilities of DISEC expand beyond mere discussions to fostering tangible actions. The urgency of the situation demands that DISEC members collaborate to formulate concrete strategies that not only prevent the further spread of these devastating tools but also hold accountable those who seek to employ them. "
+        - title: "Topic B - The Korean Peninsula"
+          desc: "In the complex geopolitical landscape of the Korean Peninsula, the specter of nuclear mobilization has cast a shadow over regional stability and global security. The interplay of historical, political, and military dynamics has led to a situation where the presence and potential use of nuclear weaponry has become central to discussions and concerns surrounding this region. The intricate web of interests and tensions has elevated the urgency of comprehending the factors that have contributed to the nuclear mobilization in the Korean Peninsula. As one of the main committees of the United Nations General Assembly, DISEC plays a vital role in deliberating on strategies to mitigate tensions, promote disarmament, and secure a peaceful resolution to the ongoing crisis. The committee's historical significance, rooted in its establishment as a fundamental component of the UN in 1945, reflects the global acknowledgment of the imperative to prevent the escalation of nuclear tensions and promote lasting security measures."
 
 
 - header: Crisis Committees
@@ -338,8 +335,8 @@
     - title: Strawberry Productions LTD.
       url: strawberry
       image: strawberry.jpg
-      description: "“This story is a work of fiction, or rather, this world, for the most part, is a work of fiction” 
-      
+      description: "“This story is a work of fiction, or rather, this world, for the most part, is a work of fiction”
+
       <br>- Aka Akasaka <br><br>
 
 Everyone in the world has their secrets—some more than others. Strawberry Productions LTD. (Abbreviated as StrawPro) is made up of a collection of these individuals, striving to reach the top of the entertainment industry. From actors to idols, from producers to scriptwriters, who will end up at the top and who will have all their secrets exposed?
@@ -350,7 +347,7 @@ Step into this world of lies known as the entertainment industry, where everyone
 <br><br>
 Join us at Strawberry Productions LTD. We’re a group of these liars. We know you have your own lies but we won’t dig into it. Now, join us as we make you a star, someone who stands above everyone else. The one who lies the most. We’ll help you keep your lies, and we’ll protect you. All in the name of success.
 <br><br>
-So, are you with us? Good. Remember, if anyone finds out about these lies… So, let’s work together to keep these lies a secret, shall we? 
+So, are you with us? Good. Remember, if anyone finds out about these lies… So, let’s work together to keep these lies a secret, shall we?
 <br><br>
 All in the name of success."
       director: TBD
@@ -391,7 +388,24 @@ All in the name of success."
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: TBD
+        - name: Kim Jong Un
+        - name: Jang Song-thaek
+        - name: Pak Thae-song
+        - name: Choe Ryong-hae
+        - name: Kim Yong-nam
+        - name: Ri Son-gwon
+        - name: Ri Man-gon
+        - name: Kim Yong-chol
+        - name: Kim Won-hong
+        - name: Ri Yong-gil
+        - name: Kim Jong-Chul
+        - name: Kim Yo Jong
+        - name: Stanley Ho
+        - name: Ma Xiaohong
+        - name: Sun Sidong
+        - name: Pak Jong-chon
+        - name: Kwek Kon Chun
+        - name: Cha Chol Ma
       topics:
         - title: "TOPIC A - The Death of Kim Jong Il"
           desc: "The North Korean Crisis Committee (NKCC) is a single topic committee at TMUN 2024. This topic commences exactly at the time of Kim Jong Il’s death, on December 17th, 2011. With the recent death of his father, Kim Jong Un takes power, becoming the Supreme Leader of North Korea. His dominance, however, has not yet been established, and political figures within North Korea are all fighting for influence within the committee. Some may even consider trying to assassinate or overthrow the new leader, and it is up to the committee to decide the future of North Korea."
@@ -404,7 +418,7 @@ All in the name of success."
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name: 
+        - name:
       topics:
         - title: ""
           desc: ""
@@ -448,7 +462,7 @@ All in the name of success."
 Confronted with immediate and enduring repercussions of radioactive contamination, delegates are faced with a weighty responsibility: determining the perils to human health and the ecosystem. Amidst the unsettling possibility of intergenerational repercussions, such as adverse genetic diseases, the delicate equilibrium between public safety, secrecy, and ethical quandaries will be navigated. Delegates are inevitably tasked with the intricate challenge of determining the next course of action within the confines of the Manhattan Project."
         - title: "Topic B - International Diplomacy and Legacy"
           desc: "The introduction of nuclear weapons brings forth a concern of international relations as newfound geopolitical shifts, alliances, and rivalries are expected to ensue. Spanning from negotiations at the Potsdam Conference to the anticipated onset of the Cold War, delegates will negotiate the complexities of nuclear diplomacy, arms control, and disarmament. As the test’s detonation stands not only as a scientific milestone but also the beginning of a new atomic age, delegates must consider the enduring legacy of the Trinity Test on global politics and the inexorable march of the arms race. "
-          
+
     - title: International Press Corps
       url: corps
       image: corps.jpg
