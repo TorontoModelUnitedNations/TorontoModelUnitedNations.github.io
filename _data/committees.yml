@@ -2,6 +2,82 @@
   info: TMUN 2024 will run in a hybrid format, with ten exciting in-person committees and two online committees. With offerings ranging from the classic Disarmament and International Security Committee to the new and innovative Manhattan Project Committee, there is a committee for everyone. During the registration process, delegates will be able to indicate the top three committees that they would like to participate in. While we cannot guarantee that delegates will be placed in their preferred committees, it is more likely that you will receive your preferred committee if you register earlier. To see a list of countries/characters within the different committees, please check the country matrices on the respective committee tabs.
 
 - header: General Assemblies and ECOSOCs
+<<<<<<< HEAD
+  links: 
+  - title: Special Political and Decolonization Committee
+    url: SPECPOL
+    image: SPECPOL.jpg
+    description: "The Special Political and Decolonization committee (SPECPOL) is the fourth committee of the United Nations General Assembly and is very crucial to maintaining peace and safety throughout the world, dealing with decolonization, review of the question of peacekeeping operations, the Israeli-Palestinian conflict, and the effects of atomic radiation. In this committee, delegates will be tackling the complicated issues surrounding decolonization and addressing the welfare of Palestinian refugees."
+    director: TBD
+    role-type: Countries
+    role-type-singular: Country
+    roles:
+      - name: Angola
+      - name: Azerbaijan
+      - name: Belarus
+      - name: Belgium
+      - name: Bhutan
+      - name: Bosnia and Herzegovina
+      - name: Brazil
+      - name: Bulgaria
+      - name: Canada
+      - name: Chad
+      - name: People's Republic of China
+      - name: Republic of China (Taiwan)
+      - name: Colombia
+      - name: Congo (Congo-Brazzaville)
+      - name: Croatia
+      - name: Cuba
+      - name: Czechia (Czech Republic)
+      - name: Democratic Republic of the Congo
+      - name: Denmark
+      - name: Dominican Republic
+      - name: Ecuador
+      - name: Egypt
+      - name: El Salvador
+      - name: Ethiopia
+      - name: Finland
+      - name: France
+      - name: Georgia
+      - name: Germany
+      - name: Grenada
+      - name: Guyana
+      - name: Haiti
+      - name: Hungary
+      - name: India
+      - name: Indonesia
+      - name: Iran
+      - name: Iraq
+      - name: Israel
+      - name: Italy
+      - name: Jamaica
+      - name: Japan
+      - name: Jordan
+      - name: Kazakhstan
+      - name: Kenya
+      - name: Nigeria
+      - name: Korea (DPRK)
+      - name: Panama
+      - name: South Africa
+      - name: Korea (ROK)
+      - name: Sweden
+      - name: Switzerland
+      - name: Syria
+      - name: Tunisia
+      - name: Turkey
+      - name: Ukraine
+      - name: United Arab Emirates
+      - name: United Kingdom
+      - name: United States of America
+      - name: Venezuela
+      - name: Vietnam
+      - name: Zimbabwe
+    topics:
+      - title: "TOPIC A - Issues Surrounding Decolonization"
+        desc: "As the age of colonialism is behind us, decolonization was and is the next step for any state that has not reached self-governance or integration with another state. As such, this can cause many issues, such as political disputes, territorial disputes, socio economic issues, and most importantly of all, affecting the livelihood of its people. The world is still very much in a grey area when it comes to decolonization, and many places’ futures are still indeterminate to this day. It is important that we come together and finally make sense of how we can properly decolonize the world and lead everyone to peace and prosperity. "
+      - title: "Topic B - Refugees of the Israeli-Palestinian Conflict"
+        desc: "The Israeli-Palestinian conflict has been an ongoing conflict since the mid-20th century, and has affected the lives of millions. As a result of violence and dispute, many people from the region have seen themselves displaced, living in refugee camps, where poverty is at an all time high and basic infrastructure is missing. With seemingly no conclusion to this conflict, it is imperative that the peoples’ needs are being met, in order for them to lead as healthy and prosperous lives as possible. It is important that we are able to provide the best solutions we can for these refugees, who have suffered for decades due to this issue."
+=======
   links:
     - title: Special Political and Decolonization Committee
       url: SPECPOL
@@ -76,6 +152,7 @@
           desc: "As the age of colonialism is behind us, decolonization was and is the next step for any state that has not reached self-governance or integration with another state. As such, this can cause many issues, such as political disputes, territorial disputes, socio economic issues, and most importantly of all, affecting the livelihood of its people. The world is still very much in a grey area when it comes to decolonization, and many places’ futures are still indeterminate to this day. It is important that we come together and finally make sense of how we can properly decolonize the world and lead everyone to peace and prosperity. "
         - title: "Topic B - Refugees of the Israeli-Palestinian Conflict"
           desc: "The Israeli-Palestinian conflict has been an ongoing conflict since the mid-20th century, and has affected the lives of millions. As a result of violence and dispute, many people from the region have seen themselves displaced, living in refugee camps, where poverty is at an all time high and basic infrastructure is missing. With seemingly no conclusion to this conflict, it is imperative that the peoples’ needs are being met, in order for them to lead as healthy and prosperous lives as possible. It is important that we are able to provide the best solutions we can for these refugees, who have suffered for decades due to this issue."
+>>>>>>> 1844de394dbb1afc50b51dc27db8d3c26cd9ca93
 
     - title: UN Human Rights Council
       url: UNHRC
@@ -491,3 +568,32 @@ The International Press Corps (IPC) will function as a specialized committee tha
         - name: The Japan Times
         - name: South China Morning Post
         - name: The Onion
+- header: Online Committees
+  links: 
+  - title: The Remilitarization of the Rhineland - 1936
+    url: rhineland
+    image: rhineland.jpg
+    description: "The League of Nations Historical Crisis Committee (LNHCC) is a captivating and historically grounded simulation featured at TMUN 2024. This committee will transport delegates to the early 20th century, a period marked by the critical issue of the remilitarization of the Rhineland. As participants, you will find yourselves immersed in the diplomatic intricacies of this era, grappling with the challenge of responding to this historic event. To ensure a truly authentic experience, the LNHCC will operate under a custom set of crisis rules of procedure, mirroring the real-life decision-making processes of the League of Nations during this pivotal moment. Delegates will step into the roles of notable historical figures, including diplomats, heads of state, and influential personalities from various nations, each playing a crucial role in shaping the course of history in the face of the Rhineland's remilitarization."
+    director: TBD
+    role-type: 
+    role-type-singular: 
+    roles:
+      - name:
+    topics:
+      - title: "Topic A - The Rhineland Crisis"
+        desc: "The League of Nations Historical Crisis Committee (LNHCC) is set to explore a singular and pivotal historical moment at TMUN 2024. Delegates will be transported to the turbulent aftermath of the remilitarization of the Rhineland, a momentous event that sent reverberations throughout the international stage during the 1930s. This narrative unfolds with Germany's audacious move to remilitarize the Rhineland, brazenly flouting international treaties and marking a critical turning point in the prelude to World War II. As participants, you will find yourselves immersed in the intricate web of diplomacy and power dynamics of this era, while contending with the vital question of how the League of Nations should respond to this blatant breach of international agreements. To ensure an immersive and authentic experience, the LNHCC will adhere to a tailored set of crisis rules of procedure, meticulously designed to capture the nuances of the League's decision-making processes during this tumultuous period. Delegates will assume the roles of eminent historical figures, encompassing diplomats, heads of state, and influential personalities from around the globe, each wielding a pivotal role in shaping the course of history during this critical juncture. The destiny of nations hangs in the balance, and it falls upon the committee to chart a path forward in the wake of the Rhineland crisis."
+  - title: "Atlantis"
+    url: atlantis
+    image: atlantis.jpg
+    description: "When an asteroid hit the bottom of the seafloor near Africa in 2023, life on Earth was forever changed. A new world was formed, a world where the earth is completely submerged underwater. There is only one small piece of remaining land, which humanity has decided to call “Atlantis”. Most technology developed in the last few decades has sunk underwater. Food supplies are limited as agriculture has mostly died out or sunk underwater—even fish are dying out due to poisoning from nuclear wastewater, caused by the explosion of hundreds of nuclear power plants. The internet is almost completely gone, and the world as humanity knew it has ended. Worst of all, tension is brewing among the four remaining nations on Earth, and if nothing is done, it will lead to a great conflict over the scraps of what remains of the human race."
+    director: TBD
+    role-type: 
+    role-type-singular: 
+    roles:
+      - name:
+    topics:
+      - title: ""
+        desc: ""
+
+  
+  
