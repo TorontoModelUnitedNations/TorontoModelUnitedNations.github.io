@@ -3,79 +3,79 @@
 
 - header: General Assemblies and ECOSOCs
   links: 
-  - title: Special Political and Decolonization Committee
-    url: SPECPOL
-    image: SPECPOL.jpg
-    description: "The Special Political and Decolonization committee (SPECPOL) is the fourth committee of the United Nations General Assembly and is very crucial to maintaining peace and safety throughout the world, dealing with decolonization, review of the question of peacekeeping operations, the Israeli-Palestinian conflict, and the effects of atomic radiation. In this committee, delegates will be tackling the complicated issues surrounding decolonization and addressing the welfare of Palestinian refugees."
-    director: TBD
-    role-type: Countries
-    role-type-singular: Country
-    roles:
-      - name: Angola
-      - name: Azerbaijan
-      - name: Belarus
-      - name: Belgium
-      - name: Bhutan
-      - name: Bosnia and Herzegovina
-      - name: Brazil
-      - name: Bulgaria
-      - name: Canada
-      - name: Chad
-      - name: People's Republic of China
-      - name: Republic of China (Taiwan)
-      - name: Colombia
-      - name: Congo (Congo-Brazzaville)
-      - name: Croatia
-      - name: Cuba
-      - name: Czechia (Czech Republic)
-      - name: Democratic Republic of the Congo
-      - name: Denmark
-      - name: Dominican Republic
-      - name: Ecuador
-      - name: Egypt
-      - name: El Salvador
-      - name: Ethiopia
-      - name: Finland
-      - name: France
-      - name: Georgia
-      - name: Germany
-      - name: Grenada
-      - name: Guyana
-      - name: Haiti
-      - name: Hungary
-      - name: India
-      - name: Indonesia
-      - name: Iran
-      - name: Iraq
-      - name: Israel
-      - name: Italy
-      - name: Jamaica
-      - name: Japan
-      - name: Jordan
-      - name: Kazakhstan
-      - name: Kenya
-      - name: Nigeria
-      - name: Korea (DPRK)
-      - name: Panama
-      - name: South Africa
-      - name: Korea (ROK)
-      - name: Sweden
-      - name: Switzerland
-      - name: Syria
-      - name: Tunisia
-      - name: Turkey
-      - name: Ukraine
-      - name: United Arab Emirates
-      - name: United Kingdom
-      - name: United States of America
-      - name: Venezuela
-      - name: Vietnam
-      - name: Zimbabwe
-    topics:
-      - title: "TOPIC A - Issues Surrounding Decolonization"
-        desc: "As the age of colonialism is behind us, decolonization was and is the next step for any state that has not reached self-governance or integration with another state. As such, this can cause many issues, such as political disputes, territorial disputes, socio economic issues, and most importantly of all, affecting the livelihood of its people. The world is still very much in a grey area when it comes to decolonization, and many places’ futures are still indeterminate to this day. It is important that we come together and finally make sense of how we can properly decolonize the world and lead everyone to peace and prosperity. "
-      - title: "Topic B - Refugees of the Israeli-Palestinian Conflict"
-        desc: "The Israeli-Palestinian conflict has been an ongoing conflict since the mid-20th century, and has affected the lives of millions. As a result of violence and dispute, many people from the region have seen themselves displaced, living in refugee camps, where poverty is at an all time high and basic infrastructure is missing. With seemingly no conclusion to this conflict, it is imperative that the peoples’ needs are being met, in order for them to lead as healthy and prosperous lives as possible. It is important that we are able to provide the best solutions we can for these refugees, who have suffered for decades due to this issue."
+    - title: Special Political and Decolonization Committee
+      url: SPECPOL
+      image: SPECPOL.jpg
+      description: "The Special Political and Decolonization committee (SPECPOL) is the fourth committee of the United Nations General Assembly and is very crucial to maintaining peace and safety throughout the world, dealing with decolonization, review of the question of peacekeeping operations, the Israeli-Palestinian conflict, and the effects of atomic radiation. In this committee, delegates will be tackling the complicated issues surrounding decolonization and addressing the welfare of Palestinian refugees."
+      director: TBD
+      role-type: Countries
+      role-type-singular: Country
+      roles:
+        - name: Angola
+        - name: Azerbaijan
+        - name: Belarus
+        - name: Belgium
+        - name: Bhutan
+        - name: Bosnia and Herzegovina
+        - name: Brazil
+        - name: Bulgaria
+        - name: Canada
+        - name: Chad
+        - name: People's Republic of China
+        - name: Republic of China (Taiwan)
+        - name: Colombia
+        - name: Congo (Congo-Brazzaville)
+        - name: Croatia
+        - name: Cuba
+        - name: Czechia (Czech Republic)
+        - name: Democratic Republic of the Congo
+        - name: Denmark
+        - name: Dominican Republic
+        - name: Ecuador
+        - name: Egypt
+        - name: El Salvador
+        - name: Ethiopia
+        - name: Finland
+        - name: France
+        - name: Georgia
+        - name: Germany
+        - name: Grenada
+        - name: Guyana
+        - name: Haiti
+        - name: Hungary
+        - name: India
+        - name: Indonesia
+        - name: Iran
+        - name: Iraq
+        - name: Israel
+        - name: Italy
+        - name: Jamaica
+        - name: Japan
+        - name: Jordan
+        - name: Kazakhstan
+        - name: Kenya
+        - name: Nigeria
+        - name: Korea (DPRK)
+        - name: Panama
+        - name: South Africa
+        - name: Korea (ROK)
+        - name: Sweden
+        - name: Switzerland
+        - name: Syria
+        - name: Tunisia
+        - name: Turkey
+        - name: Ukraine
+        - name: United Arab Emirates
+        - name: United Kingdom
+        - name: United States of America
+        - name: Venezuela
+        - name: Vietnam
+        - name: Zimbabwe
+      topics:
+        - title: "TOPIC A - Issues Surrounding Decolonization"
+          desc: "As the age of colonialism is behind us, decolonization was and is the next step for any state that has not reached self-governance or integration with another state. As such, this can cause many issues, such as political disputes, territorial disputes, socio economic issues, and most importantly of all, affecting the livelihood of its people. The world is still very much in a grey area when it comes to decolonization, and many places’ futures are still indeterminate to this day. It is important that we come together and finally make sense of how we can properly decolonize the world and lead everyone to peace and prosperity. "
+        - title: "Topic B - Refugees of the Israeli-Palestinian Conflict"
+          desc: "The Israeli-Palestinian conflict has been an ongoing conflict since the mid-20th century, and has affected the lives of millions. As a result of violence and dispute, many people from the region have seen themselves displaced, living in refugee camps, where poverty is at an all time high and basic infrastructure is missing. With seemingly no conclusion to this conflict, it is imperative that the peoples’ needs are being met, in order for them to lead as healthy and prosperous lives as possible. It is important that we are able to provide the best solutions we can for these refugees, who have suffered for decades due to this issue."
 
     - title: UN Human Rights Council
       url: UNHRC
