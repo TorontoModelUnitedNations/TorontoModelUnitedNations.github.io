@@ -418,7 +418,26 @@ All in the name of success."
       role-type: Characters
       role-type-singular: Character
       roles:
-        - name:
+        - name: <a class="bolded">Elena Ceaușescu</a><br> Wife of Nicolae Ceaușescu
+        - name: <a class="bolded">Ion Iliescu</a><br> Leader of the National Salvation Front
+        - name: <a class="bolded">Petre Roman</a><br> Political Activist
+        - name: <a class="bolded">Nicolae Militaru</a><br> General
+        - name: <a class="bolded">Ion Ratiu</a><br> Politician
+        - name: <a class="bolded">Laszlow Tokes</a><br> Pastor & Political Activist
+        - name: <a class="bolded">Vasile Milea</a><br> Minister of Defense
+        - name: <a class="bolded">Sergiu Nicolaescu</a><br> Film Director
+        - name: <a class="bolded">Mircea Diaconu</a><br> Actor & Political Activist
+        - name: <a class="bolded">Ion Caramitru</a><br> Actor & Political Activist
+        - name: <a class="bolded">Victor Atanasie Stanculescu</a><br> General
+        - name: <a class="bolded">Ion Vincze</a><br> Politician
+        - name: <a class="bolded">Vladimir Colin</a><br> Author
+        - name: <a class="bolded">Florea Dumitrescu</a><br> Governor of the National Bank
+        - name: <a class="bolded">Corneliu Manescu</a><br> Ambassador & Political Activist
+        - name: <a class="bolded">Gabriel Andreescu</a><br> Political Activist
+        - name: <a class="bolded">Gheorghe Apostol</a><br> Politician
+        - name: <a class="bolded">Nicolae Plesita</a><br> Intelligence Officer
+        - name: <a class="bolded">Tudor Postelnicu</a><br> Interior Minister
+        - name: <a class="bolded">Traian Basescu</a><br> Politician
       topics:
         - title: ""
           desc: ""
