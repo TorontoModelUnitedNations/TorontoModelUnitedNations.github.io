@@ -512,15 +512,36 @@ The International Press Corps (IPC) will function as a specialized committee tha
         - name: The Onion
 - header: Online Committees
   links: 
-  - title: The Remilitarization of the Rhineland - 1936
-    url: rhineland
-    image: rhineland.jpg
-    description: "The League of Nations Historical Crisis Committee (LNHCC) is a captivating and historically grounded simulation featured at TMUN 2024. This committee will transport delegates to the early 20th century, a period marked by the critical issue of the remilitarization of the Rhineland. As participants, you will find yourselves immersed in the diplomatic intricacies of this era, grappling with the challenge of responding to this historic event. To ensure a truly authentic experience, the LNHCC will operate under a custom set of crisis rules of procedure, mirroring the real-life decision-making processes of the League of Nations during this pivotal moment. Delegates will step into the roles of notable historical figures, including diplomats, heads of state, and influential personalities from various nations, each playing a crucial role in shaping the course of history in the face of the Rhineland's remilitarization."
+  - title: United Earth Government Committee
+    url: united-earth
+    image: united-earth.jpg
+    description: "In the year 2044, our collective journey begins within the confines of this virtual United Nations assembly. Humanity faces a profound crisis. This is the United Earth Government (UEG) Committee. We find ourselves on the precipice of an extraordinary situation. Our Sun, the source of life for countless millennia, is undergoing a catastrophic transformation. The core of our Sun is evolving rapidly towards a supernova, a cataclysmic event that will render our planet uninhabitable within a mere century. In response to this looming cosmic catastrophe, the United Nations has evolved into the United Earth Government (UEG), tasked with a monumental mission—to save humanity from the impending disaster. The plan is ambitious, audacious even: the Moving Mountain Project. The Moving Mountain Project envisions the construction of ten thousand colossal nuclear fusion engines. These engines hold the potential to propel Earth away from the destructive path of our Sun's expansion and towards a distant, hospitable star system. Time, however, is our most elusive adversary.
+                  \n\n
+                  In this committee, you embody the forefront of humanity's fight for survival. Your roles extend beyond conventional representation; you are the architects of our destiny. The challenges you face encompass not only scientific and logistical complexities but also the very essence of our human existence. Resource allocation, international cooperation, and ethical dilemmas will test our values and resolve. The urgency of our situation requires immediate and unwavering action. The fate of humanity rests on your shoulders. Together, you embark on a journey fraught with formidable challenges and moral quandaries. This is not a simulation; it's a race against time.
+                  \n\n
+                  Join us in the United Earth Government Committee, where the urgency of our mission is unparalleled. Your decisions and actions will determine whether humanity can defy cosmic odds and secure its place in the universe. There's no time to spare, no room for hesitation. Humanity's future hangs in the balance, and it's up to us to ensure its survival."
     director: TBD
-    role-type: 
-    role-type-singular: 
+    role-type: Countries
+    role-type-singular: Country
     roles:
-      - name:
+      - name: <a class="bolded">United States</a>
+      - name: <a class="bolded">China</a>
+      - name: <a class="bolded">Russia</a>
+      - name: <a class="bolded">India</a>
+      - name: <a class="bolded">United Kingdom</a>
+      - name: <a class="bolded">France</a>
+      - name: <a class="bolded">Germany</a>
+      - name: <a class="bolded">Brazil</a>
+      - name: <a class="bolded">Japan</a>
+      - name: <a class="bolded">South Africa</a>
+      - name: <a class="bolded">Canada</a>
+      - name: <a class="bolded">Australia</a>
+      - name: <a class="bolded">Mexico</a>
+      - name: <a class="bolded">South Korea</a>
+      - name: <a class="bolded">Indonesia</a>
+      - name: <a class="bolded">Italy</a>
+      - name: <a class="bolded">Spain</a>
+      - name: <a class="bolded">Sweden</a>
     topics:
       - title: "Topic A - The Rhineland Crisis"
         desc: "The League of Nations Historical Crisis Committee (LNHCC) is set to explore a singular and pivotal historical moment at TMUN 2024. Delegates will be transported to the turbulent aftermath of the remilitarization of the Rhineland, a momentous event that sent reverberations throughout the international stage during the 1930s. This narrative unfolds with Germany's audacious move to remilitarize the Rhineland, brazenly flouting international treaties and marking a critical turning point in the prelude to World War II. As participants, you will find yourselves immersed in the intricate web of diplomacy and power dynamics of this era, while contending with the vital question of how the League of Nations should respond to this blatant breach of international agreements. To ensure an immersive and authentic experience, the LNHCC will adhere to a tailored set of crisis rules of procedure, meticulously designed to capture the nuances of the League's decision-making processes during this tumultuous period. Delegates will assume the roles of eminent historical figures, encompassing diplomats, heads of state, and influential personalities from around the globe, each wielding a pivotal role in shaping the course of history during this critical juncture. The destiny of nations hangs in the balance, and it falls upon the committee to chart a path forward in the wake of the Rhineland crisis."
