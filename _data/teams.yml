@@ -25,7 +25,6 @@
   topic: Topic
   description:
 
-
 - title: Jacob Greene
   name: Name-6
   subtitle: USG of Outreach
@@ -47,6 +46,15 @@
     I also love doing contest math problems and working on mechatronics projects. Most of my free time is spent building rc planes, and being a huge aviation nerd overall.
     <br>
     I wish all delegates the very best of luck for the TMUN conference, and hope that they find the accompanying website well-made and easy to use.
+
+- title: Jacob Park-Adair
+  name: a
+  subtitle: USG of Logistics
+  img: jacob.png
+  thumbnail: jacob.png
+  alt: Picture of Jacob Park-Adair
+  topic: Topic
+  description: null
 
 - title: Joshua Zhuang
   name: Name-5
