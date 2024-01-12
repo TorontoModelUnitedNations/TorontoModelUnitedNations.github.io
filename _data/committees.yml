@@ -514,15 +514,34 @@ The International Press Corps (IPC) will function as a specialized committee tha
         - name: The Japan Times
         - name: South China Morning Post
         - name: The Onion
+    - title: "Arcane: Order Unbound"
+      url: arcane
+      image: arcane.jpg
+      description: "After intense debate, Jayce Talis' proposal of Zaun's independence seems to have finally been accepted by council members, and peace is on the horizon for the Twin Cities once and for all. There finally seems to be hope.
+      <br> <br>
+      That is - until a rocket, fired by Jinx, destroyed the entire Council Palace right before the vote could pass.
+      <br> <br>
+      In the aftermath, all promises of peace seem to have vanished, replaced by intense animosity and a thirst for violence. Piltover and Zaun stand at a critical divide, separated by a rift of hatred far larger than ever before. Delegates are invited into the world of highly acclaimed show Arcane, free to weave their own story within its magical universe. With the uprising of issues from both past and present, will the cities be able to repair their relations and reestablish peace anew? Or are they doomed to the corruption, greed and war that has poisoned them for so long? 
+      <br> <br>
+      Prepare for chaos in TMUN's Arcane: Order Unbound crisis committee!
+      "
+      director: TBD
+      role-type: 
+      role-type-singular: 
+      roles:
+        - name:
+      topics:
+        - title: ""
+          desc: ""
 - header: Online Committees
   links: 
   - title: United Earth Government Committee
     url: united-earth
     image: united-earth.jpg
     description: "In the year 2044, our collective journey begins within the confines of this virtual United Nations assembly. Humanity faces a profound crisis. This is the United Earth Government (UEG) Committee. We find ourselves on the precipice of an extraordinary situation. Our Sun, the source of life for countless millennia, is undergoing a catastrophic transformation. The core of our Sun is evolving rapidly towards a supernova, a cataclysmic event that will render our planet uninhabitable within a mere century. In response to this looming cosmic catastrophe, the United Nations has evolved into the United Earth Government (UEG), tasked with a monumental mission—to save humanity from the impending disaster. The plan is ambitious, audacious even: the Moving Mountain Project. The Moving Mountain Project envisions the construction of ten thousand colossal nuclear fusion engines. These engines hold the potential to propel Earth away from the destructive path of our Sun's expansion and towards a distant, hospitable star system. Time, however, is our most elusive adversary.
-                  \n\n
+                  <br> <br>
                   In this committee, you embody the forefront of humanity's fight for survival. Your roles extend beyond conventional representation; you are the architects of our destiny. The challenges you face encompass not only scientific and logistical complexities but also the very essence of our human existence. Resource allocation, international cooperation, and ethical dilemmas will test our values and resolve. The urgency of our situation requires immediate and unwavering action. The fate of humanity rests on your shoulders. Together, you embark on a journey fraught with formidable challenges and moral quandaries. This is not a simulation; it's a race against time.
-                  \n\n
+                  <br> <br>
                   Join us in the United Earth Government Committee, where the urgency of our mission is unparalleled. Your decisions and actions will determine whether humanity can defy cosmic odds and secure its place in the universe. There's no time to spare, no room for hesitation. Humanity's future hangs in the balance, and it's up to us to ensure its survival."
     director: TBD
     role-type: Countries
