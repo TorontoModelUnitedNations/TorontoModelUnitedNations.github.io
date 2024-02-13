@@ -526,8 +526,8 @@ The International Press Corps (IPC) will function as a specialized committee tha
       Prepare for chaos in TMUN's Arcane: Red Dawn crisis committee!
       "
       director: TBD
-      role-type: 
-      role-type-singular: 
+      role-type: Characters
+      role-type-singular: Character
       roles:
         - name: <a class="bolded">Caitlyn Kiramman</a><br> Piltovan Detective
         - name: <a class="bolded">Camille Ferros</a><br> Piltovan House Ferros Representative
