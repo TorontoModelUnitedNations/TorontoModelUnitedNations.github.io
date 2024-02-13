@@ -526,10 +526,29 @@ The International Press Corps (IPC) will function as a specialized committee tha
       Prepare for chaos in TMUN's Arcane: Red Dawn crisis committee!
       "
       director: TBD
-      role-type: 
-      role-type-singular: 
+      role-type: Characters
+      role-type-singular: Character
       roles:
-        - name:
+        - name: <a class="bolded">Caitlyn Kiramman</a><br> Piltovan Detective
+        - name: <a class="bolded">Camille Ferros</a><br> Piltovan House Ferros Representative
+        - name: <a class="bolded">Jayce Talis</a><br> Piltovan Council Member
+        - name: <a class="bolded">Mel Medarda</a><br> Piltovan Council Member
+        - name: <a class="bolded">Vi</a><br> Twin-City Rebel
+        - name: <a class="bolded">Viktor</a><br> Zaunite Inventor
+        - name: <a class="bolded">Singed</a><br> Zaunite Scientist
+        - name: <a class="bolded">Sevika</a><br> Silco's Right Hand
+        - name: <a class="bolded">Corina Veraza</a><br> Zaunite Chembaron
+        - name: <a class="bolded">Renata Glasc</a><br> Zaunite Chembaron
+        - name: <a class="bolded">Ekko</a><br> Lead Firelight
+        - name: <a class="bolded">Heimerdinger</a><br> Friend of the Firelights
+        - name: <a class="bolded">Scar</a><br> Firelight Lieutenant
+        - name: <a class="bolded">Zeri</a><br> Firelight
+        - name: <a class="bolded">Scratch</a><br> Firelight
+        - name: <a class="bolded">Ambessa Medarda</a><br> Noxian Stateswoman
+        - name: <a class="bolded">Darius</a><br> Hand of Noxus
+        - name: <a class="bolded">Swain</a><br> Noxian Grand General
+        - name: <a class="bolded">Katarina Du Couteau</a><br> Noxian Ambassador
+        - name: <a class="bolded">Cassiopeia Du Couteau</a><br> Noxian Ambassador
       topics:
         - title: ""
           desc: ""
