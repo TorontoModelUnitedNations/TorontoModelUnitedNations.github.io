@@ -550,8 +550,6 @@ The International Press Corps (IPC) will function as a specialized committee tha
         - name: <a class="bolded">Katarina Du Couteau</a><br> Noxian Ambassador
         - name: <a class="bolded">Cassiopeia Du Couteau</a><br> Noxian Ambassador
       topics:
-        - title: ""
-          desc: ""
 - header: Online Committees
   links: 
   - title: United Earth Government Committee
@@ -585,6 +583,10 @@ The International Press Corps (IPC) will function as a specialized committee tha
       - name: <a class="bolded">Spain</a>
       - name: <a class="bolded">Sweden</a>
     topics:
+      - title: "Topic A - The Solar Crisis"
+        desc: "In the year 2044, a historic gathering took place known as the United Nations assembly. It marks a turning point in our journey, as humanity. At this juncture we face a crisis where our Sun, the source of life for thousands of years, is hurtling towards a cataclysmic supernova. To confront this catastrophe the United Nations has transformed into the United Earth Government (UEG) Committee entrusted with a mission called the Moving Mountain Project. The plan entails constructing ten thousand nuclear fusion engines that can propel Earth away from the Sun's expansion, and towards a distant star system that can support life. However time becomes our adversary in this committee... Delegates become guardians of humanity's survival. Transcend roles to shape our destiny. They encounter challenges encompassing complexities, logistical hurdles and profound ethical dilemmas.
+               <br><br>
+               Resource allocation, collaboration and ethical quandaries become tests for our values and determination. The urgency demands resolute action. The fate of humanity rests upon the shoulders of those who gather together for this endeavor. Together they embark on a journey filled with obstacles and moral dilemmas—a real race, against time itself. Be part of the United Earth Government Committee where every decision and action is defined by a sense of urgency driven by this mission. This is not just a simulation; it's a race, against the clock, where the fate of humanity hangs in the balance. Our determination as a collective is crucial to ensuring our survival in the reaches of the universe. Every second matters, and there's no time for hesitation."
 
   - title: "Atlantis"
     url: atlantis
