@@ -295,6 +295,49 @@
           desc: "In the realm of warfare and conflict, the specter of bioweapons and chemical weapons looms ominously, underscoring the depths to which human ingenuity can descend when harnessed for destructive purposes. These two categories of unconventional weaponry, while distinct in nature, share a common thread of utilizing toxic agents to inflict harm upon adversaries. Bioweapons harness living organisms or their byproducts to unleash diseases, while chemical weapons leverage synthetic compounds to cause incapacitation or death. As the global community grapples with the evolving landscape of warfare and security threats, the responsibilities of DISEC expand beyond mere discussions to fostering tangible actions. The urgency of the situation demands that DISEC members collaborate to formulate concrete strategies that not only prevent the further spread of these devastating tools but also hold accountable those who seek to employ them. "
         - title: "Topic B - The Korean Peninsula"
           desc: "In the complex geopolitical landscape of the Korean Peninsula, the specter of nuclear mobilization has cast a shadow over regional stability and global security. The interplay of historical, political, and military dynamics has led to a situation where the presence and potential use of nuclear weaponry has become central to discussions and concerns surrounding this region. The intricate web of interests and tensions has elevated the urgency of comprehending the factors that have contributed to the nuclear mobilization in the Korean Peninsula. As one of the main committees of the United Nations General Assembly, DISEC plays a vital role in deliberating on strategies to mitigate tensions, promote disarmament, and secure a peaceful resolution to the ongoing crisis. The committee's historical significance, rooted in its establishment as a fundamental component of the UN in 1945, reflects the global acknowledgment of the imperative to prevent the escalation of nuclear tensions and promote lasting security measures."
+    - title: African Union
+      url: africa
+      image: africa.jpg
+      description: ""
+      director: TBD
+      role-type: Countries
+      role-type-singular: Country
+      roles:
+        - name: Algeria
+        - name: Angola
+        - name: Burundi
+        - name: Cameroon
+        - name: Central African Republic
+        - name: Chad
+        - name: Democratic Republic of the Congo
+        - name: Egypt
+        - name: Eritrea
+        - name: Ethiopia
+        - name: Gabon
+        - name: Guinea
+        - name: Ivory Coast
+        - name: Kenya
+        - name: Libya
+        - name: Madagascar
+        - name: Mali
+        - name: Morocco
+        - name: Mozambique
+        - name: Niger
+        - name: Nigeria
+        - name: Republic of the Congo
+        - name: Somalia
+        - name: South Africa
+        - name: South Sudan
+        - name: Sudan
+        - name: Tunisia
+        - name: Uganda
+        - name: Zambia
+        - name: Zimbabwe
+      topics:
+        - title: "Topic A - Sustainable Economic Development in Africa"
+          desc: "Africa is home to one of the world's fastest-growing populations and only continues to grow its economy. Although the continent is rich with natural resources, it has struggled to develop its economy in a sustainable fashion, often exporting raw materials yet only receiving minor profits. Corruption, unstable governance, and exploitation by developed nations are all challenges this committee will have to contend with in order to build a bright future for the continent."
+        - title: "Topic B - 2021 Malian Coup D'Etat"
+          desc: "African nations have often struggled with coups, and the latest military takeover in Mali is nothing special. Other countries like Niger, Burkina Faso and Guinea among others have also faced recent political instability. The African Union is tasked with both deciding a policy to deal with military juntas and figuring out a way to prevent coups from happening in the future."
 
 
 - header: Crisis Committees
