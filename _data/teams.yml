@@ -45,7 +45,7 @@
 
 - title: Sahil Nijjer
   name: Name-6
-  subtitle: USG of General Assmeblies
+  subtitle: USG of General Assemblies
   img: sahil_square.png
   thumbnail: sahil_square.png
   alt: Picture of Sahil Nijjer
@@ -97,8 +97,17 @@
   topic: Topic
   description:
 
-- title: Richard Ai
+- title: Gordon Zeng
   name: Name-12
+  subtitle: USG of Logistics
+  img: gordon_square.png
+  thumbnail: gordon_square.png
+  alt: Picture of TBD
+  topic: Topic
+  description:
+
+- title: Richard Ai
+  name: Name-13
   subtitle: General Secretariat
   img: richard_square.png
   thumbnail: richard_square.png
@@ -106,14 +115,6 @@
   topic: Topic
   description:
 
-- title: Gordon Zeng
-  name: Name-13
-  subtitle: USG of Logistics
-  img: gordon_square.png
-  thumbnail: gordon_square.png
-  alt: Picture of TBD
-  topic: Topic
-  description:
 
 - title: Austin Cheng
   name: Name-14
