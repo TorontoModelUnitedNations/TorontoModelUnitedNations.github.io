@@ -1,13 +1,13 @@
--
-  - name: Crimson Education
-    link: https://www.crimsoneducation.org
-    image: crimson_education.png
-  - name: StickerGiant
-    link: https://www.stickergiant.com
-    image: StickerGiant.png
-  - name: MyMun
-    link: https://mymun.com/
-    image: mymun.png
-  - name: SamMcDadi
-    link: https://mcdadi.com/
-    image: SamMcDadi.png
+# -
+#   - name: Crimson Education
+#     link: https://www.crimsoneducation.org
+#     image: crimson_education.png
+#   - name: StickerGiant
+#     link: https://www.stickergiant.com
+#     image: StickerGiant.png
+#   - name: MyMun
+#     link: https://mymun.com/
+#     image: mymun.png
+#   - name: SamMcDadi
+#     link: https://mcdadi.com/
+#     image: SamMcDadi.png
