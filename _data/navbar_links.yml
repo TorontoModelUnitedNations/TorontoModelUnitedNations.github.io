@@ -10,6 +10,8 @@
       link: ./faq
     - title: Board of Directors
       link: /board_of_directors
+    # - title: Sponsors
+    #   link: /sponsors
 - dropdown: Registration
   links:
     - title: Overview
