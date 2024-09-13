@@ -24,7 +24,7 @@
     .sponsor {
         margin: 1.2vh;
         padding: 15px;
-        max-height: 25vh;
+        max-height: 15vh;
     }
 
     .sponsor > img {
@@ -38,35 +38,27 @@
     }
 </style>
 
-<div class="speakers">
-    <section id="sponsors" class="content" style="padding-bottom: 8%; padding-top:5%; display: flex; align-items: center; justify-content: center; flex-direction: column;">
+<section id='sponsors' class="sponsors justify-content-center col-12" style="margin-top: -100px; ">
 
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Our Sponsors</h2>
-            </div>
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Sponsors</h2>
         </div>
+    </div>
 
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <p>If you are interested in sponsoring, please email sponsorships@tmun.ca</p>
-            </div>
-        </div>
-    
-        {% for row in site.data.sponsors %}
-        <div class="row centered" style="padding-bottom: 25px; padding-top: 15px; display: flex; width: 80vw; align-items: center; flex-wrap: wrap; justify-content: center;">
-            {% for sponsor in row %}
-            <div>
-                <a id="{{ sponsor.name }}" href="{{ sponsor.link }}">
-                    <img class="sponsor col-12" src= "/css/2017_style/img/sponsors/{{ sponsor.image }}"/>
-                </a>
-            </div>
-            {% endfor %}
+    {% for row in site.data.sponsors %}
+    <div class="row centered" style="padding-bottom: 25px; padding-top: 15px; display: flex; justify-content: center; width: 80vw; margin-right: auto; flex-wrap: wrap; margin-left: auto">
+        {% for sponsor in row %}
+        <div>
+            <a id="{{ sponsor.name }}" href="{{ sponsor.link }}">
+                <img class="sponsor col-12" src= "/css/2017_style/img/sponsors/{{ sponsor.image }}"/>
+            </a>
         </div>
         {% endfor %}
-    
-        <div class="text-center" style="padding-top: 25px;">
-            <a href="/css/2017_style/pdf/TMUN_Sponsorship_Packet.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-lg btn-text-light">Become A Sponsor</a>
-        </div>
-    </section>    
-</div>
+    </div>
+    {% endfor %}
+
+    <div class="text-center">
+        <a href="/css/2017_style/pdf/TMUN_Sponsorship_Packet.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-lg btn-text-light">Become a sponsor</a>
+    </div>
+</section>
