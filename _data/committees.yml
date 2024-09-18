@@ -75,7 +75,7 @@
     - title: Neon Genesis Evangelion
       url: Evangelion
       image: arcane.jpg
-      description: "/ TW: Death, Depression, Strong Religious Themes
+      description: "// TW: Death, Depression, Strong Religious Themes
       <br><br>
       “God’s in his heaven, all's right in the World.”
       <br><br>
@@ -195,10 +195,11 @@
       - title: "Topic B - Company Growth"
         desc: "Historically, Boeing and Airbus, a European planemaker, have been engaged in a dynamic and competitive duopoly in the aerospace industry. Recent setbacks Boeing has had to face, namely the current scandal have aggressively hindered its ability to compete effectively with Airbus. Capitalizing on these complications, Airbus has seen a notable increase in market share, with bolstered sales of its own aircrafts. To ensure the long-term survival and prosperity of The Boeing Company, delegates must not only address its current scandal but also implement a strategy to effectively counter Airbus’ competitive advances to reclaim Boeing’s position as the leader in the industry."
 
-- header: Special
+- header: Specialty
   links: 
     - title: Ad-Hoc
       url: adhoc
+      to-404: ""
       image: UNHRC.jpg
       description: "Coming soon"
       role-type-singular: Character

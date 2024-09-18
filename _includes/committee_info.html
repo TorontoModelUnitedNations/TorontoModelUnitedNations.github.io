@@ -1,9 +1,22 @@
 <!-- Portfolio Modals -->
 {% for linkhead in site.data.committees %}
     {% for link in linkhead.links %}
-        {% if link.to-404 %}
-        {% else %}
+    
         <div class="portfolio-modal modal fade" id="{{ link.url }}" tabindex="-1" role="dialog" aria-hidden="true" style="background-color: white;">
+            {% if link.to-404 %}
+                {% include 404_header.html %}
+                <div style="background-color: lightgray; display: fixed; height: 100vh;">
+                    <div class="page-not-found venue-top">
+                        <h1>404 Page Not Found</h1>
+                        <p>The page that you are looking for is still under construction or not available at the momment.</p>
+                        <p>Thank you for your patience! You will be redirected to <a href="/">home page</a>
+                        in a few seconds.</p>
+                    </div>
+                </div>
+                {% include footer.html %}
+
+            {% else %}
+
             <header class="parallax-wrapper" style="position: relative; z-index: 0; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; {% if page.banner %} background-image: url('{{ site.baseurl }}/css/2016_style/img/committee_images/{{link.image}}') {% else %} background-color: #2b2b2b {% endif %} ">
                 <div style="width: 100%; height: 100%; background-color: rgb(0, 0, 0, 0.5);"> 
                     <div class="parallax container " style="width: 100%; display: flex; justify-content: center;">
@@ -21,8 +34,9 @@
                     </div>
                 </div>
             </header>
+            {% endif %}
             <a href="{{site.baseurl}}/committees">
-            <div class="close-modal button">
+            <div class="close-modal button" style="z-index: 1000;">
                 <div class="lr lrw">
                     <div class="rl rlw">
                     </div>
@@ -30,7 +44,8 @@
             </div>
             </a>
 
-
+            {% if link.to-404 %}
+            {% else %}
             <div class="event">
                 <h2 style="text-align: center;padding-bottom: 10px;padding-top: 10px;font-size: 30px">Committee Description</h2>
 
@@ -76,8 +91,9 @@
                     {% endif %}
                     </table>
             </div>
+            {% endif %}
+
         </div>
-        {% endif %}
     {% endfor %}
 {% endfor %}
 
