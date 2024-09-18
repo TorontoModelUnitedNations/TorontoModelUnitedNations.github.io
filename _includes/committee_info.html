@@ -4,7 +4,6 @@
     
         <div class="portfolio-modal modal fade" id="{{ link.url }}" tabindex="-1" role="dialog" aria-hidden="true" style="background-color: white;">
             {% if link.to-404 %}
-                {% include 404_header.html %}
                 <div style="background-color: lightgray; display: fixed; height: 100vh;">
                     <div class="page-not-found venue-top">
                         <h1>404 Page Not Found</h1>
@@ -13,7 +12,6 @@
                         in a few seconds.</p>
                     </div>
                 </div>
-                {% include footer.html %}
 
             {% else %}
 
@@ -36,7 +34,7 @@
             </header>
             {% endif %}
             <a href="{{site.baseurl}}/committees">
-            <div class="close-modal button" style="z-index: 1000;">
+            <div class="close-modal button">
                 <div class="lr lrw">
                     <div class="rl rlw">
                     </div>
