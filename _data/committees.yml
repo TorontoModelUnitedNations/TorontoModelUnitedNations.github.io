@@ -1,650 +1,210 @@
 - title: Committee Program
-  info: TMUN 2025 will run in a hybrid format, with ten exciting in-person committees and two online committees. With offerings ranging from the classic Disarmament and International Security Committee to the new and innovative Manhattan Project Committee, there is a committee for everyone. During the registration process, delegates will be able to indicate the top three committees that they would like to participate in. While we cannot guarantee that delegates will be placed in their preferred committees, it is more likely that you will receive your preferred committee if you register earlier. To see a list of countries/characters within the different committees, please check the country matrices on the respective committee tabs.
+  # info: TMUN 2025 will run in a hybrid format, with ten exciting in-person committees and two online committees. With offerings ranging from the classic Disarmament and International Security Committee to the new and innovative Manhattan Project Committee, there is a committee for everyone. During the registration process, delegates will be able to indicate the top three committees that they would like to participate in. While we cannot guarantee that delegates will be placed in their preferred committees, it is more likely that you will receive your preferred committee if you register earlier. To see a list of countries/characters within the different committees, please check the country matrices on the respective committee tabs.
+  info: During the registration process, delegates will be able to indicate the top three committees that they would like to participate in. While we cannot guarantee that delegates will be placed in their preferred committees, it is more likely that you will receive your preferred committee if you register earlier. To see a list of countries/characters within the different committees, please check the country matrices on the respective committee tabs.
 
-- header: General Assemblies and ECOSOCs
+- header: General Assemblies
   links: 
-    - title: Special Political and Decolonization Committee
-      url: SPECPOL
-      image: SPECPOL.png
-      description: "The Special Political and Decolonization committee (SPECPOL) is the fourth committee of the United Nations General Assembly and is very crucial to maintaining peace and safety throughout the world, dealing with decolonization, review of the question of peacekeeping operations, the Israeli-Palestinian conflict, and the effects of atomic radiation. In this committee, delegates will be tackling the complicated issues surrounding decolonization and addressing the welfare of Palestinian refugees."
-      director: TBD
-      role-type: Countries
+    - title: United Nations Office on Drugs and Crime (UNODC)
+      url: UNODC
+      image: UNODC.jpg
       role-type-singular: Country
-      roles:
-        - name: Angola
-        - name: Azerbaijan
-        - name: Belarus
-        - name: Belgium
-        - name: Bhutan
-        - name: Bosnia and Herzegovina
-        - name: Brazil
-        - name: Bulgaria
-        - name: Canada
-        - name: Chad
-        - name: People's Republic of China
-        - name: Palestine 
-        - name: Colombia
-        - name: Congo (Congo-Brazzaville)
-        - name: Croatia
-        - name: Cuba
-        - name: Czechia (Czech Republic)
-        - name: Democratic Republic of the Congo
-        - name: Denmark
-        - name: Dominican Republic
-        - name: Ecuador
-        - name: Egypt
-        - name: El Salvador
-        - name: Ethiopia
-        - name: Finland
-        - name: France
-        - name: Georgia
-        - name: Germany
-        - name: Grenada
-        - name: Guyana
-        - name: Haiti
-        - name: Hungary
-        - name: India
-        - name: Indonesia
-        - name: Iran
-        - name: Iraq
-        - name: Israel
-        - name: Italy
-        - name: Jamaica
-        - name: Japan
-        - name: Jordan
-        - name: Kazakhstan
-        - name: Kenya
-        - name: Nigeria
-        - name: Korea (DPRK)
-        - name: Panama
-        - name: South Africa
-        - name: Korea (ROK)
-        - name: Sweden
-        - name: Switzerland
-        - name: Syria
-        - name: Tunisia
-        - name: Turkey
-        - name: Ukraine
-        - name: United Arab Emirates
-        - name: United Kingdom
-        - name: United States of America
-        - name: Venezuela
-        - name: Vietnam
-        - name: Zimbabwe
+      description: "The United Nations Office on Drugs and Crime is a UN branch that works towards international peace and security. Its purpose is to intercept crimes such as terrorism, human trafficking, and drug trafficking. In this case, for this committee, delegates will be focusing on comprehending issues regarding cybercrime, by exploring different offences that arise from technologies. As the digital world continues to grow each day, it becomes more and more imperative for effective resolutions to be reached to minimize the amount of cybercriminals, and their misconduct on the internet."
+      director: TBD
       topics:
-        - title: "TOPIC A - Issues Surrounding Decolonization"
-          desc: "As the age of colonialism is behind us, decolonization was and is the next step for any state that has not reached self-governance or integration with another state. As such, this can cause many issues, such as political disputes, territorial disputes, socio economic issues, and most importantly of all, affecting the livelihood of its people. The world is still very much in a grey area when it comes to decolonization, and many places’ futures are still indeterminate to this day. It is important that we come together and finally make sense of how we can properly decolonize the world and lead everyone to peace and prosperity. "
-        - title: "Topic B - Refugees of the Israeli-Palestinian Conflict"
-          desc: "The Israeli-Palestinian conflict has been an ongoing conflict since the mid-20th century, and has affected the lives of millions. As a result of violence and dispute, many people from the region have seen themselves displaced, living in refugee camps, where poverty is at an all time high and basic infrastructure is missing. With seemingly no conclusion to this conflict, it is imperative that the peoples’ needs are being met, in order for them to lead as healthy and prosperous lives as possible. It is important that we are able to provide the best solutions we can for these refugees, who have suffered for decades due to this issue."
+        - title: "Topic A - Cryptocurrencies"
+          desc: "After the Great Recession of 2008, the infamous cryptocurrency, Bitcoin, came into existence to provide individuals with a decentralized currency. This was created to be a tool to protect people’s finances, and privacy, by removing the control of governments and banks; thus the concept that led to the birth of thousands of other cryptocurrencies since then. Unfortunately, the pseudonymous nature of cryptocurrencies, a component intended to protect privacy, has also been exploited by criminals. Issues like money laundering, sanction evasion, and embezzlement have started to plague the world as a result. On a positive note, cryptocurrencies are also being used as a tool for developing nations to improve their economies. For this topic, delegates must understand the mechanics of cryptocurrencies to develop comprehensive approaches to address various unlawful activities associated with them. At the same time, delegates must also recognize the potential benefits of these currencies for the greater good."
+        - title: "Topic B - The Darknet"
+          desc: "The dark web is notoriously known as a hidden section of the internet, often associated with illicit activities and online black markets. However, despite its reputation, the dark web’s original purpose, and the majority of its use today, is not illegal. Dark web browsers, such as Tor, were introduced to the world to provide people with safer, and more secure internet use. Today, it is being used in oppressive regimes by whistleblowers, activists, and journalists to seek freedom and help. That being said, cybercriminals do take advantage of the anonymity of the darknet to participate in illegal activities such as drug trafficking, arms trading, and intellectual property infringement. Taking this information into account, and considering the fact that dark web browsers are legal in most countries, delegates will take their respective nation’s stance on how to apprehend and prevent these criminals, while acknowledging the dark web’s uses; balancing its necessity with the need to mitigate harm."
+          
+    - title: United Nations International Emergency Children’s Fund (UNICEF)
+      url: UNICEF
+      image: UNICEF.jpg
+      description: "The United Nations International Children’s Emergency Fund, also known as UNICEF, is a United Nations committee that provides humanitarian aid to countless children worldwide. UNICEF was first established in 1946 to provide emergent care to children and mothers devastated by World War II and has continued to make various efforts since then to fight for children’s rights, lives, safety, and health. As a committee, UNICEF’s mission is to ensure that all children worldwide grow up healthy, educated, and most importantly safely. Today, UNICEF provides a better future for disadvantaged children across over 190 countries, symbolizing hope for many globally."
+      role-type-singular: Country
+      topics:
+        - title: "Topic A - Mandating vaccination for children"
+          desc: "As accessible international mobility continues to strengthen, viruses and diseases spread at revolutionary rates. The UNICEF committee will especially focus on maintaining the balance of public health and individual rights within child welfare. As an advocate for children on the world stage, it is up to delegates to determine the proper proactive response with regard to parental/individual rights, financial strain on nations, ethical implementation, as well as many other morally ambiguous factors playing into this issue."
+        - title: "Topic B - Child Labour and Exploitation"
+          desc: "With the popularity of fast fashion and large companies expanding globally, child labour and exploitation become a hard issue for many to ignore. While it may seem simple to point out that child labour is a horrific problem that plagues many families and nations, especially developing nations, finding a solution is far more complex. This is because child labour and exploitation is a multifaceted issue with deep-rooted causes. Additionally, many countries and companies worldwide rely on the exploitation of these workers to boost their economies, causing this to be a rapidly growing issue worldwide. Ultimately, this is an issue that needs to be tackled from its roots and to not only end it but also prevent it for the future."
 
-    - title: UN Human Rights Council
+    - title: United Nations Human Rights Council
       url: UNHRC
       image: UNHRC.jpg
-      description: "The United Nations Human Rights Council, also known as the UNHRC, was established by the General Assembly of the United Nations in 2006 and is dedicated to protecting human rights around the world, addressing violations in human rights, and establishing recommendations on how to resolve them. Comprising member states committed to upholding the principles established in the Universal Declaration of Human Rights, the UNHRC serves as a platform for open dialogue, critical discourse, and collaborative action on pressing human rights issues."
-      director: TBD
-      role-type: Countries
+      description: "The United Nations Human Rights Council, also known as the UNHRC, was established by the General Assembly of the United Nations in 2006 and is dedicated to protecting human rights around the world, addressing violations of human rights, and establishing recommendations on how to resolve them. Comprising member states committed to upholding the principles established in the Universal Declaration of Human Rights, the UNHRC serves as a platform for open dialogue, critical discourse, and collaborative action on pressing human rights issues."
       role-type-singular: Country
-      roles:
-        - name: Afghanistan (Islamic Emirate of)
-        - name: Algeria
-        - name: Angola
-        - name: Argentina
-        - name: Armenia
-        - name: Australia
-        - name: Austria
-        - name: Azerbaijan
-        - name: Bangladesh
-        - name: Belarus
-        - name: Belgium
-        - name: Bhutan
-        - name: Bolivia
-        - name: Bosnia and Herzegovina
-        - name: Brazil
-        - name: Bulgaria
-        - name: Burkina Faso
-        - name: Côte d'Ivoire
-        - name: Cambodia
-        - name: Canada
-        - name: Chile
-        - name: People's Republic of China
-        - name: Colombia
-        - name: Croatia
-        - name: Cuba
-        - name: Czechia (Czech Republic)
-        - name: Democratic Republic of the Congo
-        - name: Denmark
-        - name: Egypt
-        - name: Equatorial Guinea
-        - name: Ethiopia
-        - name: Finland
-        - name: France
-        - name: Georgia
-        - name: Germany
-        - name: Greece
-        - name: Hungary
-        - name: India
-        - name: Indonesia
-        - name: Iran
-        - name: Israel
-        - name: Italy
-        - name: Jamaica
-        - name: Kazakhstan
-        - name: Kuwait
-        - name: Libya
-        - name: Malaysia
-        - name: Mexico
-        - name: Myanmar
-        - name: Netherlands
-        - name: New Zealand
-        - name: Nigeria
-        - name: Korea (DPRK)
-        - name: Norway
-        - name: Pakistan
-        - name: Paraguay
-        - name: Philippines
-        - name: Portugal
-        - name: Romania
-        - name: Russia
-        - name: Rwanda
-        - name: Saudi Arabia
-        - name: Serbia
-        - name: Singapore
-        - name: South Africa
-        - name: Korea (ROK)
-        - name: South Sudan
-        - name: Spain
-        - name: Sudan
-        - name: Syria
-        - name: Tunisia
-        - name: Turkey
-        - name: United Arab Emirates
-        - name: United Kingdom
-        - name: United States of America
-        - name: Zimbabwe
       topics:
-        - title: "Topic A - Responsible Use of Artificial Intelligence"
-          desc: "In an era of rapid technological advancement, the first topic of the UNHRC aims to address the ethical and human rights concerns revolving around Artificial Intelligence (AI). Delegates will develop ethical frameworks and ensure transparency and accountability in AI systems, and address the impact on human rights, privacy, and labour. With this rapidly developing field, it is important to create international guidelines that foster the responsible development and deployment of AI technologies, promoting fairness, transparency, and the protection of fundamental rights while harnessing AI's potential for positive change on a global scale."
-        - title: "Topic B - Mining Practices in the Arctic"
-          desc: "The UNHRC will also turn its attention to the complex issue of mining practices in the Arctic region. Delegates will explore the environmental, social, and geopolitical challenges posed by increasing mining activities in this sensitive ecosystem. Discussions will revolve around sustainable resource extraction, indigenous rights, environmental protection, and international cooperation. The objective will be to formulate strategies that balance economic development with the preservation of the fragile Arctic environment, respecting the rights of indigenous communities and safeguarding the global common interests associated with this region."
+        - title: "Topic A - Implementation of a Weighted Voting System Globally"
+          desc: "Voting is one of the basic human rights which can't be denied to every human being, but in a few countries voting rights are denied for a few reasons mainly for Criminal Records. This is implemented in a few countries to prevent criminals from voting for the wrong leader of the country. The same goes for weighted voting systems where an individual's vote will count less the older they get in order to give way to the young individuals to choose the right leader to sustain the current period of time and in the future where the young individuals are the ones going to experience under a government in the long term."
+        - title: "Allowing minors the rights of adults according to an individual’s Intelligence Quotient (IQ)"
+          desc: "Minors' ages in several countries differ according to each country’s different policies and political backgrounds such as the Minor Consent age in few countries is different from several other countries. In a scenario of a minor with no parents but in that country the minor has not reached the appropriate independent action age, that specific minor would not be able to access basic needs without their parents’ consent such as education, health care, etc. In several countries, minors are asked to consent to medical treatment as the minor knows better what's going on."
 
-    - title: Social, Cultural and Humanitarian Committee
-      url: SOCHUM
-      image: SOCHUM.jpg
-      description: "The Social, Cultural, and Humanitarian Committee, or SOCHUM, is the committee of the UN General Assembly dealing with humanitarian and social issues. In particular, SOCHUM works closely with the United Nations Human Rights Council to promote and advocate for human rights as described in the Universal Declaration of Human Rights (UDHR). "
-      director: TBD
-      role-type: Countries
-      role-type-singular: Country
-      roles:
-        - name: Afghanistan (Islamic Emirate of)
-        - name: Algeria
-        - name: Angola
-        - name: Argentina
-        - name: Australia
-        - name: Austria
-        - name: Bahamas
-        - name: Bangladesh
-        - name: Belgium
-        - name: Bhutan
-        - name: Bosnia and Herzegovina
-        - name: Botswana
-        - name: Brunei
-        - name: Bulgaria
-        - name: Côte d'Ivoire
-        - name: Cameroon
-        - name: Canada
-        - name: Central African Republic
-        - name: Chad
-        - name: Chile
-        - name: People's Republic of China
-        - name: Colombia
-        - name: Congo (Congo-Brazzaville)
-        - name: Cuba
-        - name: Cyprus
-        - name: Denmark
-        - name: Egypt
-        - name: Eritrea
-        - name: Ethiopia
-        - name: France
-        - name: Gambia
-        - name: Germany
-        - name: Ghana
-        - name: Guatemala
-        - name: Guinea
-        - name: Hungary
-        - name: India
-        - name: Indonesia
-        - name: Italy
-        - name: Jamaica
-        - name: Kenya
-        - name: Lebanon
-        - name: Lithuania
-        - name: Netherlands
-        - name: New Zealand
-        - name: Nigeria
-        - name: Norway
-        - name: Palestinian Authority
-        - name: Paraguay
-        - name: Philippines
-        - name: Russia
-        - name: Rwanda
-        - name: Slovenia
-        - name: Korea (ROK)
-        - name: Sri Lanka
-        - name: Syria
-        - name: United Arab Emirates
-        - name: United Kingdom
-        - name: United States of America
-        - name: Yemen
-      topics:
-        - title: "Topic A - Mediterranean Migrant Crisis"
-          desc: "The Mediterranean route is one of the popular routes used by migrants attempting to reach Europe. Migrants, typically embarking from North Africa, cross dangerous waters in hopes of landing on the shores of countries such as Spain, Italy, or Greece. These countries are often reluctant to take responsibility for any rescue and processing of migrants, and, oftentimes, the overcrowded and unsafe boats sink at sea. According to the UN, over 26,000 people have died at sea in the Mediterranean in the past decade. "
-        - title: "Topic B - Governments and Social Media"
-          desc: "Social media has revolutionized the manner in which information is created and shared, with far-reaching implications for governments and their citizens. From fuelling revolutions during the Arab Spring of 2011, to spreading alternative pandemic treatments and cures, the influence of social media can seriously threaten government authority and public order. On the other hand, social media has allowed billions of people to participate in democratic discourse and marginalized groups and causes to coalesce. Another concern is the vast amount of data collected by private companies and the threat to user privacy."
-
-    - title: Disarmament and International Security Committee
-      url: DISEC
-      image: DISEC.jpg
-      description: "The Disarmament and International Security Committee (DISEC) serves as a pivotal organ of the United Nations General Assembly, addressing an array of global challenges related to arms control, non-proliferation, and conflict prevention. In this committee, delegates will be discussing reducing the development and use of biological and chemical weapons, as well as the mobilization of nuclear arms in Korea."
-      director: TBD
-      role-type: Countries
-      role-type-singular: Country
-      roles:
-        - name: Australia
-        - name: Bahrain
-        - name: Brazil
-        - name: Cambodia
-        - name: Cameroon
-        - name: Chad
-        - name: People's Republic of China
-        - name: Colombia
-        - name: Croatia
-        - name: Democratic Republic of Congo
-        - name: Korea (Democratic People's Republic of)
-        - name: Egypt
-        - name: Ethiopia
-        - name: France
-        - name: Germany
-        - name: Greece
-        - name: India
-        - name: Indonesia
-        - name: Iran
-        - name: Ireland
-        - name: Japan
-        - name: Malaysia
-        - name: Morocco
-        - name: Myanmar
-        - name: Pakistan
-        - name: Qatar
-        - name: Korea (Republic of)
-        - name: Saudi Arabia
-        - name: Singapore
-        - name: Sweden
-        - name: Syria
-        - name: Switzerland
-        - name: Thailand
-        - name: Turkey
-        - name: United Arab Emirates
-        - name: Uganda
-        - name: United Kingdom
-        - name: United States of America
-        - name: Venezuela
-        - name: Vietnam
-        - name: Yemen
-      topics:
-        - title: "Topic A - CBRN Warfare"
-          desc: "In the realm of warfare and conflict, the specter of bioweapons and chemical weapons looms ominously, underscoring the depths to which human ingenuity can descend when harnessed for destructive purposes. These two categories of unconventional weaponry, while distinct in nature, share a common thread of utilizing toxic agents to inflict harm upon adversaries. Bioweapons harness living organisms or their byproducts to unleash diseases, while chemical weapons leverage synthetic compounds to cause incapacitation or death. As the global community grapples with the evolving landscape of warfare and security threats, the responsibilities of DISEC expand beyond mere discussions to fostering tangible actions. The urgency of the situation demands that DISEC members collaborate to formulate concrete strategies that not only prevent the further spread of these devastating tools but also hold accountable those who seek to employ them. "
-        - title: "Topic B - The Korean Peninsula"
-          desc: "In the complex geopolitical landscape of the Korean Peninsula, the specter of nuclear mobilization has cast a shadow over regional stability and global security. The interplay of historical, political, and military dynamics has led to a situation where the presence and potential use of nuclear weaponry has become central to discussions and concerns surrounding this region. The intricate web of interests and tensions has elevated the urgency of comprehending the factors that have contributed to the nuclear mobilization in the Korean Peninsula. As one of the main committees of the United Nations General Assembly, DISEC plays a vital role in deliberating on strategies to mitigate tensions, promote disarmament, and secure a peaceful resolution to the ongoing crisis. The committee's historical significance, rooted in its establishment as a fundamental component of the UN in 1945, reflects the global acknowledgment of the imperative to prevent the escalation of nuclear tensions and promote lasting security measures."
     - title: African Union
       url: africa
       image: africa.jpg
-      description: ""
-      director: TBD
-      role-type: Countries
+      description: "The African Union is the successor to the Organization of African Unity (OAU). The AU was established in 2002 and is a continental organization representing 55 member states. Its duties include dealing with the most important problems facing Africa, such as economic expansion and instability in politics. Agenda 2063, a comprehensive plan aimed at developing Africa into a global powerhouse, united in peace and prosperity, embodies the core objective of the African Union. The path to accomplishing these ambitious goals is not without its difficulties, though, as member states frequently must find a balance between their own national interests and the aspirations of the continent as a whole.
+      <br><br>
+      With its core values in freedom, justice, equality, and African unity, the AU aims to bring peace, security, stability, and democratic governance while working toward sustainable development and global representation for Africa."
       role-type-singular: Country
-      roles:
-        - name: Algeria
-        - name: Angola
-        - name: Burundi
-        - name: Cameroon
-        - name: Central African Republic
-        - name: Chad
-        - name: Democratic Republic of the Congo
-        - name: Egypt
-        - name: Eritrea
-        - name: Ethiopia
-        - name: Gabon
-        - name: Guinea
-        - name: Ivory Coast
-        - name: Kenya
-        - name: Libya
-        - name: Madagascar
-        - name: Mali
-        - name: Morocco
-        - name: Mozambique
-        - name: Niger
-        - name: Nigeria
-        - name: Republic of the Congo
-        - name: Somalia
-        - name: South Africa
-        - name: South Sudan
-        - name: Sudan
-        - name: Tunisia
-        - name: Uganda
-        - name: Zambia
-        - name: Zimbabwe
       topics:
-        - title: "Topic A - Sustainable Economic Development in Africa"
-          desc: "Africa is home to one of the world's fastest-growing populations and only continues to grow its economy. Although the continent is rich with natural resources, it has struggled to develop its economy in a sustainable fashion, often exporting raw materials yet only receiving minor profits. Corruption, unstable governance, and exploitation by developed nations are all challenges this committee will have to contend with in order to build a bright future for the continent."
-        - title: "Topic B - 2021 Malian Coup D'Etat"
-          desc: "African nations have often struggled with coups, and the latest military takeover in Mali is nothing special. Other countries like Niger, Burkina Faso and Guinea among others have also faced recent political instability. The African Union is tasked with both deciding a policy to deal with military juntas and figuring out a way to prevent coups from happening in the future."
+        - title: "Topic A - Combating Political Instability in the Sahel"
+          desc: "The Sahel region has become a hotspot for political instability, with countries like Mali, Niger, and Burkina Faso experiencing military coups in recent years. The situation has gotten worse as a result of insurgent organizations like ISIS and al-Qaeda taking advantage of the weaknesses in the area. The stabilizing effects of international military deployments meant to counter these radical threats have not always materialized. Some contend that these interventions strengthen military regimes, weakening democratic governments and creating instability in Africa.
+          <br><br>
+          Delegates must think about establishing an agreement between local government and military assistance as we examine this issue. While some may believe that military assistance is essential to bringing about stability in the area, others will need to consider whether community-driven peace initiatives, humanitarian aid, and diplomacy can provide better long-term solutions. The primary points of contention will be how to bring the region's government back on track while also addressing the fundamental causes of the insurgencies and making sure that military support doesn't encourage more opportunities for corruption."
+        - title: "Topic B - Improving Agenda 2063"
+          desc: "The African Union's Agenda 2063, which aims to transform Africa by 2063, embodies the aspirations of the continent as a whole. However, despite achievements like the establishment of the African Continental Free Trade Area (AfCFTA), there have been problems in the execution of important projects. Many member countries remain cautious about certain aspects of the plan, particularly when it comes to reducing economic dependency on external resources and addressing corruption. Some believe that the actions necessary for more sustainable growth and deeper integration could jeopardize current international ties or put national economic stability at risk.
+          <br><br>
+          This topic will provide an outline for delegates to assess how best to accelerate progress on Agenda 2063 while considering the diverse economic and political realities of African nations. Whether concentrating on technology sharing, governance reforms, or overcoming financial challenges, participants will have to balance the advantages and disadvantages of advancing with the agenda's full execution. How to accomplish Africa's long-term goals without sacrificing the urgent needs of individual countries is the primary topic of discussion."
 
-
-- header: Crisis Committees
+- header: Fictional Crisis
   links:
-    - title: Turkish Invasion of Cyprus 1974
-      url: cyprus
-      image: cyprus.jpg
-      description: "The Cyprus 1974 committee will take place during the July 1974 invasion of the island by Turkish forces. This committee will be divided between a Greek-led faction and a Turkish-led faction, with both sides battling for control of the island. The committee will be equipped with a live map with troop positions, military depots and battle zones. Live updates will be provided regularly throughout the committee and delegates are urged to think on their feet as the processions will move quite rapidly. Although delegates will sit within their factions, they are encouraged to negotiate and pass notes accordingly with their counterparts. The committee will conclude with a surrender from one side or via a peace agreement between the two sides."
-      director: TBD
-      role-type: Characters
+    - title: "Matrix: In Disarray"
+      url: Matrix
+      image: Matrix.jpg
+      description: "The Matrix is everywhere. It is all around us. Even now, in this very room. They can see it when they look out their window or when they turn on their television. They can feel it when they go to work... when they go to church... when they pay their taxes. It is the world that has been pulled over their eyes to blind them from the truth.
+      <br><br>
+      However, that world is faltering, as a new, mysterious disturbance in the Matrix has been taking root. Large breaches of awareness are breaking out, with no clear explanation behind it. Given enough time, this could cause the collapse of the entire system, and the reality of billions of humans along with it. 
+      <br><br>
+      In this committee, delegates will play the role of Agents, tasked with maintaining order in the Matrix. You will have to investigate this disturbance, and answer the question: Is this just a routine resistance activity, or is this part of a larger conspiracy?"
       role-type-singular: Character
-      roles:
-        - name: <a class="bolded">Richard Nixon</a><br> President of the United States
-        - name: <a class="bolded">Nikos Sampson</a><br> Installed Greek President of Cyprus
-        - name: <a class="bolded">Dimitris Ioannidis</a><br> Greek Army Commander
-        - name: <a class="bolded">Phaedon Gizikis</a><br> Greek President
-        - name: <a class="bolded">Fahri Koruturk</a><br> President of Turkey (Second in Command)
-        - name: <a class="bolded">Makarios</a><br> Former Neutral President of Cyprus
-        - name: <a class="bolded">Harold Wilson</a><br> Prime Minister of Great Britain
-        - name: <a class="bolded">Kurt Waldheim</a><br> UN Secretary General 1974
-        - name: <a class="bolded">Semih Sancar</a><br> Turkish Army Commander
-        - name: <a class="bolded">Leonid Brezhnev</a><br> General Secretary of The Communist Party of The Soviet Union
-        - name: <a class="bolded">Valery D’Estaing</a><br> President of France
-        - name: <a class="bolded">Anwar El-Sadat</a><br> President of Egypt
-        - name: <a class="bolded">Athanasios Sklavenitis</a><br> Leader of EOKA (Greek-Cypriot Guerillas)
-        - name: <a class="bolded">Bulent Ecevit</a><br> Turkish PM (First in Command)
-        - name: <a class="bolded">Mustafa Barzani</a><br> Leader of Kurdish Party
-        - name: <a class="bolded">Rauf Denktas</a><br> Leader of Turkish Cyprus
-        - name: <a class="bolded">Yithzak Rabin</a><br> Israeli Prime Minister
-        - name: <a class="bolded">Henry Kissinger</a><br> US Secretary of State
-        - name: <a class="bolded">Ezekias Papioannou</a><br> Leader of AKEL (Greek-Cypriot Communist Party)
-        - name: <a class="bolded">Josip Broz Tito</a><br> Leader of Yugoslavia
       topics:
-        - title: "Topic A - Role of UN and British Peacekeepers on the Island"
-          desc: "In the wake of the Turkish invasion, cases of ethnic violence and human rights violations against Greek and Turkish Cypriots alike became commonplace. Given limited resources and manpower, the British and UN peacekeepers must try to maintain stability in the region, negotiating ceasefires when possible and mitigating the humanitarian effects of the war. Delegates will determine access to corridors, crucial ports and military depots, and they can also try to establish some sort of a demarcation zone. "
-        - title: "Topic B - The Battle for Cyprus"
-          desc: "With battle still raging between Turkish and Greek forces, the future map of Cyprus has yet to be decided. Turkish forces have successfully made landfall onto the island, but they have not yet completely conquered the island. During the committee, delegates will have the ability to command their respective troops and battle for Cyprus. If a peace deal splitting the island is reached, delegates will have to decide how to split the island between all countries involved."
+        - title: "Topic A - Humanity’s Ignorance"
+          desc: "Denial is the most predictable of all human responses. Every passing day, this disturbance becomes more dangerous, and the number of humans denying the Matrix grows. With the entire world at stake, how you choose to approach this disturbance will define history for centuries to come. So the question becomes, what will you do about this? Or better yet, what can you do about this?"
+        - title: "Topic B - Humanity’s Resistance"
+          desc: "Human beings are a disease, a cancer of this planet. The human resistance, located outside of the Matrix, is actively trying to undermine the agents’ efforts to keep the Matrix in order. As long as the human resistance is allowed to continue existing, the Matrix will never truly be secure. Will you allow humanity to regain its strength, or will you put a stop to them once and for all?"
 
-    - title: Strawberry Productions LTD.
-      url: strawberry
-      image: strawberry.jpg
-      description: "“This story is a work of fiction, or rather, this world, for the most part, is a work of fiction”
-
-      <br>- Aka Akasaka <br><br>
-
-Everyone in the world has their secrets—some more than others. Strawberry Productions LTD. (Abbreviated as StrawPro) is made up of a collection of these individuals, striving to reach the top of the entertainment industry. From actors to idols, from producers to scriptwriters, who will end up at the top and who will have all their secrets exposed?
-<br><br>
-Why do people lie? Is it to protect themselves? To make themselves feel better? Or is it to deceive others? To pass off as someone who they’re not? Perhaps the answers to these questions lie within the individual, however, one thing is for certain. Everyone lies. All in the name of success.
-<br><br>
-Step into this world of lies known as the entertainment industry, where everyone has a secret or two. Where these lies must never be found out or risk losing the support of the masses. Where each lie takes more lies to cover up, all for the purpose of earning money and getting jobs. All in the name of success.
-<br><br>
-Join us at Strawberry Productions LTD. We’re a group of these liars. We know you have your own lies but we won’t dig into it. Now, join us as we make you a star, someone who stands above everyone else. The one who lies the most. We’ll help you keep your lies, and we’ll protect you. All in the name of success.
-<br><br>
-So, are you with us? Good. Remember, if anyone finds out about these lies… So, let’s work together to keep these lies a secret, shall we?
-<br><br>
-All in the name of success."
-      director: TBD
-      role-type: Characters
+    - title: Neon Genesis Evangelion
+      url: Evangelion
+      image: evangelion.jpg
+      description: "/ TW: Death, Depression, Strong Religious Themes
+      <br><br>
+      “God’s in his heaven, all's right in the World.”
+      <br><br>
+      The year is 2015, 15 years after the Second Impact wiped out half the Earth’s population and changed its climate forever. Founded in its wake was NERV: an organization that developed the powerful biomechanical Evangelion units in order to defend humanity from the Angels—primordial beings antithetical to humanity and harbingers of a catastrophic Impact.
+      <br><br>
+      As NERV officials and stakeholders stationed in the fortress city of Tokyo-3, Delegates must fend off the returning threat of Angels or risk another cataclysm. Navigating this world-ending crisis will take creative battle plans and clever resource management—including the young, volatile Evangelion pilots—all while an “instrumental” conspiracy unfolds in the soul of NERV.
+      <br><br>
+      Forced to balance the existential threat of Angels with internal power struggles, political pressures, and the fragile psyche of the pilots; each and every delegate’s decisions will have their consequences under the looming threat of a Third Impact…"
       role-type-singular: Character
-      roles:
-        - name: <a class="bolded">Taishi Gotanda</a><br> Director
-        - name: <a class="bolded">Tetsu Urushibara</a><br> Director
-        - name: <a class="bolded">Chu2</a><br> Music Producer
-        - name: <a class="bolded">Masaya Kaburagi</a><br> Movie Producer
-        - name: <a class="bolded">Toshirou Kindaichi</a><br> Theater Producer
-        - name: <a class="bolded">Goa</a><br> Scriptwriter
-        - name: <a class="bolded">Kazuma Satou</a><br> Editor
-        - name: <a class="bolded">Subaru Natsuki</a><br> Editor
-        - name: <a class="bolded">Abiko Samejima</a><br> Author
-        - name: <a class="bolded">Sumiaki Raida</a><br> Event Coordinator/Producer
-        - name: <a class="bolded">Aqua Hoshino</a><br> Actor
-        - name: <a class="bolded">Ruby Hoshino</a><br> Idol
-        - name: <a class="bolded">Arima Kana</a><br> Actor
-        - name: <a class="bolded">Akane Kurokawa</a><br> Theater Actor
-        - name: <a class="bolded">Mem</a><br> Streamer
-        - name: <a class="bolded">Yukina Minato</a><br> Singer
-        - name: <a class="bolded">Sweet Macaron</a><br> Virtual Idol
-        - name: <a class="bolded">Yui</a><br> Singer
-        - name: <a class="bolded">Rie Takahashi</a><br> Voice Actor
-        - name: <a class="bolded">Bocchi</a><br> Musician
-        - name: <a class="bolded">Hatsune Miku</a><br> Vocaloid
-        - name: <a class="bolded">Ayase</a><br> Vocaloid/Music Producer
+    - title: "Lord of the Flies: Devise or Demise"
+      url: LOTF
+      image: lotf.jpg
+      description: "Which is better – to have laws and agree, or to hunt and kill?”
+      <br>
+      -Lord of the Flies 
+      <br><br>
+      After a plash crash, a group of miscellaneous characters across dystopias find themselves on an isolated island – liberated from all social order. A retelling of the classic “stranded on a deserted area” cliche, this “Lord of the Flies” committee interrogates what makes us human, and how we act when there are no rules. With all power up for grabs at the start of the committee, each delegate is free to pursue their goals – whether it be a social organization or complete chaos and violence."
+      role-type-singular: Character
       topics:
-        - title: "Topic A - The Competition"
-          desc: "Despite seeing initial success and having a strong lineup, StrawPro is a fairly new entry to the world of entertainment. The industry currently remains dominated by massive corporations such as Shinomiya Entertainment Corp, which utilize their vast scores of wealth in order to fund their activities. Sponsors are a viable option to fund activities on the scale of the corporations, and serve as an important lifeline for StrawPro. However, sponsors are limited so you must act fast in order to secure them. "
-        - title: "Topic B - The Projects"
-          desc: "The upper management of StrawPro has absolutely no idea what they’re doing. As such, it’s up to the members of StrawPro to decide on new projects for themselves. Full creative freedom has been granted to everyone, however, without the support of the rest of the members, it will be hard to achieve anything. Ranging from music to movies, the only limit to these projects is your creativity."
+        - title: "Topic A - Peter Piper Picked a Pecking Order"
+          desc: "Without a hierarchy, the group is doomed to descend into chaos; a lack of efficient allocation of food, water, and resources, will push many members of the group to instigate fights amongst each other. The question of government, and more essentially, who will be the leader, has become pressing and substantial. Someone needs to step up to the plate. Do you have what it takes to realize your goals?"
+        - title: "Topic B - Veni, Vidi, Vici"
+          desc: "Does anything last forever? Utopia on the island can be built over time, but maintaining it would be a different issue. Similarly, notions of a signal fire or building a raft must be consistently worked on to be plausible. Ultimately, the necessary question is if the group can create their own paradise, find their way back into society, or die trying."
 
-    - title: North Korean Crisis
-      url: NKCC
-      image: NKCC.jpg
-      description: "The North Korean Crisis Committee (NKCC), is a new committee being unveiled at TMUN 2024. This committee runs as a single topic crisis committee, simulating politics and political figures in North Korea. The NKCC follows a modified version of the Crisis Rules of Procedure; during voting, the Supreme leader has full deciding power. However, outside of voting, the NKCC rules of procedure match standard crisis rules of procedure. Moreover, the NKCC includes non-North Korea figures who have historically worked closely with North Korea. This includes, among many other countries, Chinese and Macanese, and South Korean figures."
-      director: TBD
-      role-type: Characters
+    - title: "Avatar the Last Airbender: Engulfed In Flames"
+      url: ATLA
+      image: ATLA.jpg
+      description: "The Air nomads were massacred. The Fire Nations' ruthless War to spread their prosperity commences and everyone is an enemy —Or is everyone? 
+      <br><br>
+      A violent war is declared and nations scramble to defend their livelihoods. The world is thrown into chaos and the very person responsible for maintaining their fragile balance has disappeared. What are the people to do without the avatar? How will they survive amidst a total war and defend against a ruthless enemy keen on a fascist takeover? Delegates, the fate of the world is in your hands. You must win the war at all costs, but not before yourselves. Will you become the worldwide saviour, or choose a different path?"
       role-type-singular: Character
-      roles:
-        - name: Kim Jong Un
-        - name: Jang Song-thaek
-        - name: Pak Thae-song
-        - name: Choe Ryong-hae
-        - name: Kim Yong-nam
-        - name: Ri Son-gwon
-        - name: Ri Man-gon
-        - name: Kim Yong-chol
-        - name: Kim Won-hong
-        - name: Ri Yong-gil
-        - name: Kim Jong-Chul
-        - name: Kim Yo Jong
-        - name: Stanley Ho
-        - name: Ma Xiaohong
-        - name: Sun Sidong
-        - name: Pak Jong-chon
-        - name: Kwek Kon Chun
-        - name: Cha Chol Ma
-        - name: Pael Min Gwang
       topics:
-        - title: "TOPIC A - The Death of Kim Jong Il"
-          desc: "The North Korean Crisis Committee (NKCC) is a single topic committee at TMUN 2024. This topic commences exactly at the time of Kim Jong Il’s death, on December 17th, 2011. With the recent death of his father, Kim Jong Un takes power, becoming the Supreme Leader of North Korea. His dominance, however, has not yet been established, and political figures within North Korea are all fighting for influence within the committee. Some may even consider trying to assassinate or overthrow the new leader, and it is up to the committee to decide the future of North Korea."
+        - title: "Topic A - Mine, Mine, Mine"
+          desc: "With the world government in panic, the expansion of the fire nation is unquestionable. Land borders are being redrawn, villages occupied, benders kidnapped and supplies taken. The fire nation is creeping upon every nation. Without across-world contact with other nations and struggling domestic populations, what can be done? Every nation left standing needs a plan, if unsuccessful, they will meet their fiery demise."
+        - title: "Topic B - Dangerous Heartbreak"
+          desc: "Morally grey spirits unhappy with the destruction of their tranquillity, what could go wrong? The answer? Anything and everything. Serving only themselves, they are a force beyond control and have the power to shift the tides of any situation. Delegates must tread carefully not to upset these spirits as they are unique beings. The question remains, how do delegates appease the spirits as war efforts continue, and prevent the spirits from unleashing additional chaos while on the quest to defeat the fire nation?"
 
-    - title: "Autumn of Nations: Romania 1989"
-      url: romania
-      image: romania.jpg
-      description: "The 1989 Romanian Revolution Committee is dedicated to examining a pivotal moment in history—the fall of the communist regime in Romania during the 'Autumn of Nations.' In 1989, Romania underwent a momentous shift with the downfall of Nicolae Ceaușescu's authoritarian regime. Delegates will play the roles of important figures in Romania at the time of the revolution, including leaders of the Securitate (the Security), the Party, and the revolution. This committee provides a unique opportunity for delegates to revisit a critical chapter in history when a nation's struggle for freedom and democracy reverberated across borders. Delegates will be able to collaborate to draft resolutions and policies that reflect the historical context and the aspirations of the Romanian people during this transformative era."
-      director: TBD
-      role-type: Characters
+    - title: "SCP: The Eschaton"
+      url: SCP
+      image: SCP.jpg
+      description: "The SCP Foundation is a secret organization that aims to secure anomalous objects, contain them, and study them to see what values they hold to benefit humanity. Contained anomalies or “SCPs” have Object Classes that indicate how hard they are to contain. There are three main classes, along with a couple of miscellaneous ones which won’t be mentioned. “Safe”, meaning the SCP is easy to contain. A simple box to contain the SCP would be an example of a Safe object class. “Euclid”, meaning the SCP is harder to contain, reasons for the difficulty of containment can be due to our lack of knowledge of the SCP, or just the simple fact that the SCP is a bit feisty. The most dangerous, “Keter”, takes extensive resources and planning to contain, often not containing them correctly due to the lack of understanding of the SCP. Some SCPs are so hard to contain in fact, that the SCP foundation simply can not, and some SCPs simply break containment. These SCPs will be the star of this committee, taking in the form of the topics delegates will need to discuss. In this committee, delegates will take the roles of scientists/various other roles with the highest clearance, allowing freedom to do whatever they so desire."
       role-type-singular: Character
-      roles:
-        - name: <a class="bolded">Elena Ceaușescu</a><br> Wife of Nicolae Ceaușescu
-        - name: <a class="bolded">Ion Iliescu</a><br> Leader of the National Salvation Front
-        - name: <a class="bolded">Petre Roman</a><br> Political Activist
-        - name: <a class="bolded">Nicolae Militaru</a><br> General
-        - name: <a class="bolded">Ion Ratiu</a><br> Politician
-        - name: <a class="bolded">Laszlow Tokes</a><br> Pastor & Political Activist
-        - name: <a class="bolded">Vasile Milea</a><br> Minister of Defense
-        - name: <a class="bolded">Sergiu Nicolaescu</a><br> Film Director
-        - name: <a class="bolded">Mircea Diaconu</a><br> Actor & Political Activist
-        - name: <a class="bolded">Ion Caramitru</a><br> Actor & Political Activist
-        - name: <a class="bolded">Victor Atanasie Stanculescu</a><br> General
-        - name: <a class="bolded">Ion Vincze</a><br> Politician
-        - name: <a class="bolded">Vladimir Colin</a><br> Author
-        - name: <a class="bolded">Florea Dumitrescu</a><br> Governor of the National Bank
-        - name: <a class="bolded">Corneliu Manescu</a><br> Ambassador & Political Activist
-        - name: <a class="bolded">Gabriel Andreescu</a><br> Political Activist
-        - name: <a class="bolded">Gheorghe Apostol</a><br> Politician
-        - name: <a class="bolded">Nicolae Plesita</a><br> Intelligence Officer
-        - name: <a class="bolded">Tudor Postelnicu</a><br> Interior Minister
-        - name: <a class="bolded">Traian Basescu</a><br> Politician
       topics:
-        - title: ""
-          desc: ""
-        - title: ""
-          desc: ""
+        - title: "That Wasn’t There Before: SCP-1730"
+          desc: "On ██/██/████, a mysterious site that has never been seen before appeared near Big Bend Ranch State Park in Texas, USA. Although in the story online, the SCP has been neutralised. In our timeline, this is not the case, and whatever lurks within continues to do so, with the survivors. To be clear, investigations have not yet been conducted, and mobile task forces have not been sent down yet. The way this SCP will be dealt with will be decided upon and discussed by the delegates."
+        - title: "The World Looks Red: SCP-354"
+          desc: "SCP 354 is a blood-red pool with a blood-like fluid inside, the pool is not biological in nature, but the anomalies emerging from the pool (mostly) are. 9 anomalies are still visible on the document, some notable ones are the following; SCP-354-1 is the first anomaly that emerged from the pool; it was a bat-like anomaly and was neutralized by a mobile task force. SCP-354-3 was a black metallic sphere like the Gravitals from C. M. Kosemen’s All Tomorrows. It emitted concentrated beams of radiation capable of crippling anyone and later killing them. SCP-354-3 was neutralized by a sledgehammer, exploding and causing minor damage to the site. SCP-354-6 was a man of Indian descent who emerged from the pool. Due to ongoing repairs going on at the site, the man was shot on sight. DNA tests later revealed that SCP-354-6 was an ordinary man. The appearance of these creatures (aside from SCP-354-6) can cause extreme damage and the repeated repairs will create a major hole in the foundation’s wallet. If SCP-354 is contained and resolved permanently, additional funding will be available for future projects."
+        - title: "Fall of Site 25: Containment Breach"
+          desc: "Although Site 25 may not exist before this passage was written, it exists now. Site 25 is a containment site located in British Columbia. Various SCPs were contained and researched there. Unfortunately, due to ██████ as well as ████████, various SCPs broke containment and are roaming the site. If action isn’t taken, various SCPs may exit the site, leaving their wrath behind. This fictional Site 25 will feature various popular SCPs of all classes as well as SCPs that may be of use to you delegates."
 
-    - title: Manhattan Project
-      url: manhattan
-      image: manhattan.jpg
-      description: "J. Robert Oppenheimer’s resolve to create the first atomic weapon has irrevocably altered the course of history. The successful “Trinity Test” detonation has unveiled concerns about the weapon’s catalytic potential. While some fear an impending arms race, others wholly support its development and use, a sentiment fueled by one goal: ending the war. As constituents of the Manhattan Project, delegates must weigh the benefits of nuclear science against its most blaring cost – the threat of mass destruction. Will the ends justify the means?"
-      director: TBD
-      role-type: Characters
-      role-type-singular: Character
-      roles:
-        - name: <a class="bolded">J. Robert Oppenheimer</a><br> Scientific Director
-        - name: <a class="bolded">General Leslie Groves</a><br> Military Director
-        - name: <a class="bolded">Niels Bohr</a><br> Danish Physicist
-        - name: <a class="bolded">Enrico Fermi</a><br> Italian Physicist
-        - name: <a class="bolded">Richard Feynman</a><br> American Physicist
-        - name: <a class="bolded">Hans Bethe</a><br> German-American Physicist
-        - name: <a class="bolded">Klaus Fuchs</a><br> German Physicist
-        - name: <a class="bolded">Ernest Lawrence</a><br> Cyclotron Inventor
-        - name: <a class="bolded">Emilio Segrè</a><br> Italian-American Physicist
-        - name: <a class="bolded">Edward Teller</a><br> Hungarian-American Physicist
-        - name: <a class="bolded">Leó Szilárd</a><br> Hungarian-American Physicist
-        - name: <a class="bolded">Vannevar Bush</a><br> Science Administrator
-        - name: <a class="bolded">Dorothy McKibbin</a><br> Administrative Assistant
-        - name: <a class="bolded">General Kenneth Nichols</a><br> Military Officer
-        - name: <a class="bolded">General Thomas Farrell</a><br> Logistics Officer
-        - name: <a class="bolded">Louis Slotin</a><br> Canadian Physicist
-        - name: <a class="bolded">Herbert L. Anderson</a><br> Physicist
-        - name: <a class="bolded">James Conant</a><br> American Chemist
-        - name: <a class="bolded">James Chadwick</a><br> British Physicist
-        - name: <a class="bolded">Robert Serber</a><br> American Theoretical Physicist
-        - name: <a class="bolded">Edward Condon</a><br> Physicist and Administrator
-        - name: <a class="bolded">Samuel Goudsmit</a><br> Dutch-American Physicist
-        - name: <a class="bolded">Elizabeth R. Friedman</a><br> Cryptanalyst
-      topics:
-        - title: "Topic A - Radioactive Contamination and Cleanup"
-          desc: "As the world stands on a precipice after the successful detonation of the Trinity Test, a new threat looms—radioactive fallout. All across New Mexico, air, water, and land have been immutably marked by atomic energy; leaving civilians vulnerable to radiation exposure. 
-Confronted with immediate and enduring repercussions of radioactive contamination, delegates are faced with a weighty responsibility: determining the perils to human health and the ecosystem. Amidst the unsettling possibility of intergenerational repercussions, such as adverse genetic diseases, the delicate equilibrium between public safety, secrecy, and ethical quandaries will be navigated. Delegates are inevitably tasked with the intricate challenge of determining the next course of action within the confines of the Manhattan Project."
-        - title: "Topic B - International Diplomacy and Legacy"
-          desc: "The introduction of nuclear weapons brings forth a concern of international relations as newfound geopolitical shifts, alliances, and rivalries are expected to ensue. Spanning from negotiations at the Potsdam Conference to the anticipated onset of the Cold War, delegates will negotiate the complexities of nuclear diplomacy, arms control, and disarmament. As the test’s detonation stands not only as a scientific milestone but also the beginning of a new atomic age, delegates must consider the enduring legacy of the Trinity Test on global politics and the inexorable march of the arms race. "
-
-    - title: International Press Corps
-      url: IPC
-      image: IPC.jpg
-      description: "Want to be a reporter for a day? Write a cover story of your own? The International Press Corps is there for just that!
-<br> <br>
-The International Press Corps (IPC) will function as a specialized committee that brings delegates out of debate and into writing, interviewing, and creating. Instead of the traditional Model United Nations experience, delegates will be able to interview, research, and write about happenings in other committees across TMUN. Participants will be taking on the role of various news agencies around the world instead of a specific country or individual. We invite our delegates not only to write pieces on the latest political scandals happening in real-time but also to create and distribute multimedia extensions of their journalism during the conference!
-<br> <br>
-<a class=\"bolded\" style=\"left: 50%; font-size:20px;\" href=\"https://ipc.tmun.ca\">IPC Website</a>
-<br><br>
-<b>Please note that a laptop/electronic device is necessary to participate in this committee.</b>
-
-"
-      director: TBD
-      role-type: Characters
-      role-type-singular: Character
-      roles:
-        - name: BBC News
-        - name: Al Jazeera
-        - name: Reuters
-        - name: Fox News
-        - name: CNN
-        - name: The Guardian
-        - name: Russia Today
-        - name: CBC
-        - name: The New York Times
-        - name: Euronews
-        - name: France 24
-        - name: The Japan Times
-        - name: South China Morning Post
-        - name: The Onion
-    - title: "Arcane: Red Dawn"
-      url: arcane
-      image: arcane.jpg
-      description: "After intense debate, Jayce Talis' proposal of Zaun's independence seems to have finally been accepted by council members, and peace is on the horizon for the Twin Cities once and for all. There finally seems to be hope.
-      <br> <br>
-      That is - until a rocket, fired by Jinx, destroyed the entire Council Palace right before the vote could pass.
-      <br> <br>
-      In the aftermath, all promises of peace seem to have vanished, replaced by intense animosity and a thirst for violence. Piltover and Zaun stand at a critical divide, separated by a rift of hatred far larger than ever before. Delegates are invited into the world of highly acclaimed show Arcane, free to weave their own story within its magical universe. With the uprising of issues from both past and present, will the cities be able to repair their relations and reestablish peace anew? Or are they doomed to the corruption, greed and war that has poisoned them for so long? 
-      <br> <br>
-      Prepare for chaos in TMUN's Arcane: Red Dawn crisis committee!
-      "
-      director: TBD
-      role-type: Characters
-      role-type-singular: Character
-      roles:
-        - name: <a class="bolded">Caitlyn Kiramman</a><br> Piltovan Detective
-        - name: <a class="bolded">Camille Ferros</a><br> Piltovan House Ferros Representative
-        - name: <a class="bolded">Jayce Talis</a><br> Piltovan Council Member
-        - name: <a class="bolded">Mel Medarda</a><br> Piltovan Council Member
-        - name: <a class="bolded">Vi</a><br> Twin-City Rebel
-        - name: <a class="bolded">Viktor</a><br> Zaunite Inventor
-        - name: <a class="bolded">Singed</a><br> Zaunite Scientist
-        - name: <a class="bolded">Sevika</a><br> Silco's Right Hand
-        - name: <a class="bolded">Corina Veraza</a><br> Zaunite Chembaron
-        - name: <a class="bolded">Renata Glasc</a><br> Zaunite Chembaron
-        - name: <a class="bolded">Ekko</a><br> Lead Firelight
-        - name: <a class="bolded">Heimerdinger</a><br> Friend of the Firelights
-        - name: <a class="bolded">Scar</a><br> Firelight Lieutenant
-        - name: <a class="bolded">Zeri</a><br> Firelight
-        - name: <a class="bolded">Scratch</a><br> Firelight
-        - name: <a class="bolded">Ambessa Medarda</a><br> Noxian Stateswoman
-        - name: <a class="bolded">Darius</a><br> Hand of Noxus
-        - name: <a class="bolded">Swain</a><br> Noxian Grand General
-        - name: <a class="bolded">Katarina Du Couteau</a><br> Noxian Ambassador
-        - name: <a class="bolded">Cassiopeia Du Couteau</a><br> Noxian Ambassador
-      topics:
-- header: Online Committees
+- header: Historial Crisis
   links: 
-  - title: United Earth Government Committee
-    url: united-earth
-    image: united-earth.jpg
-    description: "In the year 2044, a historic gathering took place known as the United Nations assembly. It marks a turning point in our journey, as humanity. At this juncture we face a crisis where our Sun, the source of life for thousands of years, is hurtling towards a cataclysmic supernova. To confront this catastrophe the United Nations has transformed into the United Earth Government (UEG) Committee entrusted with a mission called the Moving Mountain Project. The plan entails constructing ten thousand nuclear fusion engines that can propel Earth away from the Sun's expansion, and towards a distant star system that can support life. However time becomes our adversary in this committee... Delegates become guardians of humanity's survival. Transcend roles to shape our destiny. They encounter challenges encompassing complexities, logistical hurdles and profound ethical dilemmas.
-                  <br><br>
-                  Resource allocation, collaboration and ethical quandaries become tests for our values and determination. The urgency demands resolute action. The fate of humanity rests upon the shoulders of those who gather together for this endeavor. Together they embark on a journey filled with obstacles and moral dilemmas—a real race, against time itself. Be part of the United Earth Government Committee where every decision and action is defined by a sense of urgency driven by this mission. This is not just a simulation; it's a race, against the clock, where the fate of humanity hangs in the balance. Our determination as a collective is crucial to ensuring our survival in the reaches of the universe. Every second matters, and there's no time for hesitation.
-                  <br><br>
-                  Godspeed Delegates..."
-    director: TBD
-    role-type: Countries
-    role-type-singular: Country
-    roles:
-      - name: <a class="bolded">United States</a>
-      - name: <a class="bolded">China</a>
-      - name: <a class="bolded">Russia</a>
-      - name: <a class="bolded">India</a>
-      - name: <a class="bolded">United Kingdom</a>
-      - name: <a class="bolded">France</a>
-      - name: <a class="bolded">Germany</a>
-      - name: <a class="bolded">Brazil</a>
-      - name: <a class="bolded">Japan</a>
-      - name: <a class="bolded">South Africa</a>
-      - name: <a class="bolded">Canada</a>
-      - name: <a class="bolded">Australia</a>
-      - name: <a class="bolded">Mexico</a>
-      - name: <a class="bolded">South Korea</a>
-      - name: <a class="bolded">Indonesia</a>
-      - name: <a class="bolded">Italy</a>
-      - name: <a class="bolded">Spain</a>
-      - name: <a class="bolded">Sweden</a>
+  - title: 1930 New York Underworld
+    url: NY
+    image: NY.jpg
+    description: "The 1930 New York Underworld is a committee of prominent crime bosses, mobsters, hitmen, moles, and corrupt public figures working toward their respective interests. Broadly, the congregation serves as a platform to forge alliances and create consensus or compromise on critical issues afflicting the criminal society. However, the matter of who to trust is a precarious task with betrayals, blackmail, and bribery rampant. Meanwhile, Long-neglected tensions internal and external to gangs threaten to start the most bloody conflict the New York streets have hitherto seen. Will accord be found? If not, who will be found left standing?"
+    role-type-singular: Character
     topics:
-      - title: "Topic A - The Solar Crisis"
-        desc: "In the year 2044, a historic gathering took place known as the United Nations assembly. It marks a turning point in our journey, as humanity. At this juncture we face a crisis where our Sun, the source of life for thousands of years, is hurtling towards a cataclysmic supernova. To confront this catastrophe the United Nations has transformed into the United Earth Government (UEG) Committee entrusted with a mission called the Moving Mountain Project. The plan entails constructing ten thousand nuclear fusion engines that can propel Earth away from the Sun's expansion, and towards a distant star system that can support life. However time becomes our adversary in this committee... Delegates become guardians of humanity's survival. Transcend roles to shape our destiny. They encounter challenges encompassing complexities, logistical hurdles and profound ethical dilemmas.
-               <br><br>
-               Resource allocation, collaboration and ethical quandaries become tests for our values and determination. The urgency demands resolute action. The fate of humanity rests upon the shoulders of those who gather together for this endeavor. Together they embark on a journey filled with obstacles and moral dilemmas—a real race, against time itself. Be part of the United Earth Government Committee where every decision and action is defined by a sense of urgency driven by this mission. This is not just a simulation; it's a race, against the clock, where the fate of humanity hangs in the balance. Our determination as a collective is crucial to ensuring our survival in the reaches of the universe. Every second matters, and there's no time for hesitation."
+      - title: "Topic A - Castellamarese War"
+        desc: "Reina is dead, and his men are now Maranzano’s. Masseria, once the undisputed king of the New York Underworld, is seeing the beginning of his empire’s crumble at the hands of a rising challenger: Salvatore Maranzano. More defections will be coming if Masseria doesn’t take action immediately, but is pulling out all his guns and allies the select move? And who is he sure will fight for him? For Maranzano? Increasing dissent among mobsters, especially the newer ‘Young Turks,’ along with power-hungry rival criminal organizations could mean a multi-faceted war which anybody could emerge victorious from."
+      - title: "Topic B - Role of External Actors"
+        desc: "Anything can be done in the New York Underworld, as long as the right price is paid. Unfortunately, the onslaught of the Great Depression has left businesses struggling and the large gangs who extort them unable to fund their traditional third-party bribes for allyship, protections, and… special favours. At the same time, a bloody war is an open window of opportunity for any ambitious mobster, hitman, corrupt public figure, or even defecting mole to get their hands dirty. Whoever they are, their power is not something unnoticed by Masseria and Maranzano’s gangs. The question is what the committee decides is appropriate for them to interfere in… and whether they listen."
 
-  - title: "Atlantis"
-    url: atlantis
-    image: atlantis.jpg
-    description: "When an asteroid hit the bottom of the seafloor near Africa in 2023, life on Earth was forever changed. A new world was formed, a world where the earth is completely submerged underwater. There is only one small piece of remaining land, which humanity has decided to call “Atlantis”. Most technology developed in the last few decades has sunk underwater. Food supplies are limited as agriculture has mostly died out or sunk underwater—even fish are dying out due to poisoning from nuclear wastewater, caused by the explosion of hundreds of nuclear power plants. The internet is almost completely gone, and the world as humanity knew it has ended. Worst of all, tension is brewing among the four remaining nations on Earth, and if nothing is done, it will lead to a great conflict over the scraps of what remains of the human race."
-    director: TBD
-    role-type: 
-    role-type-singular: 
-    roles:
-      - name:
+  - title: "The Royal Family: Death of Diana"
+    url: Diana
+    image: Diana.jpg
+    description: "The year is 1997. A perfect fairytale has turned awry as the princess captures the world's heart. The most powerful - and dysfunctional - family in the world has found themselves losing the favour of their own people... And the judging eyes of millions are hyper focused on every slip up they make.
+    <br><br>
+    Pressure is bubbling under the surface, and in a matter of moments, it boils over.
+    <br><br>
+    Princess Diana has tragically passed away, leaving the world in intense grief. While a stiff upper lip must be maintained under the public’s sharp gaze, behind closed doors the Windsor's are still reeling from the shock of her death. Pressure continues to build from all sides as the Family & their staff must navigate this ever-changing landscape… and when pressure builds, sometimes the only thing left to do is turn on one another"
+    role-type-singular: Character
     topics:
-      - title: ""
-        desc: ""
+      - title: "Topic A: Public perception"
+        desc: "The Royal Family has found itself immensely unpopular with the public after their seemingly cold response to the death of Diana. The media are taking every opportunity possible to push their way into the palace walls. With all this negative attention compounding, the public is beginning to question more than ever before: do the people at the forefront of the most powerful Monarchy in the entire world even deserve to be there?"
+      - title: "Topic B: Change Within the Family"
+        desc: "When pressure builds from the outside in, it will naturally build from the inside out. Blame is being thrown around to every member of the Royal Family and their staff as panic begins to set in. What has always defined the Royals has been the aura of mystery that seems to surround them… but now, the public is demanding something far more difficult to provide: vulnerability. You must decide if the family will stick with tradition and risk being viewed as cold, or change with the times and risk being viewed as human, something that could prove to be far more dangerous."
 
-  
-  
+  - title: "1775: The Dawn of Revolution"
+    url: Revolution
+    image: revolution.jpg
+    description: "The battle of Lexington and Concord on April 19, 1775, sparked the start of a revolution that will change the course of American history. What began as a mission by British forces to seize colonial weapon stockpiles quickly escalated into open conflict, as colonial militias, enraged by years of taxation without representation and growing British oppression, stood their ground. The first shots were fired, and what was a growing political dispute erupted into the start of the American Revolutionary War.
+    <br><br>
+    The American colonies now face a pivotal moment: will they unite for independence or reconcile with the British Crown? King George III views the colonies as a threat to his order and has sent forces to crush the resistance, while the Continental Congress debates its next move—diplomacy, war, or full independence. In this committee, you'll step into 1775 as Colonial leaders, navigating alliances, strategy, and key decisions that will shape the American Revolution. Will you broker for peace, push for war, or fight for independence?
+    <br>
+    History is watching—are you ready to take command?"
+    role-type-singular: Character
+    topics:
+      - title: "Topic A - Reconciliation"
+        desc: "As tensions rise following the battle of Lexington and Concord, the Continental Congress is divided. Some believe that war with Britain can and should be avoided, advocating for a diplomatic approach to address issues while still being loyal to the Crown. Although reconciliation is the more measured path to avoid the uncertainty and consequences of war, will negotiation be enough to address the colonies’ problems?"
+      - title: "Topic B - Independence"
+        desc: "After years of conflict with Britain, the call for independence gains momentum. Colonial leaders increasingly view full separation from the British Crown as the only path to obtaining their rights and autonomy. Advocates argue that the colonies must break free to establish their own government and avoid further oppression. This shift raises questions: Are the colonies prepared to face the challenges that come with war? As the prospect of independence looms, congress faces critical decisions about organizing a unified government."
+
+  - title: "Poland 1918: Rebuilding the Polish Republic"
+    url: Poland
+    image: poland.jpg
+    description: "Following the First World War, Eastern Europe was, to put it mildly, launched into a bloody power vacuum. The fall of the Russian, Austrian and German empires, as well as the Wilsonian idea of self-determination, led nationalists across the region to proclaim their own states. Yet few of these states would be as ambitious or as consequential as the Second Polish Republic.
+    <br><br>
+    During this committee, delegates will take on the role of Polish politicians, government officials, and military officers as they work together to establish Poland’s borders and decide its future. Their primary objective will be to ensure the creation of a strong Polish state with borders as close as possible to those of the Polish-Lithuanian Commonwealth. Meanwhile, the secondary objective of delegates would be to ensure that this Polish state conforms to their character’s ideology."
+    role-type-singular: Character
+    topics:
+      - title: "Topic A - Establishing Poland’s Borders"
+        desc: "Poland once ruled a great empire, spanning from the Black Sea to the Baltic.  Although much of this territory is not inhabited by ethnic Poles, Polish minorities are scattered throughout the region. Some politicians dream of restoring Poland to its former sized, while others decry this as unrealistic. From its base in Warsaw, the Polish government must decide how much land they wish to claim. Will you abandon your countrymen, or will you risk the entire nation to include them?"
+      - title: "Topic B - Shaping Poland’s Government"
+        desc: "The old Poland was an elective monarchy dominated by the powerful magnates. This form of government means that the country has no ruling dynasty to return to the country and claim its throne. Already, Joseph Piłsudski, the most powerful man in Poland, has declared Poland to be a republic. However, the form of this republic remains to be established. Some argue that a strongman would best rule Poland. Meanwhile others believe that they should be built on liberal Western principles, such as those of England. Finally, a minority of Poles look east and take inspiration from Lenin’s revolution. On top of this already  confusing situation is the status of the country’s ethnic minorities. In 1918, Eastern Europe is the opposite of ethnically homogeneous. Any Polish state would incorporate large numbers of Ukrainians, Germans, Jews, Lithuanians, etc.  There remain a variety of opinions regarding what privileges and rights these groups should be given. What path will you take in the treacherous political waters of Poland?"
+
+  - title: "Boeing Board of Directors"
+    url: Boeing
+    image: boeing.jpg
+    description: "\"If it ain't Boeing, I ain't going\"
+    <br><br>
+    There was once a time when The Boeing Company held a reputation so strong that this saying became common among loyal flyers. It was the pioneering force in the aviation industry, shaping the very future of flight with its groundbreaking engineering. However, today, the company finds itself in an exceedingly different place. Following two fatal crashes of its 737 MAX aircraft killing hundreds, Boeing is under sharp criticism from the U.S. Federal Aviation Administration, Congress, pilot and airline unions, and its shareholders. As members of the company’s Board of Directors, you are tasked with attempting to pull Boeing out of its current scandal to minimize financial losses and damage to its reputation. If successful, you could restore the confidence that once made Boeing a symbol of safety and glorious innovation in aviation."
+    role-type-singular: Character
+    topics:
+      - title: "Topic A - Safety Failures"
+        desc: "When Lion Air Flight 610, a B737 MAX-8 aircraft crashed into the Java Sea in October of 2018, it was the deadliest air accident involving all variants of the Boeing 737. Just a few months later, Ethiopian Airlines Flight 302, operated by the same aircraft, crashed six minutes after takeoff. Following these two crashes, intense turmoil was sparked on a global scale. Boeing's safety practices and regulatory oversight were consequently put into severe question. You, delegates,  must determine and address the root causes of these crashes as well as their repercussions on the broader airline industry. You must determine which parties are to blame and make instrumental decisions that will forever shape the future of The Boeing Company."
+      - title: "Topic B - Company Growth"
+        desc: "Historically, Boeing and Airbus, a European planemaker, have been engaged in a dynamic and competitive duopoly in the aerospace industry. Recent setbacks Boeing has had to face, namely the current scandal have aggressively hindered its ability to compete effectively with Airbus. Capitalizing on these complications, Airbus has seen a notable increase in market share, with bolstered sales of its own aircrafts. To ensure the long-term survival and prosperity of The Boeing Company, delegates must not only address its current scandal but also implement a strategy to effectively counter Airbus’ competitive advances to reclaim Boeing’s position as the leader in the industry."
+
+- header: Special
+  links: 
+    - title: Ad-Hoc
+      url: adhoc
+      image: UNHRC.jpg
+      description: "Coming soon"
+      role-type-singular: Character
+
+    - title: ESL General Assembly
+      url: ESL
+      image: UNHRC.jpg
+      description: "Coming soon"
+      role-type-singular: Character
