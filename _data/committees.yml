@@ -204,8 +204,13 @@
       description: "Coming soon"
       role-type-singular: Character
 
-    - title: ESL General Assembly
+    - title: "ESL Committee: Food and Agriculture Organization"
       url: ESL
-      image: UNHRC.jpg
-      description: "Topics TBD"
+      image: ESL.jpg
+      description: "Description Coming Soon!"
+      topics:
+        - title: "Topic A - Combating Food Insecurity in Developing Nations"
+          desc: ""
+        - title: "Topic B - Improving Ethical Livestock Management Practices"
+          desc: ""
       role-type-singular: Character

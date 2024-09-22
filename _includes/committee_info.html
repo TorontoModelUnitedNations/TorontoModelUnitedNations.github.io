@@ -45,10 +45,11 @@
             {% if link.to-404 %}
             {% else %}
             <div class="event">
+                {% if link.description %}
                 <h2 style="text-align: center;padding-bottom: 10px;padding-top: 10px;font-size: 30px">Committee Description</h2>
 
                 <p>{{link.description}}<p>
-                
+                {% endif %}
                 {% if link.topics %}
                 <div id="contact" style="padding-bottom: 45px; padding-top: 35px; margin-top: 50px; width: 100vw; margin-left: calc(-50vw + 50%); background-color: #00283C;">
                     <div class="container">
