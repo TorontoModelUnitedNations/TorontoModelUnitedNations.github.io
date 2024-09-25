@@ -202,7 +202,7 @@
       to-404: ""
       image: UNHRC.jpg
       description: "Coming soon"
-      role-type-singular: Character
+      role-type-singular: Country
 
     - title: "ESL Committee: Food and Agriculture Organization"
       url: ESL
@@ -213,4 +213,4 @@
           desc: "Food insecurity remains a challenge that most developing nations are facing, where millions of people are continuously suffering from hunger and malnutrition problems due to poverty, climate change, conflict, and poor agricultural infrastructure. This topic will try to engage in how international cooperation can solve food insecurity at its root causes. In this case, it will bring about the use of sustainable agricultural methods, equitable distribution of food, and recognition of policies that enhance access to resources, technology, and education. The aim will be the creation of comprehensive solutions that will deliver urgent relief but at the same time build resilience against hunger in the longer term in the most vulnerable regions."
         - title: "Topic B - Improving Ethical Livestock Management Practices"
           desc: "Ethical livestock management is crucial for ensuring animal welfare, sustainability, and economic viability. As global meat production continues to rise, delegates must consider the ethical implications of sustainable agricultural practices. The FAO committee will address several issues within the livestock management industry, including the environmental impacts, inhumane treatment, and challenges within industrialization. While considering the economic value of the current livestock interphase, this topic will delve into the dilemma of whether profitable margins overrule animal welfare. Overall, delegates will address the ethical principles and moral responsibilities in livestock management."
-      role-type-singular: Character
+      role-type-singular: Country
