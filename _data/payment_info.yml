@@ -1,6 +1,10 @@
 # - title: Payment Information
 #   info: "Delegates will be able to pay for TMUN 2025 directly through our registration form. If you would like to use an alternative payment method, please do not hesitate to reach out to us at <a href=mailto:delegateaffairs@tmun.ca target='_blank'>delegateaffairs@tmun.ca</a>"
 
+- title: Credit Card/Debit Card
+  info: Secure online payment using Stripe.
+
+
 - title: Cheque
   info: Cheques must be mailed to TMUN by March 5th, 2025. Cheques should be addressed to Toronto Model United Nations, not any acronym. In the event that a cheque cannot be deposited due to incorrect formatting, delegations may have their registration withdrawn.
 
