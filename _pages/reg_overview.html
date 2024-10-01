@@ -10,7 +10,7 @@ headsection: registration_section.html
 <!-- Event snippet for Website traffic conversion page --> <script> gtag('event', 'conversion', {'send_to': 'AW-10975379104/3v4oCL3b5dkDEKD9u_Eo'}); </script>
 
 <div class="event">
-    <h2 style="text-align: center;padding-bottom: 10px;font-size: 30px">Registration Prices & Info</h2>
+    <h2 style="text-align: center;padding-bottom: 10px;font-size: 30px">Registration Prices & Info (Taxes Included)</h2>
     <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">
         <thead>
             <tr>
@@ -28,6 +28,23 @@ headsection: registration_section.html
             </tr> 
         {% endfor %}
     </table>
+
+    <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">
+        <thead>
+            <tr>
+                <th class="row-1 agenda-time" style = "width: 40%"><center>Type</center></th>
+                <th class="row-1 agenda-activity" style = "width: 30%"><center>Price</center></th>  
+            </tr>
+        </thead>
+
+        {% for type in site.data.other_prices %}
+            <tr style="height: 60px">
+                <td>{{ type.type }}</td>
+                <td style="text-align: center;vertical-align: middle;">{{ type.price }}</td>
+            </tr> 
+        {% endfor %}
+    </table>
+
     <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">
         <thead>
             <tr>
@@ -42,6 +59,13 @@ headsection: registration_section.html
                 <td>{{ type.info }}</td>
             </tr> 
         {% endfor %}
+
+        {% for type in site.data.other_prices %}
+        <tr style="height: 60px">
+            <td>{{ type.type }}</td>
+            <td>{{ type.info }}</td>
+        </tr> 
+    {% endfor %}
     </table>
     <table class="agenda" style="table-layout: fixed;height: 50px;overflow: hidden;margin-bottom: 50px">
         <thead>
@@ -59,9 +83,9 @@ headsection: registration_section.html
         {% endfor %}
     </table>
   <p>
-    To attend TMUN 2025, delegates must register through the registration forms above. All delegates who register for TMUN will be provided with access to all conference events, and standard delegates will be provided with a two nights stay at the Sheraton Centre Toronto Hotel, located in downtown Toronto. For more information on our venue, please visit this <a href=/venue>page</a>. Delegates will also be provided with all necessary conference materials excluding a laptop, and are not required to bring any materials of their own.<br><br>
+    To attend TMUN 2025, delegates must register through the registration forms above. All delegates who register for TMUN will be provided with access to all conference events, and standard delegates will be provided with a two nights stay at the Sheraton Centre Toronto Hotel, located in downtown Toronto. For more information on our venue, please visit this <a href=/venue>page</a>. Delegates will also be provided with all necessary conference materials excluding a device, and are not required to bring any materials of their own.<br><br>
 
-    Registration is open to all high school students, including students who do not live in Toronto. If you require support in attaining a visa, please check out this section.<br><br>
+    Registration is open to all high school students, including students who do not live in Toronto. If you require support in attaining a visa, please scroll down for more information.<br><br>
 
     {% for subheading in site.data.registration_information %}
       <p style="font-size: x-large; text-align: left; white-space: pre-wrap;"><b>{{ subheading.title }}</b><br><p>
