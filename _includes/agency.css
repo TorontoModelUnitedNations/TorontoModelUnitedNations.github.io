@@ -181,7 +181,7 @@ fieldset[disabled] .btn-primary.active {
     }
 }
 
-@media (min-width : 900px) {
+@media (min-width : 962px) {
     .registration-button-container {
         padding-bottom: 80px !important;
         padding-top: 50px !important;
