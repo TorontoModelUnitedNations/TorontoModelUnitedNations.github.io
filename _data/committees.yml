@@ -8,8 +8,75 @@
       url: UNODC
       image: UNODC.jpg
       role-type-singular: Country
+      role-type: Countries
       description: "The United Nations Office on Drugs and Crime is a UN branch that works towards international peace and security. Its purpose is to intercept crimes such as terrorism, human trafficking, and drug trafficking. In this case, for this committee, delegates will be focusing on comprehending issues regarding cybercrime, by exploring different offences that arise from technologies. As the digital world continues to grow each day, it becomes more and more imperative for effective resolutions to be reached to minimize the amount of cybercriminals, and their misconduct on the internet."
       director: TBD
+      roles:
+        - name: Albania
+        - name: Algeria
+        - name: Angola
+        - name: Argentina
+        - name: Australia
+        - name: Austria
+        - name: Belgium
+        - name: Botswana
+        - name: Brazil
+        - name: Bulgaria
+        - name: Canada
+        - name: China
+        - name: Colombia
+        - name: Cuba
+        - name: Democratic Republic of the Congo
+        - name: Denmark
+        - name: Egypt
+        - name: El Salvador
+        - name: Eritrea
+        - name: Ethiopia
+        - name: Finland
+        - name: France
+        - name: Georgia
+        - name: Ghana
+        - name: Greece
+        - name: Guatemala
+        - name: India
+        - name: Iran (Islamic Republic of)
+        - name: Iraq
+        - name: Ireland
+        - name: Italy
+        - name: Jordan
+        - name: Kazakhstan
+        - name: Kyrgyzstan
+        - name: Madagascar
+        - name: Malawi
+        - name: Morocco
+        - name: Netherlands (Kingdom of the)
+        - name: New Zealand
+        - name: Nigeria
+        - name: Norway
+        - name: Pakistan
+        - name: Paraguay
+        - name: Philippines
+        - name: Poland
+        - name: Republic of Korea
+        - name: Romania
+        - name: Russian Federation
+        - name: Sao Tome and Principe
+        - name: Sierra Leone
+        - name: Somalia
+        - name: Spain
+        - name: Sudan
+        - name: Sweden
+        - name: Switzerland
+        - name: Thailand
+        - name: Tunisia
+        - name: Türkiye
+        - name: Tuvalu
+        - name: Ukraine
+        - name: United Arab Emirates
+        - name: United Kingdom of Great Britain and Northern Ireland
+        - name: United States of America
+        - name: Venezuela, Bolivarian Republic of
+        - name: Zimbabwe
       topics:
         - title: "Topic A - Cryptocurrencies"
           desc: "After the Great Recession of 2008, the infamous cryptocurrency, Bitcoin, came into existence to provide individuals with a decentralized currency. This was created to be a tool to protect people’s finances, and privacy, by removing the control of governments and banks; thus the concept that led to the birth of thousands of other cryptocurrencies since then. Unfortunately, the pseudonymous nature of cryptocurrencies, a component intended to protect privacy, has also been exploited by criminals. Issues like money laundering, sanction evasion, and embezzlement have started to plague the world as a result. On a positive note, cryptocurrencies are also being used as a tool for developing nations to improve their economies. For this topic, delegates must understand the mechanics of cryptocurrencies to develop comprehensive approaches to address various unlawful activities associated with them. At the same time, delegates must also recognize the potential benefits of these currencies for the greater good."
@@ -21,6 +88,79 @@
       image: UNICEF.jpg
       description: "The United Nations International Children’s Emergency Fund, also known as UNICEF, is a United Nations committee that provides humanitarian aid to countless children worldwide. UNICEF was first established in 1946 to provide emergent care to children and mothers devastated by World War II and has continued to make various efforts since then to fight for children’s rights, lives, safety, and health. As a committee, UNICEF’s mission is to ensure that all children worldwide grow up healthy, educated, and most importantly safely. Today, UNICEF provides a better future for disadvantaged children across over 190 countries, symbolizing hope for many globally."
       role-type-singular: Country
+      role-type: Countries
+      roles:
+        - name: Afghanistan
+        - name: Argentina
+        - name: Australia
+        - name: Bangladesh
+        - name: Barbados
+        - name: Belarus
+        - name: Belgium
+        - name: Brazil
+        - name: Burkina Faso
+        - name: Cambodia
+        - name: Cameroon
+        - name: Canada
+        - name: China
+        - name: Colombia
+        - name: Costa Rica
+        - name: Czechia
+        - name: Democratic People’s Republic of Korea
+        - name: Democratic Republic of the Congo
+        - name: Denmark
+        - name: Dominica
+        - name: El Salvador
+        - name: Eswatini
+        - name: Ethiopia
+        - name: Finland
+        - name: France
+        - name: Germany
+        - name: Ghana
+        - name: Guatemala
+        - name: Haiti
+        - name: Honduras
+        - name: India
+        - name: Indonesia
+        - name: Iran
+        - name: Ireland
+        - name: Italy
+        - name: Japan
+        - name: Jordan
+        - name: Luxembourg
+        - name: Malaysia
+        - name: Mexico
+        - name: Morroco
+        - name: Mozambique
+        - name: Netherlands
+        - name: New Zealand
+        - name: Nicaragua
+        - name: Niger
+        - name: Nigeria
+        - name: Pakistan
+        - name: Peru
+        - name: Philipines
+        - name: Poland
+        - name: Qatar
+        - name: Republic of Korea
+        - name: Russian Federation
+        - name: Rwanda
+        - name: Saudi Arabia
+        - name: Singapore
+        - name: Somalia
+        - name: Spain
+        - name: Sudan
+        - name: Switzerland
+        - name: Thailand
+        - name: Turkmenistan
+        - name: Uganda
+        - name: Ukraine
+        - name: United Kingdom
+        - name: United States of America
+        - name: Vietnam
+        - name: Yemen
+        - name: Zimbabwe
+ 
       topics:
         - title: "Topic A - Mandating vaccination for children"
           desc: "As accessible international mobility continues to strengthen, viruses and diseases spread at revolutionary rates. The UNICEF committee will especially focus on maintaining the balance of public health and individual rights within child welfare. As an advocate for children on the world stage, it is up to delegates to determine the proper proactive response with regard to parental/individual rights, financial strain on nations, ethical implementation, as well as many other morally ambiguous factors playing into this issue."
@@ -32,6 +172,74 @@
       image: UNHRC.jpg
       description: "The United Nations Human Rights Council, also known as the UNHRC, was established by the General Assembly of the United Nations in 2006 and is dedicated to protecting human rights around the world, addressing violations of human rights, and establishing recommendations on how to resolve them. Comprising member states committed to upholding the principles established in the Universal Declaration of Human Rights, the UNHRC serves as a platform for open dialogue, critical discourse, and collaborative action on pressing human rights issues."
       role-type-singular: Country
+      role-type: Countries
+      roles:
+       - name: United States
+       - name: Canada
+       - name: Mexico
+       - name: Cuba
+       - name: Jamaica
+       - name: Brazil
+       - name: Argentina
+       - name: Chile
+       - name: Venezuela
+       - name: Colombia
+       - name: Bolivia
+       - name: United Kingdom
+       - name: France
+       - name: Germany
+       - name: Switzerland
+       - name: Sweden
+       - name: Spain
+       - name: Italy
+       - name: Greece
+       - name: Poland
+       - name: Hungary
+       - name: Russia
+       - name: Netherlands
+       - name: Belgium
+       - name: Ukraine
+       - name: South Africa
+       - name: Nigeria
+       - name: Kenya
+       - name: Egypt
+       - name: Ethiopia
+       - name: Ghana
+       - name: Morocco
+       - name: Uganda
+       - name: Senegal
+       - name: Sudan
+       - name: Democratic Republic of Congo
+       - name: India
+       - name: China
+       - name: Japan
+       - name: South Korea
+       - name: Indonesia
+       - name: Pakistan
+       - name: Bangladesh
+       - name: Thailand
+       - name: Vietnam
+       - name: Philippines
+       - name: Malaysia
+       - name: Sri Lanka
+       - name: Saudi Arabia
+       - name: Israel
+       - name: Iran
+       - name: Turkey
+       - name: United Arab Emirates
+       - name: Iraq
+       - name: Lebanon
+       - name: Australia
+       - name: New Zealand
+       - name: Kazakhstan
+       - name: Armenia
+       - name: Azerbaijan
+       - name: Belarus
+       - name: Haiti
+       - name: Dominican Republic
+       - name: Guatemala
+       - name: Costa Rica
+
       topics:
         - title: "Topic A - Implementation of a Weighted Voting System Globally"
           desc: "Voting is one of the basic human rights which can't be denied to every human being, but in a few countries voting rights are denied for a few reasons mainly for Criminal Records. This is implemented in a few countries to prevent criminals from voting for the wrong leader of the country. The same goes for weighted voting systems where an individual's vote will count less the older they get in order to give way to the young individuals to choose the right leader to sustain the current period of time and in the future where the young individuals are the ones going to experience under a government in the long term."
@@ -45,6 +253,64 @@
       <br><br>
       With its core values in freedom, justice, equality, and African unity, the AU aims to bring peace, security, stability, and democratic governance while working toward sustainable development and global representation for Africa."
       role-type-singular: Country
+      role-type: Countries
+      roles:
+        - name: Algeria
+        - name: Angola
+        - name: Benin
+        - name: Botswana
+        - name: Burkina Faso
+        - name: Burundi
+        - name: Cameroon
+        - name: Cape Verde
+        - name: Central African Republic
+        - name: Chad
+        - name: Comoros
+        - name: Republic of the Congo
+        - name: Democratic Republic of the Congo
+        - name: Djibouti
+        - name: Egypt
+        - name: Equatorial Guinea
+        - name: Eritrea
+        - name: Eswatini
+        - name: Ethiopia
+        - name: Gabon
+        - name: Gambia
+        - name: Ghana
+        - name: Guinea
+        - name: Guinea-Bissau
+        - name: Ivory Coast
+        - name: Kenya
+        - name: Lesotho
+        - name: Liberia
+        - name: Libya
+        - name: Madagascar
+        - name: Malawi
+        - name: Mali
+        - name: Mauritania
+        - name: Mauritius
+        - name: Morocco
+        - name: Mozambique
+        - name: Namibia
+        - name: Niger
+        - name: Nigeria
+        - name: Rwanda
+        - name: Sahrawi Arab Democratic Republic
+        - name: São Tomé and Príncipe
+        - name: Senegal
+        - name: Seychelles
+        - name: Sierra Leone
+        - name: Somalia
+        - name: South Africa
+        - name: South Sudan
+        - name: Sudan
+        - name: Tanzania
+        - name: Togo
+        - name: Tunisia
+        - name: Uganda
+        - name: Zambia
+        - name: Zimbabwe
+ 
       topics:
         - title: "Topic A - Combating Political Instability in the Sahel"
           desc: "The Sahel region has become a hotspot for political instability, with countries like Mali, Niger, and Burkina Faso experiencing military coups in recent years. The situation has gotten worse as a result of insurgent organizations like ISIS and al-Qaeda taking advantage of the weaknesses in the area. The stabilizing effects of international military deployments meant to counter these radical threats have not always materialized. Some contend that these interventions strengthen military regimes, weakening democratic governments and creating instability in Africa.
@@ -66,6 +332,30 @@
       <br><br>
       In this committee, delegates will play the role of Agents, tasked with maintaining order in the Matrix. You will have to investigate this disturbance, and answer the question: Is this just a routine resistance activity, or is this part of a larger conspiracy?"
       role-type-singular: Character
+      role-type: Characters
+      roles:
+        - name: Agent Anning
+        - name: Agent Braun
+        - name: Agent Chadwick
+        - name: Agent Darwin
+        - name: Agent Edison
+        - name: Agent Franklin
+        - name: Agent Goodall
+        - name: Agent Herschel
+        - name: Agent Jenner
+        - name: Agent Kelvin
+        - name: Agent Linnaeus
+        - name: Agent Mendel
+        - name: Agent Nobel
+        - name: Agent Ostwald
+        - name: Agent Pascal
+        - name: Agent Ross
+        - name: Agent Stevens
+        - name: Agent Thomson
+        - name: Agent Urey
+        - name: Agent Volta
+        - name: Agent Wallace
+
       topics:
         - title: "Topic A - Humanity’s Ignorance"
           desc: "Denial is the most predictable of all human responses. Every passing day, this disturbance becomes more dangerous, and the number of humans denying the Matrix grows. With the entire world at stake, how you choose to approach this disturbance will define history for centuries to come. So the question becomes, what will you do about this? Or better yet, what can you do about this?"
@@ -85,6 +375,29 @@
       <br><br>
       Forced to balance the existential threat of Angels with internal power struggles, political pressures, and the fragile psyche of the pilots; each and every delegate’s decisions will have their consequences under the looming threat of a Third Impact…"
       role-type-singular: Character
+      role-type: Characters
+      roles:
+        - name: <a class="bolded">Kozo Fuyutsuki</a><br>Deputy Commander
+        - name: <a class="bolded">Capt. Misato Katsuragi</a><br>Operations Director
+        - name: <a class="bolded">Hitomi Amagi</a><br>Director of Training Operations
+        - name: <a class="bolded">First Lt. Makoto Hyuga</a><br>Primary Bridge Technician
+        - name: <a class="bolded">Michitaka Takaenoki</a><br>Senior Researcher of the Metaphysical
+        - name: <a class="bolded">Ryu Murakami</a><br>Director of Civil Affair
+        - name: <a class="bolded">Ritsuko Akagi</a><br>Lead Developer of The MAGI
+        - name: <a class="bolded">Satsuki Oi</a><br>Head Technician of CASPER
+        - name: <a class="bolded">Aoi Mogami</a><br>Head Technician of MELCHOIR
+        - name: <a class="bolded">Kaede Agano</a><br>Head Technician of BALTHASAR
+        - name: <a class="bolded">Hitomi Kaga</a><br>Director of Production
+        - name: <a class="bolded">First Lt. Maya Ibuki</a><br>Head Bridge Technician
+        - name: <a class="bolded">First Lt. Shigeru Aoba</a><br>Head Bridge Technican
+        - name: <a class="bolded">Mari Vincennes</a><br>International Advisor on Production and Research
+        - name: <a class="bolded">Ryoji Kaji</a><br>Special Inspector
+        - name: <a class="bolded">Kyoya Kenzaki</a><br>Head of the NERV Intellegence Department
+        - name: <a class="bolded">Hajime Suruga</a><br>Member of the International NERV Intellegence Community
+        - name: <a class="bolded">Shoichi "Hawk" Takaenoki</a><br>Representative to the Marduk Institute
+        - name: <a class="bolded">Natsuko "Weather Girl" Shinohara</a><br>Director of Media
+ 
+ 
     - title: "Lord of the Flies: Devise or Demise"
       url: LOTF
       image: lotf.jpg
@@ -94,6 +407,33 @@
       <br><br>
       After a plash crash, a group of miscellaneous characters across dystopias find themselves on an isolated island – liberated from all social order. A retelling of the classic “stranded on a deserted area” cliche, this “Lord of the Flies” committee interrogates what makes us human, and how we act when there are no rules. With all power up for grabs at the start of the committee, each delegate is free to pursue their goals – whether it be a social organization or complete chaos and violence."
       role-type-singular: Character
+      role-type: Characters
+      roles:
+        - name: <a class="bolded">Ralph</a><br>LOTF
+        - name: <a class="bolded">Roger</a><br>LOTF
+        - name: <a class="bolded">Paul (formerly known as Piggy)</a><br>LOTF
+        - name: <a class="bolded">Jack</a><br>LOTF
+        - name: <a class="bolded">Simon</a><br>LOTF
+        - name: <a class="bolded">Samneric</a><br>LOTF
+        - name: <a class="bolded">Percival Wemys Madison</a><br>LOTF
+        - name: <a class="bolded">John Yossarian</a><br>Catch-22
+        - name: <a class="bolded">Albert Tappman (The Chaplain)</a><br>Catch-22
+        - name: <a class="bolded">Alma Coin</a><br>The Hunger Games
+        - name: <a class="bolded">Coriolanus Snow</a><br>The Hunger Games
+        - name: <a class="bolded">Han Mi-nyeo</a><br>Squid Game
+        - name: <a class="bolded">Seong Gi-hun</a><br>Squid Game
+        - name: <a class="bolded">Cho Sang-woo</a><br>Squid Game
+        - name: <a class="bolded">Newt</a><br>The Maze Runner
+        - name: <a class="bolded">Minho</a><br>The Maze Runner
+        - name: <a class="bolded">Clover</a><br>Animal Farm
+        - name: <a class="bolded">Benjamin</a><br>Animal Farm
+        - name: <a class="bolded">Old Major</a><br>Animal Farm
+        - name: <a class="bolded">Alex</a><br>A Clockwork Orange
+        - name: <a class="bolded">Shuya Nanahara</a><br>Battle Royale
+        - name: <a class="bolded">Bernard Marx</a><br>Brave New World
+        - name: <a class="bolded">Mel Medarda</a><br>Arcane
+        - name: <a class="bolded">Silco</a><br>Arcane 
+ 
       topics:
         - title: "Topic A - Peter Piper Picked a Pecking Order"
           desc: "Without a hierarchy, the group is doomed to descend into chaos; a lack of efficient allocation of food, water, and resources, will push many members of the group to instigate fights amongst each other. The question of government, and more essentially, who will be the leader, has become pressing and substantial. Someone needs to step up to the plate. Do you have what it takes to realize your goals?"
@@ -107,6 +447,34 @@
       <br><br>
       A violent war is declared and nations scramble to defend their livelihoods. The world is thrown into chaos and the very person responsible for maintaining their fragile balance has disappeared. What are the people to do without the avatar? How will they survive amidst a total war and defend against a ruthless enemy keen on a fascist takeover? Delegates, the fate of the world is in your hands. You must win the war at all costs, but not before yourselves. Will you become the worldwide saviour, or choose a different path?"
       role-type-singular: Character
+      role-type: Characters
+      roles:
+        - name: Master Paku
+        - name: Yakone
+        - name: Kanna
+        - name: Princess Yue
+        - name: Hama
+        - name: Taqukaq
+        - name: Hakoda
+        - name: Gran Gran (Spy)
+        - name: Bumi
+        - name: Long Feng
+        - name: General Fong
+        - name: Minister Faa
+        - name: Lao Ge
+        - name: YouLang
+        - name: Earth King Kuei
+        - name: Cabbage Man (Spy)
+        - name: June
+        - name: Khandro
+        - name: Afiko (Spy)
+        - name: Monk Gyatso
+        - name: Anada
+        - name: Malu
+        - name: Youdron (Spy)
+        - name: Norbu
+        - name: Guru Pathik
+ 
       topics:
         - title: "Topic A - Mine, Mine, Mine"
           desc: "With the world government in panic, the expansion of the fire nation is unquestionable. Land borders are being redrawn, villages occupied, benders kidnapped and supplies taken. The fire nation is creeping upon every nation. Without across-world contact with other nations and struggling domestic populations, what can be done? Every nation left standing needs a plan, if unsuccessful, they will meet their fiery demise."
@@ -118,6 +486,32 @@
       image: SCP.jpg
       description: "The SCP Foundation is a secret organization that aims to secure anomalous objects, contain them, and study them to see what values they hold to benefit humanity. Contained anomalies or “SCPs” have Object Classes that indicate how hard they are to contain. There are three main classes, along with a couple of miscellaneous ones which won’t be mentioned. “Safe”, meaning the SCP is easy to contain. A simple box to contain the SCP would be an example of a Safe object class. “Euclid”, meaning the SCP is harder to contain, reasons for the difficulty of containment can be due to our lack of knowledge of the SCP, or just the simple fact that the SCP is a bit feisty. The most dangerous, “Keter”, takes extensive resources and planning to contain, often not containing them correctly due to the lack of understanding of the SCP. Some SCPs are so hard to contain in fact, that the SCP foundation simply can not, and some SCPs simply break containment. These SCPs will be the star of this committee, taking in the form of the topics delegates will need to discuss. In this committee, delegates will take the roles of scientists/various other roles with the highest clearance, allowing freedom to do whatever they so desire."
       role-type-singular: Character
+      role-type: Characters
+      roles:
+        - name: Dr. Charles Anborough
+        - name: Dr. Jack Bright
+        - name: Dr. Django Bridge
+        - name: Dr. Alto Clef
+        - name: Dr. Gears
+        - name: Dr. Sophia Light
+        - name: Dr. Simon Glass
+        - name: Dr. Frederick Heiden
+        - name: Dr. Katherine Sinclair
+        - name: Dr. Zyn Kiryu
+        - name: Dr. Sam “Levi” Leviticus
+        - name: Dr. Adam Leeward
+        - name: Dr. Everett Mann
+        - name: Dr. Jessie Rivera
+        - name: Dr. Chelsea "Photosynthetic" Elliott
+        - name: Researcher Rose Labelle
+        - name: Technical Researcher David Rosen
+        - name: Researcher Greg Chudley
+        - name: Researcher Jacob Conwell
+        - name: Director Allan James McInnis
+        - name: Director Emerald Reynolds
+        - name: Director Vincent Bohart
+        - name: Director Calvin Bold
+ 
       topics:
         - title: "That Wasn’t There Before: SCP-1730"
           desc: "On ██/██/████, a mysterious site that has never been seen before appeared near Big Bend Ranch State Park in Texas, USA. Although in the story online, the SCP has been neutralised. In our timeline, this is not the case, and whatever lurks within continues to do so, with the survivors. To be clear, investigations have not yet been conducted, and mobile task forces have not been sent down yet. The way this SCP will be dealt with will be decided upon and discussed by the delegates."
@@ -133,6 +527,27 @@
     image: NY.jpg
     description: "The 1930 New York Underworld is a committee of prominent crime bosses, mobsters, hitmen, moles, and corrupt public figures working toward their respective interests. Broadly, the congregation serves as a platform to forge alliances and create consensus or compromise on critical issues afflicting the criminal society. However, the matter of who to trust is a precarious task with betrayals, blackmail, and bribery rampant. Meanwhile, Long-neglected tensions internal and external to gangs threaten to start the most bloody conflict the New York streets have hitherto seen. Will accord be found? If not, who will be found left standing?"
     role-type-singular: Character
+    role-type: Characters
+    roles:
+      - name: Lucky Luciano
+      - name: Meyer Lansky
+      - name: Vincent Coll
+      - name: Joe Masseria
+      - name: Salvatore Maranzano
+      - name: Benjamin Siegel
+      - name: Frank Costello
+      - name: Dutch Schultz
+      - name: Jack Diamond
+      - name: Joey Noe
+      - name: Mae West
+      - name: Vito Genovese
+      - name: James Hines
+      - name: Albert Anastasia
+      - name: Vincent Mangano
+      - name: Owney Madden
+      - name: Harry Maione
+      - name: Joe Adonis
+
     topics:
       - title: "Topic A - Castellamarese War"
         desc: "Reina is dead, and his men are now Maranzano’s. Masseria, once the undisputed king of the New York Underworld, is seeing the beginning of his empire’s crumble at the hands of a rising challenger: Salvatore Maranzano. More defections will be coming if Masseria doesn’t take action immediately, but is pulling out all his guns and allies the select move? And who is he sure will fight for him? For Maranzano? Increasing dissent among mobsters, especially the newer ‘Young Turks,’ along with power-hungry rival criminal organizations could mean a multi-faceted war which anybody could emerge victorious from."
@@ -148,6 +563,30 @@
     <br><br>
     Princess Diana has tragically passed away, leaving the world in intense grief. While a stiff upper lip must be maintained under the public’s sharp gaze, behind closed doors the Windsor's are still reeling from the shock of her death. Pressure continues to build from all sides as the Family & their staff must navigate this ever-changing landscape… and when pressure builds, sometimes the only thing left to do is turn on one another"
     role-type-singular: Character
+    role-type: Characters
+    roles:
+      - name: Prince Charles
+      - name: Camilla Parker Bowles
+      - name: Prince William
+      - name: Prince Harry
+      - name: Patrick Jephson
+      - name: Charles Spencer
+      - name: Queen Elizabeth, The Queen Mother
+      - name: Princess Margaret
+      - name: Mohamed Al-Fayed
+      - name: Tony Blair
+      - name: Prince Phillip
+      - name: Simon Lewis
+      - name: Lord Fellowes
+      - name: Sarah Spencer
+      - name: Cynthia Jane Fellowes
+      - name: Geoffrey Crawford
+      - name: Prince Edward
+      - name: Prince Andrew
+      - name: Princess Anne
+      - name: Michael Gibbins
+      - name: Anne Beckwith Smith
+
     topics:
       - title: "Topic A: Public perception"
         desc: "The Royal Family has found itself immensely unpopular with the public after their seemingly cold response to the death of Diana. The media are taking every opportunity possible to push their way into the palace walls. With all this negative attention compounding, the public is beginning to question more than ever before: do the people at the forefront of the most powerful Monarchy in the entire world even deserve to be there?"
@@ -163,6 +602,26 @@
     <br>
     History is watching—are you ready to take command?"
     role-type-singular: Character
+    role-type: Characters
+    roles:
+      - name: George Washington
+      - name: John Adams
+      - name: Samuel Adams
+      - name: Benjamin Franklin
+      - name: John Hancock
+      - name: Thomas Jefferson
+      - name: Joseph Warren
+      - name: Nathanael Greene
+      - name: Paul Revere
+      - name: Alexander Hamilton
+      - name: Benedict Arnold
+      - name: Henry Knox
+      - name: John Dickinson
+      - name: Aaron Burr
+      - name: Abigail Adams
+      - name: Mercy Otis Warren
+      - name: Martha Washington
+
     topics:
       - title: "Topic A - Reconciliation"
         desc: "As tensions rise following the battle of Lexington and Concord, the Continental Congress is divided. Some believe that war with Britain can and should be avoided, advocating for a diplomatic approach to address issues while still being loyal to the Crown. Although reconciliation is the more measured path to avoid the uncertainty and consequences of war, will negotiation be enough to address the colonies’ problems?"
@@ -176,6 +635,28 @@
     <br><br>
     During this committee, delegates will take on the role of Polish politicians, government officials, and military officers as they work together to establish Poland’s borders and decide its future. Their primary objective will be to ensure the creation of a strong Polish state with borders as close as possible to those of the Polish-Lithuanian Commonwealth. Meanwhile, the secondary objective of delegates would be to ensure that this Polish state conforms to their character’s ideology."
     role-type-singular: Character
+    role-type: Characters
+    roles:
+      - name: <a class="bolded">Ignacy Paderewski</a><br>prime minister of Poland and minister of foreign affairs.
+      - name: <a class="bolded">Józef Piłsudski</a><br>head of the military and chief of state
+      - name: <a class="bolded">Roman Dmowski</a><br>Polish diplomat and rival to Piłsudski
+      - name: <a class="bolded">Antony Mińkiewicz</a><br>minister of provisioning
+      - name: <a class="bolded">Julian Eberhardt</a><br>minister of communication
+      - name: <a class="bolded">Kazmierz Hącia</a><br>minister of industry and trade
+      - name: <a class="bolded">Joseph Englich</a><br>minister of the state treasury
+      - name: <a class="bolded">Stanislaw Wojciechowski</a><br>minister of the interior
+      - name: <a class="bolded">Jan Wroczyński</a><br>minister of defence
+      - name: <a class="bolded">Leon Supinski</a><br>minister of justice
+      - name: <a class="bolded">Władysław Grabski</a><br>right wing politician and diplomat
+      - name: <a class="bolded">Józef Haller</a><br>commander of the Blue Army
+      - name: <a class="bolded">Wacław Iwaszkiewicz</a><br>lieutenant general
+      - name: <a class="bolded">Wojciech Kofanty</a><br>leader of the ZLN party
+      - name: <a class="bolded">Błażej Stolarski</a><br>leader of the Polish Peasant’s Party “Liberation”
+      - name: <a class="bolded">Wincenty Witos</a><br>leader of the Polish Peasant’s Party “Piast”
+      - name: <a class="bolded">Ignacy Daszyński</a><br>leader of the Polish Socialist Party
+      - name: <a class="bolded">Janusz Franciszek Radziwiłł</a><br>magnate and politician
+
+
     topics:
       - title: "Topic A - Establishing Poland’s Borders"
         desc: "Poland once ruled a great empire, spanning from the Black Sea to the Baltic.  Although much of this territory is not inhabited by ethnic Poles, Polish minorities are scattered throughout the region. Some politicians dream of restoring Poland to its former sized, while others decry this as unrealistic. From its base in Warsaw, the Polish government must decide how much land they wish to claim. Will you abandon your countrymen, or will you risk the entire nation to include them?"
@@ -189,6 +670,33 @@
     <br><br>
     There was once a time when The Boeing Company held a reputation so strong that this saying became common among loyal flyers. It was the pioneering force in the aviation industry, shaping the very future of flight with its groundbreaking engineering. However, today, the company finds itself in an exceedingly different place. Following two fatal crashes of its 737 MAX aircraft killing hundreds, Boeing is under sharp criticism from the U.S. Federal Aviation Administration, Congress, pilot and airline unions, and its shareholders. As members of the company’s Board of Directors, you are tasked with attempting to pull Boeing out of its current scandal to minimize financial losses and damage to its reputation. If successful, you could restore the confidence that once made Boeing a symbol of safety and glorious innovation in aviation."
     role-type-singular: Character
+    role-type: Characters
+    roles:
+      - name: Robert A. Bradway
+      - name: David Calhoun
+      - name: Arthur Collins Jr.
+      - name: Edmund Giambastiani Jr.
+      - name: Lynn Good
+      - name: Nikki Haley
+      - name: Lawrence Kellner
+      - name: Caroline Kennedy
+      - name: Edward Liddy
+      - name: Dennis Muilenburg
+      - name: John Richardson
+      - name: Susan Schwab
+      - name: Ronald Williams
+      - name: Mike Zafirovski
+      - name: Larry Kellner
+      - name: Greg Smith
+      - name: Greg Hyslop
+      - name: Brian Bryant
+      - name: Dora Cervantes
+      - name: Chris Griswold
+      - name: John Dimas
+      - name: Oscar Munoz
+      - name: Doug Parker
+      - name: Gary C. Kelly
+
     topics:
       - title: "Topic A - Safety Failures"
         desc: "When Lion Air Flight 610, a B737 MAX-8 aircraft crashed into the Java Sea in October of 2018, it was the deadliest air accident involving all variants of the Boeing 737. Just a few months later, Ethiopian Airlines Flight 302, operated by the same aircraft, crashed six minutes after takeoff. Following these two crashes, intense turmoil was sparked on a global scale. Boeing's safety practices and regulatory oversight were consequently put into severe question. You, delegates,  must determine and address the root causes of these crashes as well as their repercussions on the broader airline industry. You must determine which parties are to blame and make instrumental decisions that will forever shape the future of The Boeing Company."
@@ -202,15 +710,73 @@
       to-404: ""
       image: UNHRC.jpg
       description: "Coming soon"
-      role-type-singular: Country
+      role-type-singular: Character
+      role-type: Characters
+      roles:
+        - name: 1
+        - name: 2
+        - name: 3
+        - name: 4
+        - name: 5
+        - name: 6
+        - name: 7
+        - name: 8
+        - name: 9
+        - name: 10
+        - name: 11
+        - name: 12
+        - name: 13
+        - name: 14
+        - name: 15
+        - name: 16
+        - name: 17
+        - name: 18
+        - name: 19
+        - name: 20
+        - name: 21
+        - name: 22
+        - name: 23
+        - name: 24
+ 
 
     - title: "ESL Committee: Food and Agriculture Organization"
       url: ESL
       image: ESL.jpg
       description: "Established in 1945, the Food and Agriculture Organization of the United Nations leads the global effort to defeat hunger and malnutrition, with a particular focus on food security for all. Being the leading UN organization in agriculture, better nutrition, and rural development, FAO takes center stage in efforts toward resolving food scarcity, environmental degradation, ethical responsibilities, and inequality in food distribution. As a specialized agency, delegates in the FAO will explore sustainable food systems, and work on generating reliable production that delivers efficiency and conservation."
+      roles:
+        - name: Argentina
+        - name: Australia
+        - name: Bangladesh
+        - name: Brazil
+        - name: Canada
+        - name: Chile
+        - name: China
+        - name: Egypt
+        - name: Ethiopia
+        - name: France
+        - name: Germany
+        - name: India
+        - name: Indonesia
+        - name: Iran
+        - name: Italy
+        - name: Japan
+        - name: Kenya
+        - name: Mexico
+        - name: Nigeria
+        - name: Pakistan
+        - name: Russia
+        - name: Saudi Arabia
+        - name: South Africa
+        - name: Turkey
+        - name: Ukraine
+        - name: United Kingdom
+        - name: United States
+        - name: Vietnam
+ 
       topics:
         - title: "Topic A - Combating Food Insecurity in Developing Nations"
           desc: "Food insecurity remains a challenge that most developing nations are facing, where millions of people are continuously suffering from hunger and malnutrition problems due to poverty, climate change, conflict, and poor agricultural infrastructure. This topic will try to engage in how international cooperation can solve food insecurity at its root causes. In this case, it will bring about the use of sustainable agricultural methods, equitable distribution of food, and recognition of policies that enhance access to resources, technology, and education. The aim will be the creation of comprehensive solutions that will deliver urgent relief but at the same time build resilience against hunger in the longer term in the most vulnerable regions."
         - title: "Topic B - Improving Ethical Livestock Management Practices"
           desc: "Ethical livestock management is crucial for ensuring animal welfare, sustainability, and economic viability. As global meat production continues to rise, delegates must consider the ethical implications of sustainable agricultural practices. The FAO committee will address several issues within the livestock management industry, including the environmental impacts, inhumane treatment, and challenges within industrialization. While considering the economic value of the current livestock interphase, this topic will delve into the dilemma of whether profitable margins overrule animal welfare. Overall, delegates will address the ethical principles and moral responsibilities in livestock management."
       role-type-singular: Country
+      role-type: Countries
