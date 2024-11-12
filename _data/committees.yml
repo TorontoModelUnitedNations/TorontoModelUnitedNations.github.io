@@ -456,11 +456,9 @@
         - name: Hama
         - name: Taqukaq
         - name: Hakoda
-        - name: Gran Gran
         - name: Bumi
         - name: Long Feng
         - name: General Fong
-        - name: Minister Faa
         - name: Lao Ge
         - name: YouLang
         - name: Earth King Kuei
@@ -474,6 +472,7 @@
         - name: Youdron
         - name: Norbu
         - name: Guru Pathik
+        - name: Chief Arnook
  
       topics:
         - title: "Topic A - Mine, Mine, Mine"
@@ -688,14 +687,14 @@
       - name: Mike Zafirovski
       - name: Larry Kellner
       - name: Greg Smith
+      - name: J. Michael Luttig
       - name: Greg Hyslop
-      - name: Brian Bryant
-      - name: Dora Cervantes
-      - name: Chris Griswold
-      - name: John Dimas
-      - name: Oscar Munoz
-      - name: Doug Parker
-      - name: Gary C. Kelly
+      - name: Stephanie Pope
+      - name: William A. Ampofo II
+      - name: Uma Amuluru
+      - name: Michael Delaney
+      - name: Mike Fleming
+      - name: Brett C. Gerry
 
     topics:
       - title: "Topic A - Safety Failures"
