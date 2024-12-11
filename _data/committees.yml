@@ -706,7 +706,7 @@
 
 - header: Specialty
   links: 
-    - title: Ad-Hoc
+    - title: Ad Hoc
       url: adhoc
       to-404: ""
       image: UNHRC.jpg
