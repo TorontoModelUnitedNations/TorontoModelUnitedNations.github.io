@@ -636,26 +636,26 @@
     role-type-singular: Character
     role-type: Characters
     roles:
-      - name: <a class="bolded">Ignacy Paderewski</a><br>prime minister of Poland and minister of foreign affairs.
-      - name: <a class="bolded">Józef Piłsudski</a><br>head of the military and chief of state
-      - name: <a class="bolded">Roman Dmowski</a><br>Polish diplomat and rival to Piłsudski
-      - name: <a class="bolded">Antony Mińkiewicz</a><br>minister of provisioning
-      - name: <a class="bolded">Julian Eberhardt</a><br>minister of communication
-      - name: <a class="bolded">Kazmierz Hącia</a><br>minister of industry and trade
-      - name: <a class="bolded">Stanisław Szeptycki</a><br>chief of the general staff
-      - name: <a class="bolded">Joseph Englich</a><br>minister of the state treasury
-      - name: <a class="bolded">Stanislaw Wojciechowski</a><br>minister of the interior
-      - name: <a class="bolded">Jan Wroczyński</a><br>minister of defence
-      - name: <a class="bolded">Leon Supinski</a><br>minister of justice
-      - name: <a class="bolded">Władysław Grabski</a><br>right wing politician and diplomat
-      - name: <a class="bolded">Józef Haller</a><br>commander of the Blue Army
-      - name: <a class="bolded">Wacław Iwaszkiewicz</a><br>lieutenant general
-      - name: <a class="bolded">Wojciech Kofanty</a><br>leader of the ZLN party
+      - name: <a class="bolded">Józef Piłsudski</a><br>Head of the Military and Chief of State
+      - name: <a class="bolded">Ignacy Paderewski</a><br>Prime Minister of Poland and Minister of Foreign Affairs.
+      - name: <a class="bolded">Roman Dmowski</a><br>Polish Diplomat and Rival to Piłsudski
+      - name: <a class="bolded">Józef Haller</a><br>Commander of the Blue Army
+      - name: <a class="bolded">Stanislaw Wojciechowski</a><br>Minister of the Interior
+      - name: <a class="bolded">Wojciech Kofanty</a><br>Leader of the ZLN Party
       - name: <a class="bolded">Błażej Stolarski</a><br>leader of the Polish Peasant’s Party “Liberation”
-      - name: <a class="bolded">Wincenty Witos</a><br>leader of the Polish Peasant’s Party “Piast”
-      - name: <a class="bolded">Izaak Grunbaum</a><br>leader of the ZRN party
-      - name: <a class="bolded">Ignacy Daszyński</a><br>leader of the Polish Socialist Party
-      - name: <a class="bolded">Janusz Franciszek Radziwiłł</a><br>magnate and politician
+      - name: <a class="bolded">Wincenty Witos</a><br>Leader of the Polish Peasant’s Party “Piast”
+      - name: <a class="bolded">Izaak Grunbaum</a><br>Leader of the ZRN Party
+      - name: <a class="bolded">Ignacy Daszyński</a><br>Leader of the Polish Socialist Party
+      - name: <a class="bolded">Janusz Franciszek Radziwiłł</a><br>Magnate and Politician
+      - name: <a class="bolded">Jan Wroczyński</a><br>Minister of Defence
+      - name: <a class="bolded">Leon Supinski</a><br>Minister of Justice
+      - name: <a class="bolded">Władysław Grabski</a><br>Right Wing Politician and Diplomat
+      - name: <a class="bolded">Wacław Iwaszkiewicz</a><br>Lieutenant-General
+      - name: <a class="bolded">Stanisław Szeptycki</a><br>Chief of the General Staff
+      - name: <a class="bolded">Kazmierz Hącia</a><br>Minister of Industry and Trade
+      - name: <a class="bolded">Antony Mińkiewicz</a><br>Minister of Provisioning
+      - name: <a class="bolded">Julian Eberhardt</a><br>Minister of Communication
+      - name: <a class="bolded">Joseph Englich</a><br>Minister of the State Treasury
 
 
     topics:
