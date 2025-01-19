@@ -699,9 +699,27 @@
 
     topics:
       - title: "Topic A - Safety Failures"
-        desc: "When Lion Air Flight 610, a B737 MAX-8 aircraft crashed into the Java Sea in October of 2018, it was the deadliest air accident involving all variants of the Boeing 737. Just a few months later, Ethiopian Airlines Flight 302, operated by the same aircraft, crashed six minutes after takeoff. Following these two crashes, intense turmoil was sparked on a global scale. Boeing's safety practices and regulatory oversight were consequently put into severe question. You, delegates,  must determine and address the root causes of these crashes as well as their repercussions on the broader airline industry. You must determine which parties are to blame and make instrumental decisions that will forever shape the future of The Boeing Company."
+        desc: "In the aftermath of the 737 MAX crisis, Boeing is under intense scrutiny for the
+        engineering flaws and safety lapses that led to two fatal crashes. Before all else, the Board of
+        Directors must take immediate and comprehensive action to overhaul Boeing’s internal practices,
+        ensuring that failures in engineering are resolved and that the company can restore its reputation
+        for safety and engineering excellence."
       - title: "Topic B - Company Growth"
-        desc: "Historically, Boeing and Airbus, a European planemaker, have been engaged in a dynamic and competitive duopoly in the aerospace industry. Recent setbacks Boeing has had to face, namely the current scandal have aggressively hindered its ability to compete effectively with Airbus. Capitalizing on these complications, Airbus has seen a notable increase in market share, with bolstered sales of its own aircrafts. To ensure the long-term survival and prosperity of The Boeing Company, delegates must not only address its current scandal but also implement a strategy to effectively counter Airbus’ competitive advances to reclaim Boeing’s position as the leader in the industry."
+        desc: "With the MAX’s safety thrown into question by these crashes, regulators are furiously
+        awaiting Boeing’s justifications for these crashes, and Boeing has begun to lose the credibility it
+        once held onto so tightly. Besides the obvious engineering faults that need to be resolved
+        internally within the company, external threats that threaten the company’s livelihood also exist.
+        Thus, it is essential that the Board devotes its efforts to engaging transparently with the aircraft
+        regulators, managing the media fallout to regain credibility, and negotiating effectively with
+        airlines. Firstly, regulatory bodies such as the FAA and international aviation authorities are
+        expected to investigate Boeing’s compliance with safety standards and certification protocols.
+        Secondly, skepticism surrounding the company’s commitment to safety and accountability has
+        severely impacted public confidence. At the same time, media coverage and stakeholder
+        concerns have intensified, creating additional reputational risks and directly affecting
+        shareholders' view of the company. Thirdly, major customers of Boeing are contemplating the
+        cancellation or suspension of their orders for MAX aircraft, citing safety concerns and a worry
+        about Boeing’s ability to resolve the issues. Cancelled orders and halted deliveries will threaten
+        long-term revenue streams, causing significant financial strain for Boeing."
 
 - header: Specialty
   links: 
