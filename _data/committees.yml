@@ -243,7 +243,7 @@
       topics:
         - title: "Topic A - Implementation of a Weighted Voting System Globally"
           desc: "Voting is one of the basic human rights which can't be denied to every human being, but in a few countries voting rights are denied for a few reasons mainly for Criminal Records. This is implemented in a few countries to prevent criminals from voting for the wrong leader of the country. The same goes for weighted voting systems where an individual's vote will count less the older they get in order to give way to the young individuals to choose the right leader to sustain the current period of time and in the future where the young individuals are the ones going to experience under a government in the long term."
-        - title: "Allowing minors the rights of adults according to an individual’s Intelligence Quotient (IQ)"
+        - title: "Topic B - Allowing minors the rights of adults according to an individual’s Intelligence Quotient (IQ)"
           desc: "Minors' ages in several countries differ according to each country’s different policies and political backgrounds such as the Minor Consent age in few countries is different from several other countries. In a scenario of a minor with no parents but in that country the minor has not reached the appropriate independent action age, that specific minor would not be able to access basic needs without their parents’ consent such as education, health care, etc. In several countries, minors are asked to consent to medical treatment as the minor knows better what's going on."
 
     - title: African Union
@@ -587,9 +587,9 @@
       - name: Anne Beckwith Smith
 
     topics:
-      - title: "Topic A: Public perception"
+      - title: "Topic A - Public perception"
         desc: "The Royal Family has found itself immensely unpopular with the public after their seemingly cold response to the death of Diana. The media are taking every opportunity possible to push their way into the palace walls. With all this negative attention compounding, the public is beginning to question more than ever before: do the people at the forefront of the most powerful Monarchy in the entire world even deserve to be there?"
-      - title: "Topic B: Change Within the Family"
+      - title: "Topic B - Change Within the Family"
         desc: "When pressure builds from the outside in, it will naturally build from the inside out. Blame is being thrown around to every member of the Royal Family and their staff as panic begins to set in. What has always defined the Royals has been the aura of mystery that seems to surround them… but now, the public is demanding something far more difficult to provide: vulnerability. You must decide if the family will stick with tradition and risk being viewed as cold, or change with the times and risk being viewed as human, something that could prove to be far more dangerous."
 
   - title: "1775: The Dawn of Revolution"
