@@ -241,10 +241,10 @@
        - name: Costa Rica
 
       topics:
-        - title: "Topic A -  Implementation of a Weighted Voting System Globally"
-          desc: "Voting is one of the basic human rights which can't be denied to every human being, but in a few countries voting rights are denied for a few reasons mainly for Criminal Records. This is implemented in a few countries to prevent criminals from voting for the wrong leader of the country. The same goes for weighted voting systems where an individual's vote will count less the older they get in order to give way to the young individuals to choose the right leader to sustain the current period of time and in the future where the young individuals are the ones going to experience under a government in the long term."
-        - title: "Topic B - Allowing minors the rights of adults according to an individual’s Intelligence Quotient (IQ)"
-          desc: "Minors' ages in several countries differ according to each country’s different policies and political backgrounds such as the Minor Consent age in few countries is different from several other countries. In a scenario of a minor with no parents but in that country the minor has not reached the appropriate independent action age, that specific minor would not be able to access basic needs without their parents’ consent such as education, health care, etc. In several countries, minors are asked to consent to medical treatment as the minor knows better what's going on."
+        - title: "Topic A - Civilians at risk in Global Conflict Zones"
+          desc: "Civilians have increasingly become the primary victims in modern armed conflicts, facing direct attacks, displacement, starvation, and lack of access to medical aid. International humanitarian law (IHL), primarily codified through the Geneva Conventions, emphasizes the protection of civilians, but its implementation remains challenging amid asymmetric warfare and urban conflicts. Recent crises, such as the Israeli-Palestinian conflict in Gaza and the ongoing war in Ukraine, have exposed systemic failures to ensure the safety of non-combatants, exacerbated by inadequate international enforcement mechanisms and a lack of political will among states."
+        - title: "Topic B - Gender Based Violence"
+          desc: "The United Nations defines gender-based violence (GBV) as acts that inflict physical, mental, sexual harm or suffering, threats of such acts, coercion, and other deprivations of liberty. GBV is violence directed at an individual based on their gender, and it is deeply rooted in societal power imbalances. In recent years, it has increasingly affected LGBTQ+ individuals, raising concerns about their right to life, liberty, and freedom."
 
     - title: African Union
       url: africa
