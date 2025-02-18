@@ -344,17 +344,20 @@
         - name: Agent Herschel
         - name: Agent Jenner
         - name: Agent Kelvin
+        - name: Agent Imes
         - name: Agent Linnaeus
         - name: Agent Mendel
         - name: Agent Nobel
         - name: Agent Ostwald
         - name: Agent Pascal
+        - name: Agent Quinn
         - name: Agent Ross
         - name: Agent Stevens
         - name: Agent Thomson
         - name: Agent Urey
         - name: Agent Volta
         - name: Agent Wallace
+        - name: Agent Yalow
 
       topics:
         - title: "Topic A - Humanity’s Ignorance"
