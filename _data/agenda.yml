@@ -23,7 +23,7 @@
   events:
     - time: "9:45 AM - 11:15 AM"
       info: "<u>Committee Session 3</u><br>"
-    - time: "11:00 AM - 11:30 AM"
+    - time: "11:15 AM - 11:30 AM"
       info: "<u>Break</u><br>"
     - time: "11:30 AM - 1:00 PM"
       info: "<u>Committee Session 4</u><br>"
